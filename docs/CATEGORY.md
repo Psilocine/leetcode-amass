@@ -4,4 +4,4 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
-| 1. [两数之和](../../amass/1-two-sum/README.md) | 简单 |
+| 1. [两数之和](../amass/1-two-sum/README.md) | 简单 |

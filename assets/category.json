@@ -5,7 +5,7 @@
       {
         "id": 1,
         "title": "两数之和",
-        "path": "../../amass/1-two-sum/README.md",
+        "path": "../amass/1-two-sum/README.md",
         "difficulty": "简单"
       }
     ]

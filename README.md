@@ -16,4 +16,4 @@ pnpm run update
 
 ### License
 
-[MIT](./LICENSE) Copyright (c) 2021 Dewey Ou
+[MIT](./LICENSE)

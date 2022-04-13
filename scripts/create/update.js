@@ -3,7 +3,7 @@ const path = require("path");
 const { log } = require("../utils/log");
 
 const getPath = (p) => {
-  return path.resolve(path.resolve(__dirname, "../../"), p);
+  return path.resolve(path.resolve(__dirname, "../"), p);
 };
 
 const checkHasPath = (path) => {
@@ -26,9 +26,8 @@ const createProject = (name) => {
 
 const updateReadMeMarkdown = (problems) => {
   let md = "# 题库目录";
-
   problems.forEach((problem) => {
-    md += `\r\n\r\n[${problem.id}. ${problem.title.cn}](../../amass/${problem.title.en}/README.md)`;
+    md += `\r\n\r\n[${problem.id}. ${problem.title.cn}](../amass/${problem.title.en}/README.md)`;
   });
   const problemMarkdownPath = "./docs/PROBLEMS.md";
   fs.writeFileSync(getPath(problemMarkdownPath), md);
@@ -45,7 +44,7 @@ const updateDataJson = ({ cn, en, difficulty, url, id }) => {
     },
     difficulty,
     url,
-    path: `../../amass/${en}/README.md`,
+    path: `../amass/${en}/README.md`,
   });
   arr.sort((a, b) => a.id - b.id);
 
