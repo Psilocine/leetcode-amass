@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "cn": "两数之和",
+      "en": "1-two-sum"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/two-sum/",
+    "path": "../../amass/1-two-sum/README.md"
+  }
+]

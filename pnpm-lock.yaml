@@ -1,0 +1,1089 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@types/node': ^17.0.23
+  chalk: ^4.1.2
+  clear: ^0.1.0
+  execa: ^6.1.0
+  figlet: ^1.5.2
+  inquirer: ^8.2.2
+  typescript: ^4.6.3
+  vite: ^2.9.1
+  vitest: ^0.9.3
+
+devDependencies:
+  '@types/node': 192.168.14.11+8888/@types/node/17.0.23
+  chalk: 192.168.14.11+8888/chalk/4.1.2
+  clear: 192.168.14.11+8888/clear/0.1.0
+  execa: 192.168.14.11+8888/execa/6.1.0
+  figlet: 192.168.14.11+8888/figlet/1.5.2
+  inquirer: 192.168.14.11+8888/inquirer/8.2.2
+  typescript: 192.168.14.11+8888/typescript/4.6.3
+  vite: 192.168.14.11+8888/vite/2.9.1
+  vitest: 192.168.14.11+8888/vitest/0.9.3
+
+packages:
+
+  192.168.14.11+8888/@types/chai-subset/1.3.3:
+    resolution: {integrity: sha512-frBecisrNGz+F4T6bcc+NLeolfiojh5FxW2klu669+8BARtyQv2C/GkNW6FUodVe4BroGMP/wER/YDGc7rEllw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/@types%2fchai-subset/-/chai-subset-1.3.3.tgz}
+    name: '@types/chai-subset'
+    version: 1.3.3
+    dependencies:
+      '@types/chai': 192.168.14.11+8888/@types/chai/4.3.0
+    dev: true
+
+  192.168.14.11+8888/@types/chai/4.3.0:
+    resolution: {integrity: sha512-/ceqdqeRraGolFTcfoXNiqjyQhZzbINDngeoAq9GoHa8PPK1yNzTaxWjA6BFWp5Ua9JpXEMSS4s5i9tS0hOJtw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/@types%2fchai/-/chai-4.3.0.tgz}
+    name: '@types/chai'
+    version: 4.3.0
+    dev: true
+
+  192.168.14.11+8888/@types/node/17.0.23:
+    resolution: {integrity: sha512-UxDxWn7dl97rKVeVS61vErvw086aCYhDLyvRQZ5Rk65rZKepaFdm53GeqXaKBuOhED4e9uWq34IC3TdSdJJ2Gw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/@types%2fnode/-/node-17.0.23.tgz}
+    name: '@types/node'
+    version: 17.0.23
+    dev: true
+
+  192.168.14.11+8888/ansi-escapes/4.3.2:
+    resolution: {integrity: sha1-ayKR0dt9mLZSHV8e+kLQ86n+tl4=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/ansi-escapes/-/ansi-escapes-4.3.2.tgz}
+    name: ansi-escapes
+    version: 4.3.2
+    engines: {node: '>=8'}
+    dependencies:
+      type-fest: 192.168.14.11+8888/type-fest/0.21.3
+    dev: true
+
+  192.168.14.11+8888/ansi-regex/5.0.1:
+    resolution: {integrity: sha1-CCyyyJyf6GWaMRpTvWpNxTAdswQ=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/ansi-regex/-/ansi-regex-5.0.1.tgz}
+    name: ansi-regex
+    version: 5.0.1
+    engines: {node: '>=8'}
+    dev: true
+
+  192.168.14.11+8888/ansi-styles/4.3.0:
+    resolution: {integrity: sha1-7dgDYornHATIWuegkG7a00tkiTc=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/ansi-styles/-/ansi-styles-4.3.0.tgz}
+    name: ansi-styles
+    version: 4.3.0
+    engines: {node: '>=8'}
+    dependencies:
+      color-convert: 192.168.14.11+8888/color-convert/2.0.1
+    dev: true
+
+  192.168.14.11+8888/assertion-error/1.1.0:
+    resolution: {integrity: sha512-jgsaNduz+ndvGyFt3uSuWqvy4lCnIJiovtouQN5JZHOKCS2QuhEdbcQHFhVksz2N2U9hXJo8odG7ETyWlEeuDw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/assertion-error/-/assertion-error-1.1.0.tgz}
+    name: assertion-error
+    version: 1.1.0
+    dev: true
+
+  192.168.14.11+8888/base64-js/1.5.1:
+    resolution: {integrity: sha1-GxtEAWClv3rUC2UPCVljSBkDkwo=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/base64-js/-/base64-js-1.5.1.tgz}
+    name: base64-js
+    version: 1.5.1
+    dev: true
+
+  192.168.14.11+8888/bl/4.1.0:
+    resolution: {integrity: sha1-RRU1JkGCvsL7vIOmKrmM8R2fezo=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/bl/-/bl-4.1.0.tgz}
+    name: bl
+    version: 4.1.0
+    dependencies:
+      buffer: 192.168.14.11+8888/buffer/5.7.1
+      inherits: 192.168.14.11+8888/inherits/2.0.4
+      readable-stream: 192.168.14.11+8888/readable-stream/3.6.0
+    dev: true
+
+  192.168.14.11+8888/buffer/5.7.1:
+    resolution: {integrity: sha1-umLnwTEzBTWCGXFghRqPZI6Z7tA=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/buffer/-/buffer-5.7.1.tgz}
+    name: buffer
+    version: 5.7.1
+    dependencies:
+      base64-js: 192.168.14.11+8888/base64-js/1.5.1
+      ieee754: 192.168.14.11+8888/ieee754/1.2.1
+    dev: true
+
+  192.168.14.11+8888/chai/4.3.6:
+    resolution: {integrity: sha512-bbcp3YfHCUzMOvKqsztczerVgBKSsEijCySNlHHbX3VG1nskvqjz5Rfso1gGwD6w6oOV3eI60pKuMOV5MV7p3Q==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/chai/-/chai-4.3.6.tgz}
+    name: chai
+    version: 4.3.6
+    engines: {node: '>=4'}
+    dependencies:
+      assertion-error: 192.168.14.11+8888/assertion-error/1.1.0
+      check-error: 192.168.14.11+8888/check-error/1.0.2
+      deep-eql: 192.168.14.11+8888/deep-eql/3.0.1
+      get-func-name: 192.168.14.11+8888/get-func-name/2.0.0
+      loupe: 192.168.14.11+8888/loupe/2.3.4
+      pathval: 192.168.14.11+8888/pathval/1.1.1
+      type-detect: 192.168.14.11+8888/type-detect/4.0.8
+    dev: true
+
+  192.168.14.11+8888/chalk/4.1.2:
+    resolution: {integrity: sha1-qsTit3NKdAhnrrFr8CqtVWoeegE=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/chalk/-/chalk-4.1.2.tgz}
+    name: chalk
+    version: 4.1.2
+    engines: {node: '>=10'}
+    dependencies:
+      ansi-styles: 192.168.14.11+8888/ansi-styles/4.3.0
+      supports-color: 192.168.14.11+8888/supports-color/7.2.0
+    dev: true
+
+  192.168.14.11+8888/chardet/0.7.0:
+    resolution: {integrity: sha512-mT8iDcrh03qDGRRmoA2hmBJnxpllMR+0/0qlzjqZES6NdiWDcZkCNAk4rPFZ9Q85r27unkiNNg8ZOiwZXBHwcA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/chardet/-/chardet-0.7.0.tgz}
+    name: chardet
+    version: 0.7.0
+    dev: true
+
+  192.168.14.11+8888/check-error/1.0.2:
+    resolution: {integrity: sha1-V00xLt2Iu13YkS6Sht1sCu1KrII=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/check-error/-/check-error-1.0.2.tgz}
+    name: check-error
+    version: 1.0.2
+    dev: true
+
+  192.168.14.11+8888/clear/0.1.0:
+    resolution: {integrity: sha512-qMjRnoL+JDPJHeLePZJuao6+8orzHMGP04A8CdwCNsKhRbOnKRjefxONR7bwILT3MHecxKBjHkKL/tkZ8r4Uzw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/clear/-/clear-0.1.0.tgz}
+    name: clear
+    version: 0.1.0
+    dev: true
+
+  192.168.14.11+8888/cli-cursor/3.1.0:
+    resolution: {integrity: sha512-I/zHAwsKf9FqGoXM4WWRACob9+SNukZTd94DWF57E4toouRulbCxcUh6RKUEOQlYTHJnzkPMySvPNaaSLNfLZw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/cli-cursor/-/cli-cursor-3.1.0.tgz}
+    name: cli-cursor
+    version: 3.1.0
+    engines: {node: '>=8'}
+    dependencies:
+      restore-cursor: 192.168.14.11+8888/restore-cursor/3.1.0
+    dev: true
+
+  192.168.14.11+8888/cli-spinners/2.6.1:
+    resolution: {integrity: sha1-rclU6+KBw3pjGb+kAebdJIj/tw0=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/cli-spinners/-/cli-spinners-2.6.1.tgz}
+    name: cli-spinners
+    version: 2.6.1
+    engines: {node: '>=6'}
+    dev: true
+
+  192.168.14.11+8888/cli-width/3.0.0:
+    resolution: {integrity: sha512-FxqpkPPwu1HjuN93Omfm4h8uIanXofW0RxVEW3k5RKx+mJJYSthzNhp32Kzxxy3YAEZ/Dc/EWN1vZRY0+kOhbw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/cli-width/-/cli-width-3.0.0.tgz}
+    name: cli-width
+    version: 3.0.0
+    engines: {node: '>= 10'}
+    dev: true
+
+  192.168.14.11+8888/clone/1.0.4:
+    resolution: {integrity: sha1-2jCcwmPfFZlMaIypAheco8fNfH4=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/clone/-/clone-1.0.4.tgz}
+    name: clone
+    version: 1.0.4
+    engines: {node: '>=0.8'}
+    dev: true
+
+  192.168.14.11+8888/color-convert/2.0.1:
+    resolution: {integrity: sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/color-convert/-/color-convert-2.0.1.tgz}
+    name: color-convert
+    version: 2.0.1
+    engines: {node: '>=7.0.0'}
+    dependencies:
+      color-name: 192.168.14.11+8888/color-name/1.1.4
+    dev: true
+
+  192.168.14.11+8888/color-name/1.1.4:
+    resolution: {integrity: sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/color-name/-/color-name-1.1.4.tgz}
+    name: color-name
+    version: 1.1.4
+    dev: true
+
+  192.168.14.11+8888/cross-spawn/7.0.3:
+    resolution: {integrity: sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/cross-spawn/-/cross-spawn-7.0.3.tgz}
+    name: cross-spawn
+    version: 7.0.3
+    engines: {node: '>= 8'}
+    dependencies:
+      path-key: 192.168.14.11+8888/path-key/3.1.1
+      shebang-command: 192.168.14.11+8888/shebang-command/2.0.0
+      which: 192.168.14.11+8888/which/2.0.2
+    dev: true
+
+  192.168.14.11+8888/deep-eql/3.0.1:
+    resolution: {integrity: sha512-+QeIQyN5ZuO+3Uk5DYh6/1eKO0m0YmJFGNmFHGACpf1ClL1nmlV/p4gNgbl2pJGxgXb4faqo6UE+M5ACEMyVcw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/deep-eql/-/deep-eql-3.0.1.tgz}
+    name: deep-eql
+    version: 3.0.1
+    engines: {node: '>=0.12'}
+    dependencies:
+      type-detect: 192.168.14.11+8888/type-detect/4.0.8
+    dev: true
+
+  192.168.14.11+8888/defaults/1.0.3:
+    resolution: {integrity: sha1-xlYFHpgX2f8I7YgUd/P+QBnz730=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/defaults/-/defaults-1.0.3.tgz}
+    name: defaults
+    version: 1.0.3
+    dependencies:
+      clone: 192.168.14.11+8888/clone/1.0.4
+    dev: true
+
+  192.168.14.11+8888/emoji-regex/8.0.0:
+    resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/emoji-regex/-/emoji-regex-8.0.0.tgz}
+    name: emoji-regex
+    version: 8.0.0
+    dev: true
+
+  192.168.14.11+8888/esbuild-android-64/0.14.36:
+    resolution: {integrity: sha512-jwpBhF1jmo0tVCYC/ORzVN+hyVcNZUWuozGcLHfod0RJCedTDTvR4nwlTXdx1gtncDqjk33itjO+27OZHbiavw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-android-64/-/esbuild-android-64-0.14.36.tgz}
+    name: esbuild-android-64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [android]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-android-arm64/0.14.36:
+    resolution: {integrity: sha512-/hYkyFe7x7Yapmfv4X/tBmyKnggUmdQmlvZ8ZlBnV4+PjisrEhAvC3yWpURuD9XoB8Wa1d5dGkTsF53pIvpjsg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-android-arm64/-/esbuild-android-arm64-0.14.36.tgz}
+    name: esbuild-android-arm64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [android]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-darwin-64/0.14.36:
+    resolution: {integrity: sha512-kkl6qmV0dTpyIMKagluzYqlc1vO0ecgpviK/7jwPbRDEv5fejRTaBBEE2KxEQbTHcLhiiDbhG7d5UybZWo/1zQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-darwin-64/-/esbuild-darwin-64-0.14.36.tgz}
+    name: esbuild-darwin-64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [darwin]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-darwin-arm64/0.14.36:
+    resolution: {integrity: sha512-q8fY4r2Sx6P0Pr3VUm//eFYKVk07C5MHcEinU1BjyFnuYz4IxR/03uBbDwluR6ILIHnZTE7AkTUWIdidRi1Jjw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.36.tgz}
+    name: esbuild-darwin-arm64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [darwin]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-freebsd-64/0.14.36:
+    resolution: {integrity: sha512-Hn8AYuxXXRptybPqoMkga4HRFE7/XmhtlQjXFHoAIhKUPPMeJH35GYEUWGbjteai9FLFvBAjEAlwEtSGxnqWww==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-freebsd-64/-/esbuild-freebsd-64-0.14.36.tgz}
+    name: esbuild-freebsd-64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [freebsd]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-freebsd-arm64/0.14.36:
+    resolution: {integrity: sha512-S3C0attylLLRiCcHiJd036eDEMOY32+h8P+jJ3kTcfhJANNjP0TNBNL30TZmEdOSx/820HJFgRrqpNAvTbjnDA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-freebsd-arm64/-/esbuild-freebsd-arm64-0.14.36.tgz}
+    name: esbuild-freebsd-arm64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [freebsd]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-linux-32/0.14.36:
+    resolution: {integrity: sha512-Eh9OkyTrEZn9WGO4xkI3OPPpUX7p/3QYvdG0lL4rfr73Ap2HAr6D9lP59VMF64Ex01LhHSXwIsFG/8AQjh6eNw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-linux-32/-/esbuild-linux-32-0.14.36.tgz}
+    name: esbuild-linux-32
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [ia32]
+    os: [linux]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-linux-64/0.14.36:
+    resolution: {integrity: sha512-vFVFS5ve7PuwlfgoWNyRccGDi2QTNkQo/2k5U5ttVD0jRFaMlc8UQee708fOZA6zTCDy5RWsT5MJw3sl2X6KDg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-linux-64/-/esbuild-linux-64-0.14.36.tgz}
+    name: esbuild-linux-64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [linux]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-linux-arm/0.14.36:
+    resolution: {integrity: sha512-NhgU4n+NCsYgt7Hy61PCquEz5aevI6VjQvxwBxtxrooXsxt5b2xtOUXYZe04JxqQo+XZk3d1gcr7pbV9MAQ/Lg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-linux-arm/-/esbuild-linux-arm-0.14.36.tgz}
+    name: esbuild-linux-arm
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [arm]
+    os: [linux]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-linux-arm64/0.14.36:
+    resolution: {integrity: sha512-24Vq1M7FdpSmaTYuu1w0Hdhiqkbto1I5Pjyi+4Cdw5fJKGlwQuw+hWynTcRI/cOZxBcBpP21gND7W27gHAiftw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-linux-arm64/-/esbuild-linux-arm64-0.14.36.tgz}
+    name: esbuild-linux-arm64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [linux]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-linux-mips64le/0.14.36:
+    resolution: {integrity: sha512-hZUeTXvppJN+5rEz2EjsOFM9F1bZt7/d2FUM1lmQo//rXh1RTFYzhC0txn7WV0/jCC7SvrGRaRz0NMsRPf8SIA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-linux-mips64le/-/esbuild-linux-mips64le-0.14.36.tgz}
+    name: esbuild-linux-mips64le
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [mips64el]
+    os: [linux]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-linux-ppc64le/0.14.36:
+    resolution: {integrity: sha512-1Bg3QgzZjO+QtPhP9VeIBhAduHEc2kzU43MzBnMwpLSZ890azr4/A9Dganun8nsqD/1TBcqhId0z4mFDO8FAvg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-linux-ppc64le/-/esbuild-linux-ppc64le-0.14.36.tgz}
+    name: esbuild-linux-ppc64le
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [ppc64]
+    os: [linux]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-linux-riscv64/0.14.36:
+    resolution: {integrity: sha512-dOE5pt3cOdqEhaufDRzNCHf5BSwxgygVak9UR7PH7KPVHwSTDAZHDoEjblxLqjJYpc5XaU9+gKJ9F8mp9r5I4A==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-linux-riscv64/-/esbuild-linux-riscv64-0.14.36.tgz}
+    name: esbuild-linux-riscv64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [riscv64]
+    os: [linux]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-linux-s390x/0.14.36:
+    resolution: {integrity: sha512-g4FMdh//BBGTfVHjF6MO7Cz8gqRoDPzXWxRvWkJoGroKA18G9m0wddvPbEqcQf5Tbt2vSc1CIgag7cXwTmoTXg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-linux-s390x/-/esbuild-linux-s390x-0.14.36.tgz}
+    name: esbuild-linux-s390x
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [s390x]
+    os: [linux]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-netbsd-64/0.14.36:
+    resolution: {integrity: sha512-UB2bVImxkWk4vjnP62ehFNZ73lQY1xcnL5ZNYF3x0AG+j8HgdkNF05v67YJdCIuUJpBuTyCK8LORCYo9onSW+A==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-netbsd-64/-/esbuild-netbsd-64-0.14.36.tgz}
+    name: esbuild-netbsd-64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [netbsd]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-openbsd-64/0.14.36:
+    resolution: {integrity: sha512-NvGB2Chf8GxuleXRGk8e9zD3aSdRO5kLt9coTQbCg7WMGXeX471sBgh4kSg8pjx0yTXRt0MlrUDnjVYnetyivg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-openbsd-64/-/esbuild-openbsd-64-0.14.36.tgz}
+    name: esbuild-openbsd-64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [openbsd]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-sunos-64/0.14.36:
+    resolution: {integrity: sha512-VkUZS5ftTSjhRjuRLp+v78auMO3PZBXu6xl4ajomGenEm2/rGuWlhFSjB7YbBNErOchj51Jb2OK8lKAo8qdmsQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-sunos-64/-/esbuild-sunos-64-0.14.36.tgz}
+    name: esbuild-sunos-64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [sunos]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-windows-32/0.14.36:
+    resolution: {integrity: sha512-bIar+A6hdytJjZrDxfMBUSEHHLfx3ynoEZXx/39nxy86pX/w249WZm8Bm0dtOAByAf4Z6qV0LsnTIJHiIqbw0w==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-windows-32/-/esbuild-windows-32-0.14.36.tgz}
+    name: esbuild-windows-32
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [ia32]
+    os: [win32]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-windows-64/0.14.36:
+    resolution: {integrity: sha512-+p4MuRZekVChAeueT1Y9LGkxrT5x7YYJxYE8ZOTcEfeUUN43vktSn6hUNsvxzzATrSgq5QqRdllkVBxWZg7KqQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-windows-64/-/esbuild-windows-64-0.14.36.tgz}
+    name: esbuild-windows-64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [x64]
+    os: [win32]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild-windows-arm64/0.14.36:
+    resolution: {integrity: sha512-fBB4WlDqV1m18EF/aheGYQkQZHfPHiHJSBYzXIo8yKehek+0BtBwo/4PNwKGJ5T0YK0oc8pBKjgwPbzSrPLb+Q==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild-windows-arm64/-/esbuild-windows-arm64-0.14.36.tgz}
+    name: esbuild-windows-arm64
+    version: 0.14.36
+    engines: {node: '>=12'}
+    cpu: [arm64]
+    os: [win32]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/esbuild/0.14.36:
+    resolution: {integrity: sha512-HhFHPiRXGYOCRlrhpiVDYKcFJRdO0sBElZ668M4lh2ER0YgnkLxECuFe7uWCf23FrcLc59Pqr7dHkTqmRPDHmw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/esbuild/-/esbuild-0.14.36.tgz}
+    name: esbuild
+    version: 0.14.36
+    engines: {node: '>=12'}
+    hasBin: true
+    requiresBuild: true
+    optionalDependencies:
+      esbuild-android-64: 192.168.14.11+8888/esbuild-android-64/0.14.36
+      esbuild-android-arm64: 192.168.14.11+8888/esbuild-android-arm64/0.14.36
+      esbuild-darwin-64: 192.168.14.11+8888/esbuild-darwin-64/0.14.36
+      esbuild-darwin-arm64: 192.168.14.11+8888/esbuild-darwin-arm64/0.14.36
+      esbuild-freebsd-64: 192.168.14.11+8888/esbuild-freebsd-64/0.14.36
+      esbuild-freebsd-arm64: 192.168.14.11+8888/esbuild-freebsd-arm64/0.14.36
+      esbuild-linux-32: 192.168.14.11+8888/esbuild-linux-32/0.14.36
+      esbuild-linux-64: 192.168.14.11+8888/esbuild-linux-64/0.14.36
+      esbuild-linux-arm: 192.168.14.11+8888/esbuild-linux-arm/0.14.36
+      esbuild-linux-arm64: 192.168.14.11+8888/esbuild-linux-arm64/0.14.36
+      esbuild-linux-mips64le: 192.168.14.11+8888/esbuild-linux-mips64le/0.14.36
+      esbuild-linux-ppc64le: 192.168.14.11+8888/esbuild-linux-ppc64le/0.14.36
+      esbuild-linux-riscv64: 192.168.14.11+8888/esbuild-linux-riscv64/0.14.36
+      esbuild-linux-s390x: 192.168.14.11+8888/esbuild-linux-s390x/0.14.36
+      esbuild-netbsd-64: 192.168.14.11+8888/esbuild-netbsd-64/0.14.36
+      esbuild-openbsd-64: 192.168.14.11+8888/esbuild-openbsd-64/0.14.36
+      esbuild-sunos-64: 192.168.14.11+8888/esbuild-sunos-64/0.14.36
+      esbuild-windows-32: 192.168.14.11+8888/esbuild-windows-32/0.14.36
+      esbuild-windows-64: 192.168.14.11+8888/esbuild-windows-64/0.14.36
+      esbuild-windows-arm64: 192.168.14.11+8888/esbuild-windows-arm64/0.14.36
+    dev: true
+
+  192.168.14.11+8888/escape-string-regexp/1.0.5:
+    resolution: {integrity: sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz}
+    name: escape-string-regexp
+    version: 1.0.5
+    engines: {node: '>=0.8.0'}
+    dev: true
+
+  192.168.14.11+8888/execa/6.1.0:
+    resolution: {integrity: sha512-QVWlX2e50heYJcCPG0iWtf8r0xjEYfz/OYLGDYH+IyjWezzPNxz63qNFOu0l4YftGWuizFVZHHs8PrLU5p2IDA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/execa/-/execa-6.1.0.tgz}
+    name: execa
+    version: 6.1.0
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    dependencies:
+      cross-spawn: 192.168.14.11+8888/cross-spawn/7.0.3
+      get-stream: 192.168.14.11+8888/get-stream/6.0.1
+      human-signals: 192.168.14.11+8888/human-signals/3.0.1
+      is-stream: 192.168.14.11+8888/is-stream/3.0.0
+      merge-stream: 192.168.14.11+8888/merge-stream/2.0.0
+      npm-run-path: 192.168.14.11+8888/npm-run-path/5.1.0
+      onetime: 192.168.14.11+8888/onetime/6.0.0
+      signal-exit: 192.168.14.11+8888/signal-exit/3.0.7
+      strip-final-newline: 192.168.14.11+8888/strip-final-newline/3.0.0
+    dev: true
+
+  192.168.14.11+8888/external-editor/3.1.0:
+    resolution: {integrity: sha512-hMQ4CX1p1izmuLYyZqLMO/qGNw10wSv9QDCPfzXfyFrOaCSSoRfqE1Kf1s5an66J5JZC62NewG+mK49jOCtQew==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/external-editor/-/external-editor-3.1.0.tgz}
+    name: external-editor
+    version: 3.1.0
+    engines: {node: '>=4'}
+    dependencies:
+      chardet: 192.168.14.11+8888/chardet/0.7.0
+      iconv-lite: 192.168.14.11+8888/iconv-lite/0.4.24
+      tmp: 192.168.14.11+8888/tmp/0.0.33
+    dev: true
+
+  192.168.14.11+8888/figlet/1.5.2:
+    resolution: {integrity: sha1-3aNP8jPJpI42/P9nQa61uv5JtjQ=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/figlet/-/figlet-1.5.2.tgz}
+    name: figlet
+    version: 1.5.2
+    engines: {node: '>= 0.4.0'}
+    dev: true
+
+  192.168.14.11+8888/figures/3.2.0:
+    resolution: {integrity: sha512-yaduQFRKLXYOGgEn6AZau90j3ggSOyiqXU0F9JZfeXYhNa+Jk4X+s45A2zg5jns87GAFa34BBm2kXw4XpNcbdg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/figures/-/figures-3.2.0.tgz}
+    name: figures
+    version: 3.2.0
+    engines: {node: '>=8'}
+    dependencies:
+      escape-string-regexp: 192.168.14.11+8888/escape-string-regexp/1.0.5
+    dev: true
+
+  192.168.14.11+8888/fsevents/2.3.2:
+    resolution: {integrity: sha1-ilJveLj99GI7cJ4Ll1xSwkwC/Ro=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/fsevents/-/fsevents-2.3.2.tgz}
+    name: fsevents
+    version: 2.3.2
+    engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
+    os: [darwin]
+    dev: true
+    optional: true
+
+  192.168.14.11+8888/function-bind/1.1.1:
+    resolution: {integrity: sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/function-bind/-/function-bind-1.1.1.tgz}
+    name: function-bind
+    version: 1.1.1
+    dev: true
+
+  192.168.14.11+8888/get-func-name/2.0.0:
+    resolution: {integrity: sha1-6td0q+5y4gQJQzoGY2YCPdaIekE=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/get-func-name/-/get-func-name-2.0.0.tgz}
+    name: get-func-name
+    version: 2.0.0
+    dev: true
+
+  192.168.14.11+8888/get-stream/6.0.1:
+    resolution: {integrity: sha1-omLY7vZ6ztV8KFKtYWdSakPL97c=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/get-stream/-/get-stream-6.0.1.tgz}
+    name: get-stream
+    version: 6.0.1
+    engines: {node: '>=10'}
+    dev: true
+
+  192.168.14.11+8888/has-flag/4.0.0:
+    resolution: {integrity: sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/has-flag/-/has-flag-4.0.0.tgz}
+    name: has-flag
+    version: 4.0.0
+    engines: {node: '>=8'}
+    dev: true
+
+  192.168.14.11+8888/has/1.0.3:
+    resolution: {integrity: sha512-f2dvO0VU6Oej7RkWJGrehjbzMAjFp5/VKPp5tTpWIV4JHHZK1/BxbFRtf/siA2SWTe09caDmVtYYzWEIbBS4zw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/has/-/has-1.0.3.tgz}
+    name: has
+    version: 1.0.3
+    engines: {node: '>= 0.4.0'}
+    dependencies:
+      function-bind: 192.168.14.11+8888/function-bind/1.1.1
+    dev: true
+
+  192.168.14.11+8888/human-signals/3.0.1:
+    resolution: {integrity: sha1-x0CSCFna+lDloyItqdO/S7Dl7vU=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/human-signals/-/human-signals-3.0.1.tgz}
+    name: human-signals
+    version: 3.0.1
+    engines: {node: '>=12.20.0'}
+    dev: true
+
+  192.168.14.11+8888/iconv-lite/0.4.24:
+    resolution: {integrity: sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/iconv-lite/-/iconv-lite-0.4.24.tgz}
+    name: iconv-lite
+    version: 0.4.24
+    engines: {node: '>=0.10.0'}
+    dependencies:
+      safer-buffer: 192.168.14.11+8888/safer-buffer/2.1.2
+    dev: true
+
+  192.168.14.11+8888/ieee754/1.2.1:
+    resolution: {integrity: sha1-jrehCmP/8l0VpXsAFYbRd9Gw01I=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/ieee754/-/ieee754-1.2.1.tgz}
+    name: ieee754
+    version: 1.2.1
+    dev: true
+
+  192.168.14.11+8888/inherits/2.0.4:
+    resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/inherits/-/inherits-2.0.4.tgz}
+    name: inherits
+    version: 2.0.4
+    dev: true
+
+  192.168.14.11+8888/inquirer/8.2.2:
+    resolution: {integrity: sha512-pG7I/si6K/0X7p1qU+rfWnpTE1UIkTONN1wxtzh0d+dHXtT/JG6qBgLxoyHVsQa8cFABxAPh0pD6uUUHiAoaow==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/inquirer/-/inquirer-8.2.2.tgz}
+    name: inquirer
+    version: 8.2.2
+    engines: {node: '>=12.0.0'}
+    dependencies:
+      ansi-escapes: 192.168.14.11+8888/ansi-escapes/4.3.2
+      chalk: 192.168.14.11+8888/chalk/4.1.2
+      cli-cursor: 192.168.14.11+8888/cli-cursor/3.1.0
+      cli-width: 192.168.14.11+8888/cli-width/3.0.0
+      external-editor: 192.168.14.11+8888/external-editor/3.1.0
+      figures: 192.168.14.11+8888/figures/3.2.0
+      lodash: 192.168.14.11+8888/lodash/4.17.21
+      mute-stream: 192.168.14.11+8888/mute-stream/0.0.8
+      ora: 192.168.14.11+8888/ora/5.4.1
+      run-async: 192.168.14.11+8888/run-async/2.4.1
+      rxjs: 192.168.14.11+8888/rxjs/7.5.5
+      string-width: 192.168.14.11+8888/string-width/4.2.3
+      strip-ansi: 192.168.14.11+8888/strip-ansi/6.0.1
+      through: 192.168.14.11+8888/through/2.3.8
+    dev: true
+
+  192.168.14.11+8888/is-core-module/2.8.1:
+    resolution: {integrity: sha512-SdNCUs284hr40hFTFP6l0IfZ/RSrMXF3qgoRHd3/79unUTvrFO/JoXwkGm+5J/Oe3E/b5GsnG330uUNgRpu1PA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/is-core-module/-/is-core-module-2.8.1.tgz}
+    name: is-core-module
+    version: 2.8.1
+    dependencies:
+      has: 192.168.14.11+8888/has/1.0.3
+    dev: true
+
+  192.168.14.11+8888/is-fullwidth-code-point/3.0.0:
+    resolution: {integrity: sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz}
+    name: is-fullwidth-code-point
+    version: 3.0.0
+    engines: {node: '>=8'}
+    dev: true
+
+  192.168.14.11+8888/is-interactive/1.0.0:
+    resolution: {integrity: sha512-2HvIEKRoqS62guEC+qBjpvRubdX910WCMuJTZ+I9yvqKU2/12eSL549HMwtabb4oupdj2sMP50k+XJfB/8JE6w==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/is-interactive/-/is-interactive-1.0.0.tgz}
+    name: is-interactive
+    version: 1.0.0
+    engines: {node: '>=8'}
+    dev: true
+
+  192.168.14.11+8888/is-stream/3.0.0:
+    resolution: {integrity: sha1-5r/XqmvvafT0cs6btoHj5XtDGaw=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/is-stream/-/is-stream-3.0.0.tgz}
+    name: is-stream
+    version: 3.0.0
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    dev: true
+
+  192.168.14.11+8888/is-unicode-supported/0.1.0:
+    resolution: {integrity: sha1-PybHaoCVk7Ur+i7LVxDtJ3m1Iqc=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/is-unicode-supported/-/is-unicode-supported-0.1.0.tgz}
+    name: is-unicode-supported
+    version: 0.1.0
+    engines: {node: '>=10'}
+    dev: true
+
+  192.168.14.11+8888/isexe/2.0.0:
+    resolution: {integrity: sha1-6PvzdNxVb/iUehDcsFctYz8s+hA=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/isexe/-/isexe-2.0.0.tgz}
+    name: isexe
+    version: 2.0.0
+    dev: true
+
+  192.168.14.11+8888/local-pkg/0.4.1:
+    resolution: {integrity: sha512-lL87ytIGP2FU5PWwNDo0w3WhIo2gopIAxPg9RxDYF7m4rr5ahuZxP22xnJHIvaLTe4Z9P6uKKY2UHiwyB4pcrw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/local-pkg/-/local-pkg-0.4.1.tgz}
+    name: local-pkg
+    version: 0.4.1
+    engines: {node: '>=14'}
+    dev: true
+
+  192.168.14.11+8888/lodash/4.17.21:
+    resolution: {integrity: sha1-Z5WRxWTDv/quhFTPCz3zcMPWkRw=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/lodash/-/lodash-4.17.21.tgz}
+    name: lodash
+    version: 4.17.21
+    dev: true
+
+  192.168.14.11+8888/log-symbols/4.1.0:
+    resolution: {integrity: sha1-P727lbRoOsn8eFER55LlWNSr1QM=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/log-symbols/-/log-symbols-4.1.0.tgz}
+    name: log-symbols
+    version: 4.1.0
+    engines: {node: '>=10'}
+    dependencies:
+      chalk: 192.168.14.11+8888/chalk/4.1.2
+      is-unicode-supported: 192.168.14.11+8888/is-unicode-supported/0.1.0
+    dev: true
+
+  192.168.14.11+8888/loupe/2.3.4:
+    resolution: {integrity: sha512-OvKfgCC2Ndby6aSTREl5aCCPTNIzlDfQZvZxNUrBrihDhL3xcrYegTblhmEiCrg2kKQz4XsFIaemE5BF4ybSaQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/loupe/-/loupe-2.3.4.tgz}
+    name: loupe
+    version: 2.3.4
+    dependencies:
+      get-func-name: 192.168.14.11+8888/get-func-name/2.0.0
+    dev: true
+
+  192.168.14.11+8888/merge-stream/2.0.0:
+    resolution: {integrity: sha512-abv/qOcuPfk3URPfDzmZU1LKmuw8kT+0nIHvKrKgFrwifol/doWcdA4ZqsWQ8ENrFKkd67Mfpo/LovbIUsbt3w==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/merge-stream/-/merge-stream-2.0.0.tgz}
+    name: merge-stream
+    version: 2.0.0
+    dev: true
+
+  192.168.14.11+8888/mimic-fn/2.1.0:
+    resolution: {integrity: sha512-OqbOk5oEQeAZ8WXWydlu9HJjz9WVdEIvamMCcXmuqUYjTknH/sqsWvhQ3vgwKFRR1HpjvNBKQ37nbJgYzGqGcg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/mimic-fn/-/mimic-fn-2.1.0.tgz}
+    name: mimic-fn
+    version: 2.1.0
+    engines: {node: '>=6'}
+    dev: true
+
+  192.168.14.11+8888/mimic-fn/4.0.0:
+    resolution: {integrity: sha1-YKkFUNXLCyOcymXYk7GlOymHHsw=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/mimic-fn/-/mimic-fn-4.0.0.tgz}
+    name: mimic-fn
+    version: 4.0.0
+    engines: {node: '>=12'}
+    dev: true
+
+  192.168.14.11+8888/mute-stream/0.0.8:
+    resolution: {integrity: sha512-nnbWWOkoWyUsTjKrhgD0dcz22mdkSnpYqbEjIm2nhwhuxlSkpywJmBo8h0ZqJdkp73mb90SssHkN4rsRaBAfAA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/mute-stream/-/mute-stream-0.0.8.tgz}
+    name: mute-stream
+    version: 0.0.8
+    dev: true
+
+  192.168.14.11+8888/nanoid/3.3.2:
+    resolution: {integrity: sha512-CuHBogktKwpm5g2sRgv83jEy2ijFzBwMoYA60orPDR7ynsLijJDqgsi4RDGj3OJpy3Ieb+LYwiRmIOGyytgITA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/nanoid/-/nanoid-3.3.2.tgz}
+    name: nanoid
+    version: 3.3.2
+    engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
+    hasBin: true
+    dev: true
+
+  192.168.14.11+8888/npm-run-path/5.1.0:
+    resolution: {integrity: sha512-sJOdmRGrY2sjNTRMbSvluQqg+8X7ZK61yvzBEIDhz4f8z1TZFYABsqjjCBd/0PUNE9M6QDgHJXQkGUEm7Q+l9Q==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/npm-run-path/-/npm-run-path-5.1.0.tgz}
+    name: npm-run-path
+    version: 5.1.0
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    dependencies:
+      path-key: 192.168.14.11+8888/path-key/4.0.0
+    dev: true
+
+  192.168.14.11+8888/onetime/5.1.2:
+    resolution: {integrity: sha512-kbpaSSGJTWdAY5KPVeMOKXSrPtr8C8C7wodJbcsd51jRnmD+GZu8Y0VoU6Dm5Z4vWr0Ig/1NKuWRKf7j5aaYSg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/onetime/-/onetime-5.1.2.tgz}
+    name: onetime
+    version: 5.1.2
+    engines: {node: '>=6'}
+    dependencies:
+      mimic-fn: 192.168.14.11+8888/mimic-fn/2.1.0
+    dev: true
+
+  192.168.14.11+8888/onetime/6.0.0:
+    resolution: {integrity: sha1-fCTBjtH9LpvKS9JoBqM2E8d9NLQ=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/onetime/-/onetime-6.0.0.tgz}
+    name: onetime
+    version: 6.0.0
+    engines: {node: '>=12'}
+    dependencies:
+      mimic-fn: 192.168.14.11+8888/mimic-fn/4.0.0
+    dev: true
+
+  192.168.14.11+8888/ora/5.4.1:
+    resolution: {integrity: sha1-GyZ4Qmr0rEpQkAjl5KyemVnbnhg=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/ora/-/ora-5.4.1.tgz}
+    name: ora
+    version: 5.4.1
+    engines: {node: '>=10'}
+    dependencies:
+      bl: 192.168.14.11+8888/bl/4.1.0
+      chalk: 192.168.14.11+8888/chalk/4.1.2
+      cli-cursor: 192.168.14.11+8888/cli-cursor/3.1.0
+      cli-spinners: 192.168.14.11+8888/cli-spinners/2.6.1
+      is-interactive: 192.168.14.11+8888/is-interactive/1.0.0
+      is-unicode-supported: 192.168.14.11+8888/is-unicode-supported/0.1.0
+      log-symbols: 192.168.14.11+8888/log-symbols/4.1.0
+      strip-ansi: 192.168.14.11+8888/strip-ansi/6.0.1
+      wcwidth: 192.168.14.11+8888/wcwidth/1.0.1
+    dev: true
+
+  192.168.14.11+8888/os-tmpdir/1.0.2:
+    resolution: {integrity: sha1-u+Z0BseaqFxc/sdm/lc0VV36EnQ=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/os-tmpdir/-/os-tmpdir-1.0.2.tgz}
+    name: os-tmpdir
+    version: 1.0.2
+    engines: {node: '>=0.10.0'}
+    dev: true
+
+  192.168.14.11+8888/path-key/3.1.1:
+    resolution: {integrity: sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/path-key/-/path-key-3.1.1.tgz}
+    name: path-key
+    version: 3.1.1
+    engines: {node: '>=8'}
+    dev: true
+
+  192.168.14.11+8888/path-key/4.0.0:
+    resolution: {integrity: sha1-KVWI3DruZBVPh3rbnXgLgcVUvxg=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/path-key/-/path-key-4.0.0.tgz}
+    name: path-key
+    version: 4.0.0
+    engines: {node: '>=12'}
+    dev: true
+
+  192.168.14.11+8888/path-parse/1.0.7:
+    resolution: {integrity: sha1-+8EUtgykKzDZ2vWFjkvWi77bZzU=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/path-parse/-/path-parse-1.0.7.tgz}
+    name: path-parse
+    version: 1.0.7
+    dev: true
+
+  192.168.14.11+8888/pathval/1.1.1:
+    resolution: {integrity: sha512-Dp6zGqpTdETdR63lehJYPeIOqpiNBNtc7BpWSLrOje7UaIsE5aY92r/AunQA7rsXvet3lrJ3JnZX29UPTKXyKQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/pathval/-/pathval-1.1.1.tgz}
+    name: pathval
+    version: 1.1.1
+    dev: true
+
+  192.168.14.11+8888/picocolors/1.0.0:
+    resolution: {integrity: sha1-y1vcdP8/UYkiNur3nWi8RFZKuBw=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/picocolors/-/picocolors-1.0.0.tgz}
+    name: picocolors
+    version: 1.0.0
+    dev: true
+
+  192.168.14.11+8888/postcss/8.4.12:
+    resolution: {integrity: sha512-lg6eITwYe9v6Hr5CncVbK70SoioNQIq81nsaG86ev5hAidQvmOeETBqs7jm43K2F5/Ley3ytDtriImV6TpNiSg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/postcss/-/postcss-8.4.12.tgz}
+    name: postcss
+    version: 8.4.12
+    engines: {node: ^10 || ^12 || >=14}
+    dependencies:
+      nanoid: 192.168.14.11+8888/nanoid/3.3.2
+      picocolors: 192.168.14.11+8888/picocolors/1.0.0
+      source-map-js: 192.168.14.11+8888/source-map-js/1.0.2
+    dev: true
+
+  192.168.14.11+8888/readable-stream/3.6.0:
+    resolution: {integrity: sha512-BViHy7LKeTz4oNnkcLJ+lVSL6vpiFeX6/d3oSH8zCW7UxP2onchk+vTGB143xuFjHS3deTgkKoXXymXqymiIdA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/readable-stream/-/readable-stream-3.6.0.tgz}
+    name: readable-stream
+    version: 3.6.0
+    engines: {node: '>= 6'}
+    dependencies:
+      inherits: 192.168.14.11+8888/inherits/2.0.4
+      string_decoder: 192.168.14.11+8888/string_decoder/1.3.0
+      util-deprecate: 192.168.14.11+8888/util-deprecate/1.0.2
+    dev: true
+
+  192.168.14.11+8888/resolve/1.22.0:
+    resolution: {integrity: sha512-Hhtrw0nLeSrFQ7phPp4OOcVjLPIeMnRlr5mcnVuMe7M/7eBn98A3hmFRLoFo3DLZkivSYwhRUJTyPyWAk56WLw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/resolve/-/resolve-1.22.0.tgz}
+    name: resolve
+    version: 1.22.0
+    hasBin: true
+    dependencies:
+      is-core-module: 192.168.14.11+8888/is-core-module/2.8.1
+      path-parse: 192.168.14.11+8888/path-parse/1.0.7
+      supports-preserve-symlinks-flag: 192.168.14.11+8888/supports-preserve-symlinks-flag/1.0.0
+    dev: true
+
+  192.168.14.11+8888/restore-cursor/3.1.0:
+    resolution: {integrity: sha512-l+sSefzHpj5qimhFSE5a8nufZYAM3sBSVMAPtYkmC+4EH2anSGaEMXSD0izRQbu9nfyQ9y5JrVmp7E8oZrUjvA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/restore-cursor/-/restore-cursor-3.1.0.tgz}
+    name: restore-cursor
+    version: 3.1.0
+    engines: {node: '>=8'}
+    dependencies:
+      onetime: 192.168.14.11+8888/onetime/5.1.2
+      signal-exit: 192.168.14.11+8888/signal-exit/3.0.7
+    dev: true
+
+  192.168.14.11+8888/rollup/2.70.1:
+    resolution: {integrity: sha512-CRYsI5EuzLbXdxC6RnYhOuRdtz4bhejPMSWjsFLfVM/7w/85n2szZv6yExqUXsBdz5KT8eoubeyDUDjhLHEslA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/rollup/-/rollup-2.70.1.tgz}
+    name: rollup
+    version: 2.70.1
+    engines: {node: '>=10.0.0'}
+    hasBin: true
+    optionalDependencies:
+      fsevents: 192.168.14.11+8888/fsevents/2.3.2
+    dev: true
+
+  192.168.14.11+8888/run-async/2.4.1:
+    resolution: {integrity: sha512-tvVnVv01b8c1RrA6Ep7JkStj85Guv/YrMcwqYQnwjsAS2cTmmPGBBjAjpCW7RrSodNSoE2/qg9O4bceNvUuDgQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/run-async/-/run-async-2.4.1.tgz}
+    name: run-async
+    version: 2.4.1
+    engines: {node: '>=0.12.0'}
+    dev: true
+
+  192.168.14.11+8888/rxjs/7.5.5:
+    resolution: {integrity: sha512-sy+H0pQofO95VDmFLzyaw9xNJU4KTRSwQIGM6+iG3SypAtCiLDzpeG8sJrNCWn2Up9km+KhkvTdbkrdy+yzZdw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/rxjs/-/rxjs-7.5.5.tgz}
+    name: rxjs
+    version: 7.5.5
+    dependencies:
+      tslib: 192.168.14.11+8888/tslib/2.3.1
+    dev: true
+
+  192.168.14.11+8888/safe-buffer/5.2.1:
+    resolution: {integrity: sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/safe-buffer/-/safe-buffer-5.2.1.tgz}
+    name: safe-buffer
+    version: 5.2.1
+    dev: true
+
+  192.168.14.11+8888/safer-buffer/2.1.2:
+    resolution: {integrity: sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/safer-buffer/-/safer-buffer-2.1.2.tgz}
+    name: safer-buffer
+    version: 2.1.2
+    dev: true
+
+  192.168.14.11+8888/shebang-command/2.0.0:
+    resolution: {integrity: sha512-kHxr2zZpYtdmrN1qDjrrX/Z1rR1kG8Dx+gkpK1G4eXmvXswmcE1hTWBWYUzlraYw1/yZp6YuDY77YtvbN0dmDA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/shebang-command/-/shebang-command-2.0.0.tgz}
+    name: shebang-command
+    version: 2.0.0
+    engines: {node: '>=8'}
+    dependencies:
+      shebang-regex: 192.168.14.11+8888/shebang-regex/3.0.0
+    dev: true
+
+  192.168.14.11+8888/shebang-regex/3.0.0:
+    resolution: {integrity: sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/shebang-regex/-/shebang-regex-3.0.0.tgz}
+    name: shebang-regex
+    version: 3.0.0
+    engines: {node: '>=8'}
+    dev: true
+
+  192.168.14.11+8888/signal-exit/3.0.7:
+    resolution: {integrity: sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/signal-exit/-/signal-exit-3.0.7.tgz}
+    name: signal-exit
+    version: 3.0.7
+    dev: true
+
+  192.168.14.11+8888/source-map-js/1.0.2:
+    resolution: {integrity: sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/source-map-js/-/source-map-js-1.0.2.tgz}
+    name: source-map-js
+    version: 1.0.2
+    engines: {node: '>=0.10.0'}
+    dev: true
+
+  192.168.14.11+8888/string-width/4.2.3:
+    resolution: {integrity: sha1-JpxxF9J7Ba0uU2gwqOyJXvnG0BA=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/string-width/-/string-width-4.2.3.tgz}
+    name: string-width
+    version: 4.2.3
+    engines: {node: '>=8'}
+    dependencies:
+      emoji-regex: 192.168.14.11+8888/emoji-regex/8.0.0
+      is-fullwidth-code-point: 192.168.14.11+8888/is-fullwidth-code-point/3.0.0
+      strip-ansi: 192.168.14.11+8888/strip-ansi/6.0.1
+    dev: true
+
+  192.168.14.11+8888/string_decoder/1.3.0:
+    resolution: {integrity: sha512-hkRX8U1WjJFd8LsDJ2yQ/wWWxaopEsABU1XfkM8A+j0+85JAGppt16cr1Whg6KIbb4okU6Mql6BOj+uup/wKeA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/string_decoder/-/string_decoder-1.3.0.tgz}
+    name: string_decoder
+    version: 1.3.0
+    dependencies:
+      safe-buffer: 192.168.14.11+8888/safe-buffer/5.2.1
+    dev: true
+
+  192.168.14.11+8888/strip-ansi/6.0.1:
+    resolution: {integrity: sha1-nibGPTD1NEPpSJSVshBdN7Z6hdk=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/strip-ansi/-/strip-ansi-6.0.1.tgz}
+    name: strip-ansi
+    version: 6.0.1
+    engines: {node: '>=8'}
+    dependencies:
+      ansi-regex: 192.168.14.11+8888/ansi-regex/5.0.1
+    dev: true
+
+  192.168.14.11+8888/strip-final-newline/3.0.0:
+    resolution: {integrity: sha1-UolMMT+/8xiDUoCu1g/3Hr8SuP0=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/strip-final-newline/-/strip-final-newline-3.0.0.tgz}
+    name: strip-final-newline
+    version: 3.0.0
+    engines: {node: '>=12'}
+    dev: true
+
+  192.168.14.11+8888/supports-color/7.2.0:
+    resolution: {integrity: sha1-G33NyzK4E4gBs+R4umpRyqiWSNo=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/supports-color/-/supports-color-7.2.0.tgz}
+    name: supports-color
+    version: 7.2.0
+    engines: {node: '>=8'}
+    dependencies:
+      has-flag: 192.168.14.11+8888/has-flag/4.0.0
+    dev: true
+
+  192.168.14.11+8888/supports-preserve-symlinks-flag/1.0.0:
+    resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz}
+    name: supports-preserve-symlinks-flag
+    version: 1.0.0
+    engines: {node: '>= 0.4'}
+    dev: true
+
+  192.168.14.11+8888/through/2.3.8:
+    resolution: {integrity: sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/through/-/through-2.3.8.tgz}
+    name: through
+    version: 2.3.8
+    dev: true
+
+  192.168.14.11+8888/tinypool/0.1.2:
+    resolution: {integrity: sha512-fvtYGXoui2RpeMILfkvGIgOVkzJEGediv8UJt7TxdAOY8pnvUkFg/fkvqTfXG9Acc9S17Cnn1S4osDc2164guA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/tinypool/-/tinypool-0.1.2.tgz}
+    name: tinypool
+    version: 0.1.2
+    engines: {node: '>=14.0.0'}
+    dev: true
+
+  192.168.14.11+8888/tinyspy/0.3.2:
+    resolution: {integrity: sha512-2+40EP4D3sFYy42UkgkFFB+kiX2Tg3URG/lVvAZFfLxgGpnWl5qQJuBw1gaLttq8UOS+2p3C0WrhJnQigLTT2Q==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/tinyspy/-/tinyspy-0.3.2.tgz}
+    name: tinyspy
+    version: 0.3.2
+    engines: {node: '>=14.0.0'}
+    dev: true
+
+  192.168.14.11+8888/tmp/0.0.33:
+    resolution: {integrity: sha512-jRCJlojKnZ3addtTOjdIqoRuPEKBvNXcGYqzO6zWZX8KfKEpnGY5jfggJQ3EjKuu8D4bJRr0y+cYJFmYbImXGw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/tmp/-/tmp-0.0.33.tgz}
+    name: tmp
+    version: 0.0.33
+    engines: {node: '>=0.6.0'}
+    dependencies:
+      os-tmpdir: 192.168.14.11+8888/os-tmpdir/1.0.2
+    dev: true
+
+  192.168.14.11+8888/tslib/2.3.1:
+    resolution: {integrity: sha1-6KM1rdXOrlGqJh0ypJAVjvBC7wE=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/tslib/-/tslib-2.3.1.tgz}
+    name: tslib
+    version: 2.3.1
+    dev: true
+
+  192.168.14.11+8888/type-detect/4.0.8:
+    resolution: {integrity: sha512-0fr/mIH1dlO+x7TlcMy+bIDqKPsw/70tVyeHW787goQjhmqaZe10uwLujubK9q9Lg6Fiho1KUKDYz0Z7k7g5/g==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/type-detect/-/type-detect-4.0.8.tgz}
+    name: type-detect
+    version: 4.0.8
+    engines: {node: '>=4'}
+    dev: true
+
+  192.168.14.11+8888/type-fest/0.21.3:
+    resolution: {integrity: sha1-0mCiSwGYQ24TP6JqUkptZfo7Ljc=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/type-fest/-/type-fest-0.21.3.tgz}
+    name: type-fest
+    version: 0.21.3
+    engines: {node: '>=10'}
+    dev: true
+
+  192.168.14.11+8888/typescript/4.6.3:
+    resolution: {integrity: sha512-yNIatDa5iaofVozS/uQJEl3JRWLKKGJKh6Yaiv0GLGSuhpFJe7P3SbHZ8/yjAHRQwKRoA6YZqlfjXWmVzoVSMw==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/typescript/-/typescript-4.6.3.tgz}
+    name: typescript
+    version: 4.6.3
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: true
+
+  192.168.14.11+8888/util-deprecate/1.0.2:
+    resolution: {integrity: sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/util-deprecate/-/util-deprecate-1.0.2.tgz}
+    name: util-deprecate
+    version: 1.0.2
+    dev: true
+
+  192.168.14.11+8888/vite/2.9.1:
+    resolution: {integrity: sha512-vSlsSdOYGcYEJfkQ/NeLXgnRv5zZfpAsdztkIrs7AZHV8RCMZQkwjo4DS5BnrYTqoWqLoUe1Cah4aVO4oNNqCQ==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/vite/-/vite-2.9.1.tgz}
+    name: vite
+    version: 2.9.1
+    engines: {node: '>=12.2.0'}
+    hasBin: true
+    peerDependencies:
+      less: '*'
+      sass: '*'
+      stylus: '*'
+    peerDependenciesMeta:
+      less:
+        optional: true
+      sass:
+        optional: true
+      stylus:
+        optional: true
+    dependencies:
+      esbuild: 192.168.14.11+8888/esbuild/0.14.36
+      postcss: 192.168.14.11+8888/postcss/8.4.12
+      resolve: 192.168.14.11+8888/resolve/1.22.0
+      rollup: 192.168.14.11+8888/rollup/2.70.1
+    optionalDependencies:
+      fsevents: 192.168.14.11+8888/fsevents/2.3.2
+    dev: true
+
+  192.168.14.11+8888/vitest/0.9.3:
+    resolution: {integrity: sha512-hKjqdBI732cV5giNLERyAsaJBebstrX5mvTbZr+jUDYUHnX1O4DpAJcHtqBOutuBi7lVIGQ5IF8eWvHHqbCHBA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/vitest/-/vitest-0.9.3.tgz}
+    name: vitest
+    version: 0.9.3
+    engines: {node: '>=v14.16.0'}
+    hasBin: true
+    peerDependencies:
+      '@vitest/ui': '*'
+      c8: '*'
+      happy-dom: '*'
+      jsdom: '*'
+    peerDependenciesMeta:
+      '@vitest/ui':
+        optional: true
+      c8:
+        optional: true
+      happy-dom:
+        optional: true
+      jsdom:
+        optional: true
+    dependencies:
+      '@types/chai': 192.168.14.11+8888/@types/chai/4.3.0
+      '@types/chai-subset': 192.168.14.11+8888/@types/chai-subset/1.3.3
+      chai: 192.168.14.11+8888/chai/4.3.6
+      local-pkg: 192.168.14.11+8888/local-pkg/0.4.1
+      tinypool: 192.168.14.11+8888/tinypool/0.1.2
+      tinyspy: 192.168.14.11+8888/tinyspy/0.3.2
+      vite: 192.168.14.11+8888/vite/2.9.1
+    transitivePeerDependencies:
+      - less
+      - sass
+      - stylus
+    dev: true
+
+  192.168.14.11+8888/wcwidth/1.0.1:
+    resolution: {integrity: sha1-8LDc+RW8X/FSivrbLA4XtTLaL+g=, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/wcwidth/-/wcwidth-1.0.1.tgz}
+    name: wcwidth
+    version: 1.0.1
+    dependencies:
+      defaults: 192.168.14.11+8888/defaults/1.0.3
+    dev: true
+
+  192.168.14.11+8888/which/2.0.2:
+    resolution: {integrity: sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA==, registry: http://ued.zuoyebang.cc/npm/, tarball: http://192.168.14.11:8888/which/-/which-2.0.2.tgz}
+    name: which
+    version: 2.0.2
+    engines: {node: '>= 8'}
+    hasBin: true
+    dependencies:
+      isexe: 192.168.14.11+8888/isexe/2.0.0
+    dev: true
