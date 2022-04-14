@@ -38,5 +38,15 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/maximum-subarray/",
     "path": "../amass/53-maximun-subarray/README.md"
+  },
+  {
+    "id": 70,
+    "title": {
+      "cn": "爬楼梯",
+      "en": "70-climbing-stairs"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/climbing-stairs/",
+    "path": "../amass/70-climbing-stairs/README.md"
   }
 ]

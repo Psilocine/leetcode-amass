@@ -23,12 +23,14 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
+| 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 
 ## 动态规划
 
 | 题目 | 难度 |
 | ---- | ---- |
 | 53. [最大子数组和](../amass/53-maximun-subarray/README.md) | 简单 |
+| 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 
 ## 分治
 

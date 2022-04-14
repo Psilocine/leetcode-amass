@@ -7,3 +7,5 @@
 [21. 合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md)
 
 [53. 最大子数组和](../amass/53-maximun-subarray/README.md)
+
+[70. 爬楼梯](../amass/70-climbing-stairs/README.md)
