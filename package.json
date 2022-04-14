@@ -6,6 +6,8 @@
   "scripts": {
     "create": "node scripts/create",
     "update": "node scripts/category",
+    "c": "node scripts/create",
+    "u": "node scripts/category",
     "test": "vitest"
   },
   "repository": {

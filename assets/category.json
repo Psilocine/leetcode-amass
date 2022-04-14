@@ -42,5 +42,27 @@
         "difficulty": "简单"
       }
     ]
+  },
+  {
+    "label": "动态规划",
+    "problems": [
+      {
+        "id": 53,
+        "title": "最大子数组和",
+        "path": "../amass/53-maximun-subarray/README.md",
+        "difficulty": "简单"
+      }
+    ]
+  },
+  {
+    "label": "分治",
+    "problems": [
+      {
+        "id": 53,
+        "title": "最大子数组和",
+        "path": "../amass/53-maximun-subarray/README.md",
+        "difficulty": "简单"
+      }
+    ]
   }
 ]

@@ -71,7 +71,7 @@ const getFunctionName = (en) => {
 };
 
 const generateProblemMarkdown = ({ cn, difficulty, url, id }) => {
-  return `# ${id}. ${cn}\r\n\r\n> 难度：${difficulty}\r\n>\r\n> ${url}\r\n\r\n## 题目`;
+  return `# ${id}. ${cn}\r\n\r\n> 难度：${difficulty}\r\n>\r\n> ${url}\r\n\r\n## 题目\r\n\r\n## 解答`;
 };
 
 const update = ({ cn, en, difficulty, url, id }) => {

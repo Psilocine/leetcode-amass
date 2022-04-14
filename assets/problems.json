@@ -28,5 +28,15 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/merge-two-sorted-lists/",
     "path": "../amass/21-merge-two-sorted-lists/README.md"
+  },
+  {
+    "id": 53,
+    "title": {
+      "cn": "最大子数组和",
+      "en": "53-maximun-subarray"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/maximum-subarray/",
+    "path": "../amass/53-maximun-subarray/README.md"
   }
 ]
