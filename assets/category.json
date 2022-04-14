@@ -9,5 +9,38 @@
         "difficulty": "简单"
       }
     ]
+  },
+  {
+    "label": "栈",
+    "problems": [
+      {
+        "id": 20,
+        "title": "有效的括号",
+        "path": "../amass/20-valid-parentheses/README.md",
+        "difficulty": "简单"
+      }
+    ]
+  },
+  {
+    "label": "迭代",
+    "problems": [
+      {
+        "id": 21,
+        "title": "合并两个有序链表",
+        "path": "../amass/21-merge-two-sorted-lists/README.md",
+        "difficulty": "简单"
+      }
+    ]
+  },
+  {
+    "label": "递归",
+    "problems": [
+      {
+        "id": 21,
+        "title": "合并两个有序链表",
+        "path": "../amass/21-merge-two-sorted-lists/README.md",
+        "difficulty": "简单"
+      }
+    ]
   }
 ]

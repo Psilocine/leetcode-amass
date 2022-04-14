@@ -8,5 +8,25 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/two-sum/",
     "path": "../amass/1-two-sum/README.md"
+  },
+  {
+    "id": 20,
+    "title": {
+      "cn": "有效的括号",
+      "en": "20-valid-parentheses"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/valid-parentheses/",
+    "path": "../amass/20-valid-parentheses/README.md"
+  },
+  {
+    "id": 21,
+    "title": {
+      "cn": "合并两个有序链表",
+      "en": "21-merge-two-sorted-lists"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/merge-two-sorted-lists/",
+    "path": "../amass/21-merge-two-sorted-lists/README.md"
   }
 ]

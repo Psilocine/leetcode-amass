@@ -3,7 +3,7 @@ const path = require("path");
 const { log } = require("../utils/log");
 
 const getPath = (p) => {
-  return path.resolve(path.resolve(__dirname, "../"), p);
+  return path.resolve(path.resolve(__dirname, "../../"), p);
 };
 
 const checkHasPath = (path) => {
@@ -34,7 +34,7 @@ const updateReadMeMarkdown = (problems) => {
 };
 
 const updateDataJson = ({ cn, en, difficulty, url, id }) => {
-  const data = fs.readFileSync("./assets/problems.json", "utf-8");
+  const data = fs.readFileSync(getPath("./assets/problems.json"), "utf-8");
   const arr = JSON.parse(data);
   arr.push({
     id: Number(id),
@@ -87,7 +87,7 @@ const update = ({ cn, en, difficulty, url, id }) => {
       generateProblemMarkdown({ cn, difficulty, url, id })
     );
     fs.writeFileSync(
-      `amass/${projectPath}/${en}.spec.ts`,
+      `amass/${projectPath}/index.spec.ts`,
       `import { describe, expect, it } from "vitest";
 
 describe("${cn}", () => {});
