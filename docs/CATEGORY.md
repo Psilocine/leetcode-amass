@@ -17,6 +17,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
+| 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 
 ## 递归
 
@@ -24,6 +25,7 @@
 | ---- | ---- |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
+| 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 
 ## 动态规划
 

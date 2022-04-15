@@ -9,3 +9,5 @@
 [53. 最大子数组和](../amass/53-maximun-subarray/README.md)
 
 [70. 爬楼梯](../amass/70-climbing-stairs/README.md)
+
+[94. 二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md)

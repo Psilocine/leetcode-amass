@@ -48,5 +48,15 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/climbing-stairs/",
     "path": "../amass/70-climbing-stairs/README.md"
+  },
+  {
+    "id": 94,
+    "title": {
+      "cn": "二叉树的中序遍历",
+      "en": "94-binary-tree-inorder-traversal"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/binary-tree-inorder-traversal/",
+    "path": "../amass/94-binary-tree-inorder-traversal/README.md"
   }
 ]

@@ -29,6 +29,12 @@
         "title": "合并两个有序链表",
         "path": "../amass/21-merge-two-sorted-lists/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 94,
+        "title": "二叉树的中序遍历",
+        "path": "../amass/94-binary-tree-inorder-traversal/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -45,6 +51,12 @@
         "id": 70,
         "title": "爬楼梯",
         "path": "../amass/70-climbing-stairs/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 94,
+        "title": "二叉树的中序遍历",
+        "path": "../amass/94-binary-tree-inorder-traversal/README.md",
         "difficulty": "简单"
       }
     ]
