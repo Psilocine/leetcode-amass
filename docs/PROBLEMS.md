@@ -11,3 +11,7 @@
 [70. 爬楼梯](../amass/70-climbing-stairs/README.md)
 
 [94. 二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md)
+
+[101. 对称二叉树](../amass/101-symmetric-tree/README.md)
+
+[121. 买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md)

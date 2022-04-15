@@ -58,5 +58,25 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/binary-tree-inorder-traversal/",
     "path": "../amass/94-binary-tree-inorder-traversal/README.md"
+  },
+  {
+    "id": 101,
+    "title": {
+      "cn": "对称二叉树",
+      "en": "101-symmetric-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/symmetric-tree/",
+    "path": "../amass/101-symmetric-tree/README.md"
+  },
+  {
+    "id": 121,
+    "title": {
+      "cn": "买卖股票的最佳时机",
+      "en": "121-best-time-to-buy-and-sell-stock"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/",
+    "path": "../amass/121-best-time-to-buy-and-sell-stock/README.md"
   }
 ]

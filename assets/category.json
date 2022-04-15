@@ -75,6 +75,12 @@
         "title": "爬楼梯",
         "path": "../amass/70-climbing-stairs/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 121,
+        "title": "买卖股票的最佳时机",
+        "path": "../amass/121-best-time-to-buy-and-sell-stock/README.md",
+        "difficulty": "简单"
       }
     ]
   },

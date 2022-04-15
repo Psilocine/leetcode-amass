@@ -33,6 +33,7 @@
 | ---- | ---- |
 | 53. [最大子数组和](../amass/53-maximun-subarray/README.md) | 简单 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
+| 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
 
 ## 分治
 
