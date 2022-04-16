@@ -14,4 +14,14 @@
 
 [101. 对称二叉树](../amass/101-symmetric-tree/README.md)
 
+[104. 二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md)
+
 [121. 买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md)
+
+[136. 只出现一次的数字](../amass/136-single-number/README.md)
+
+[141. 环形链表](../amass/141-linked-list-cycle/README.md)
+
+[155. 最小栈](../amass/155-min-stack/README.md)
+
+[160. 相交链表](../amass/160-intersection-of-two-linked-lists/README.md)

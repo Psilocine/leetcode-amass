@@ -70,6 +70,16 @@
     "path": "../amass/101-symmetric-tree/README.md"
   },
   {
+    "id": 104,
+    "title": {
+      "cn": "二叉树的最大深度",
+      "en": "104-maximum-depth-of-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/",
+    "path": "../amass/104-maximum-depth-of-binary-tree/README.md"
+  },
+  {
     "id": 121,
     "title": {
       "cn": "买卖股票的最佳时机",
@@ -78,5 +88,45 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/",
     "path": "../amass/121-best-time-to-buy-and-sell-stock/README.md"
+  },
+  {
+    "id": 136,
+    "title": {
+      "cn": "只出现一次的数字",
+      "en": "136-single-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/single-number/",
+    "path": "../amass/136-single-number/README.md"
+  },
+  {
+    "id": 141,
+    "title": {
+      "cn": "环形链表",
+      "en": "141-linked-list-cycle"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/linked-list-cycle/",
+    "path": "../amass/141-linked-list-cycle/README.md"
+  },
+  {
+    "id": 155,
+    "title": {
+      "cn": "最小栈",
+      "en": "155-min-stack"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/min-stack/",
+    "path": "../amass/155-min-stack/README.md"
+  },
+  {
+    "id": 160,
+    "title": {
+      "cn": "相交链表",
+      "en": "160-intersection-of-two-linked-lists"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/intersection-of-two-linked-lists/",
+    "path": "../amass/160-intersection-of-two-linked-lists/README.md"
   }
 ]

@@ -7,6 +7,24 @@
         "title": "两数之和",
         "path": "../amass/1-two-sum/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 136,
+        "title": "只出现一次的数字",
+        "path": "../amass/136-single-number/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 141,
+        "title": "环形链表",
+        "path": "../amass/141-linked-list-cycle/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 160,
+        "title": "相交链表",
+        "path": "../amass/160-intersection-of-two-linked-lists/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -17,6 +35,12 @@
         "id": 20,
         "title": "有效的括号",
         "path": "../amass/20-valid-parentheses/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 155,
+        "title": "最小栈",
+        "path": "../amass/155-min-stack/README.md",
         "difficulty": "简单"
       }
     ]
@@ -34,6 +58,12 @@
         "id": 94,
         "title": "二叉树的中序遍历",
         "path": "../amass/94-binary-tree-inorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 104,
+        "title": "二叉树的最大深度",
+        "path": "../amass/104-maximum-depth-of-binary-tree/README.md",
         "difficulty": "简单"
       }
     ]
@@ -57,6 +87,12 @@
         "id": 94,
         "title": "二叉树的中序遍历",
         "path": "../amass/94-binary-tree-inorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 104,
+        "title": "二叉树的最大深度",
+        "path": "../amass/104-maximum-depth-of-binary-tree/README.md",
         "difficulty": "简单"
       }
     ]
@@ -91,6 +127,34 @@
         "id": 53,
         "title": "最大子数组和",
         "path": "../amass/53-maximun-subarray/README.md",
+        "difficulty": "简单"
+      }
+    ]
+  },
+  {
+    "label": "位运算",
+    "problems": [
+      {
+        "id": 136,
+        "title": "只出现一次的数字",
+        "path": "../amass/136-single-number/README.md",
+        "difficulty": "简单"
+      }
+    ]
+  },
+  {
+    "label": "双指针",
+    "problems": [
+      {
+        "id": 141,
+        "title": "环形链表",
+        "path": "../amass/141-linked-list-cycle/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 160,
+        "title": "相交链表",
+        "path": "../amass/160-intersection-of-two-linked-lists/README.md",
         "difficulty": "简单"
       }
     ]
