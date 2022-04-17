@@ -25,6 +25,12 @@
         "title": "相交链表",
         "path": "../amass/160-intersection-of-two-linked-lists/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 169,
+        "title": "多数元素",
+        "path": "../amass/169-majority-element/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -155,6 +161,17 @@
         "id": 160,
         "title": "相交链表",
         "path": "../amass/160-intersection-of-two-linked-lists/README.md",
+        "difficulty": "简单"
+      }
+    ]
+  },
+  {
+    "label": "排序",
+    "problems": [
+      {
+        "id": 169,
+        "title": "多数元素",
+        "path": "../amass/169-majority-element/README.md",
         "difficulty": "简单"
       }
     ]

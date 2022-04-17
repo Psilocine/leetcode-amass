@@ -8,6 +8,7 @@
 | 136. [只出现一次的数字](../amass/136-single-number/README.md) | 简单 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
+| 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 
 ## 栈
 
@@ -59,3 +60,9 @@
 | ---- | ---- |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
+
+## 排序
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |

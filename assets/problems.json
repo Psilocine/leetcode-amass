@@ -128,5 +128,15 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/intersection-of-two-linked-lists/",
     "path": "../amass/160-intersection-of-two-linked-lists/README.md"
+  },
+  {
+    "id": 169,
+    "title": {
+      "cn": "多数元素",
+      "en": "169-majority-element"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/majority-element/",
+    "path": "../amass/169-majority-element/README.md"
   }
 ]
