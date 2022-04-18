@@ -28,6 +28,8 @@
 
 [169. 多数元素](../amass/169-majority-element/README.md)
 
+[206. 反转链表](../amass/206-reverse-linked-list/README.md)
+
 [338. 比特位计数](../amass/338-counting-bits/README.md)
 
 [461. 汉明距离](../amass/461-hamming-distance/README.md)

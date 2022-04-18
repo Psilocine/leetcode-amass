@@ -140,6 +140,16 @@
     "path": "../amass/169-majority-element/README.md"
   },
   {
+    "id": 206,
+    "title": {
+      "cn": "反转链表",
+      "en": "206-reverse-linked-list"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/reverse-linked-list/",
+    "path": "../amass/206-reverse-linked-list/README.md"
+  },
+  {
     "id": 338,
     "title": {
       "cn": "比特位计数",

@@ -71,6 +71,12 @@
         "title": "二叉树的最大深度",
         "path": "../amass/104-maximum-depth-of-binary-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 206,
+        "title": "反转链表",
+        "path": "../amass/206-reverse-linked-list/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -99,6 +105,12 @@
         "id": 104,
         "title": "二叉树的最大深度",
         "path": "../amass/104-maximum-depth-of-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 206,
+        "title": "反转链表",
+        "path": "../amass/206-reverse-linked-list/README.md",
         "difficulty": "简单"
       }
     ]

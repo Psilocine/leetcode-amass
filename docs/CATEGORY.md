@@ -24,6 +24,7 @@
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
+| 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 
 ## 递归
 
@@ -33,6 +34,7 @@
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
+| 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 
 ## 动态规划
 
