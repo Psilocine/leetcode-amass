@@ -138,5 +138,25 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/majority-element/",
     "path": "../amass/169-majority-element/README.md"
+  },
+  {
+    "id": 338,
+    "title": {
+      "cn": "比特位计数",
+      "en": "338-counting-bits"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/counting-bits/",
+    "path": "../amass/338-counting-bits/README.md"
+  },
+  {
+    "id": 461,
+    "title": {
+      "cn": "汉明距离",
+      "en": "461-hamming-distance"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/hamming-distance/",
+    "path": "../amass/461-hamming-distance/README.md"
   }
 ]

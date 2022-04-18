@@ -41,6 +41,7 @@
 | 53. [最大子数组和](../amass/53-maximun-subarray/README.md) | 简单 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
+| 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 
 ## 分治
 
@@ -53,6 +54,8 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 136. [只出现一次的数字](../amass/136-single-number/README.md) | 简单 |
+| 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
+| 461. [汉明距离](../amass/461-hamming-distance/README.md) | 简单 |
 
 ## 双指针
 
@@ -66,3 +69,10 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
+
+## 数学
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
+| 461. [汉明距离](../amass/461-hamming-distance/README.md) | 简单 |

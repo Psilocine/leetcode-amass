@@ -123,6 +123,12 @@
         "title": "买卖股票的最佳时机",
         "path": "../amass/121-best-time-to-buy-and-sell-stock/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 338,
+        "title": "比特位计数",
+        "path": "../amass/338-counting-bits/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -144,6 +150,18 @@
         "id": 136,
         "title": "只出现一次的数字",
         "path": "../amass/136-single-number/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 338,
+        "title": "比特位计数",
+        "path": "../amass/338-counting-bits/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 461,
+        "title": "汉明距离",
+        "path": "../amass/461-hamming-distance/README.md",
         "difficulty": "简单"
       }
     ]
@@ -172,6 +190,23 @@
         "id": 169,
         "title": "多数元素",
         "path": "../amass/169-majority-element/README.md",
+        "difficulty": "简单"
+      }
+    ]
+  },
+  {
+    "label": "数学",
+    "problems": [
+      {
+        "id": 338,
+        "title": "比特位计数",
+        "path": "../amass/338-counting-bits/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 461,
+        "title": "汉明距离",
+        "path": "../amass/461-hamming-distance/README.md",
         "difficulty": "简单"
       }
     ]

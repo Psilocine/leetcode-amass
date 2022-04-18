@@ -27,3 +27,7 @@
 [160. 相交链表](../amass/160-intersection-of-two-linked-lists/README.md)
 
 [169. 多数元素](../amass/169-majority-element/README.md)
+
+[338. 比特位计数](../amass/338-counting-bits/README.md)
+
+[461. 汉明距离](../amass/461-hamming-distance/README.md)
