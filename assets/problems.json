@@ -150,6 +150,36 @@
     "path": "../amass/206-reverse-linked-list/README.md"
   },
   {
+    "id": 226,
+    "title": {
+      "cn": "翻转二叉树",
+      "en": "226-invert-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/invert-binary-tree/",
+    "path": "../amass/226-invert-binary-tree/README.md"
+  },
+  {
+    "id": 234,
+    "title": {
+      "cn": "回文链表",
+      "en": "234-palindrome-linked-list"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/palindrome-linked-list/",
+    "path": "../amass/234-palindrome-linked-list/README.md"
+  },
+  {
+    "id": 283,
+    "title": {
+      "cn": "移动零",
+      "en": "283-move-zeroes"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/move-zeroes/",
+    "path": "../amass/283-move-zeroes/README.md"
+  },
+  {
     "id": 338,
     "title": {
       "cn": "比特位计数",
@@ -160,6 +190,16 @@
     "path": "../amass/338-counting-bits/README.md"
   },
   {
+    "id": 448,
+    "title": {
+      "cn": "找到所有数组中消失的数字",
+      "en": "448-find-all-numbers-disappeared-in-an-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/",
+    "path": "../amass/448-find-all-numbers-disappeared-in-an-array/README.md"
+  },
+  {
     "id": 461,
     "title": {
       "cn": "汉明距离",
@@ -168,5 +208,25 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/hamming-distance/",
     "path": "../amass/461-hamming-distance/README.md"
+  },
+  {
+    "id": 543,
+    "title": {
+      "cn": "二叉树的直径",
+      "en": "543-diameter-of-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/diameter-of-binary-tree/",
+    "path": "../amass/543-diameter-of-binary-tree/README.md"
+  },
+  {
+    "id": 617,
+    "title": {
+      "cn": "合并二叉树",
+      "en": "617-merge-two-binary-trees"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode-cn.com/problems/merge-two-binary-trees/",
+    "path": "../amass/617-merge-two-binary-trees/README.md"
   }
 ]

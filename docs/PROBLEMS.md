@@ -30,6 +30,18 @@
 
 [206. 反转链表](../amass/206-reverse-linked-list/README.md)
 
+[226. 翻转二叉树](../amass/226-invert-binary-tree/README.md)
+
+[234. 回文链表](../amass/234-palindrome-linked-list/README.md)
+
+[283. 移动零](../amass/283-move-zeroes/README.md)
+
 [338. 比特位计数](../amass/338-counting-bits/README.md)
 
+[448. 找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md)
+
 [461. 汉明距离](../amass/461-hamming-distance/README.md)
+
+[543. 二叉树的直径](../amass/543-diameter-of-binary-tree/README.md)
+
+[617. 合并二叉树](../amass/617-merge-two-binary-trees/README.md)

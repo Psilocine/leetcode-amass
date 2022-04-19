@@ -35,6 +35,9 @@
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
+| 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
+| 543. [二叉树的直径](../amass/543-diameter-of-binary-tree/README.md) | 简单 |
+| 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
 
 ## 动态规划
 
@@ -65,16 +68,20 @@
 | ---- | ---- |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
+| 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
+| 283. [移动零](../amass/283-move-zeroes/README.md) | 简单 |
 
 ## 排序
 
 | 题目 | 难度 |
 | ---- | ---- |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
+| 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 
 ## 数学
 
 | 题目 | 难度 |
 | ---- | ---- |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
+| 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 461. [汉明距离](../amass/461-hamming-distance/README.md) | 简单 |

@@ -112,6 +112,24 @@
         "title": "反转链表",
         "path": "../amass/206-reverse-linked-list/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 226,
+        "title": "翻转二叉树",
+        "path": "../amass/226-invert-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 543,
+        "title": "二叉树的直径",
+        "path": "../amass/543-diameter-of-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 617,
+        "title": "合并二叉树",
+        "path": "../amass/617-merge-two-binary-trees/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -192,6 +210,18 @@
         "title": "相交链表",
         "path": "../amass/160-intersection-of-two-linked-lists/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 234,
+        "title": "回文链表",
+        "path": "../amass/234-palindrome-linked-list/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 283,
+        "title": "移动零",
+        "path": "../amass/283-move-zeroes/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -203,6 +233,12 @@
         "title": "多数元素",
         "path": "../amass/169-majority-element/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 448,
+        "title": "找到所有数组中消失的数字",
+        "path": "../amass/448-find-all-numbers-disappeared-in-an-array/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -213,6 +249,12 @@
         "id": 338,
         "title": "比特位计数",
         "path": "../amass/338-counting-bits/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 448,
+        "title": "找到所有数组中消失的数字",
+        "path": "../amass/448-find-all-numbers-disappeared-in-an-array/README.md",
         "difficulty": "简单"
       },
       {
