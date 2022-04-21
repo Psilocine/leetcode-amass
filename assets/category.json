@@ -159,6 +159,12 @@
         "title": "比特位计数",
         "path": "../amass/338-counting-bits/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 647,
+        "title": "回文子串",
+        "path": "../amass/647-palindromic-substrings/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -262,6 +268,12 @@
         "title": "汉明距离",
         "path": "../amass/461-hamming-distance/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 621,
+        "title": "任务调度器",
+        "path": "../amass/621-task-scheduler/README.md",
+        "difficulty": "中等"
       }
     ]
   }

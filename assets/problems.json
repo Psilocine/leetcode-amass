@@ -228,5 +228,25 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/merge-two-binary-trees/",
     "path": "../amass/617-merge-two-binary-trees/README.md"
+  },
+  {
+    "id": 621,
+    "title": {
+      "cn": "任务调度器",
+      "en": "621-task-scheduler"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/task-scheduler/",
+    "path": "../amass/621-task-scheduler/README.md"
+  },
+  {
+    "id": 647,
+    "title": {
+      "cn": "回文子串",
+      "en": "647-palindromic-substrings"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/palindromic-substrings/",
+    "path": "../amass/647-palindromic-substrings/README.md"
   }
 ]

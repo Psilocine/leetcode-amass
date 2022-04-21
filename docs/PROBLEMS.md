@@ -45,3 +45,7 @@
 [543. 二叉树的直径](../amass/543-diameter-of-binary-tree/README.md)
 
 [617. 合并二叉树](../amass/617-merge-two-binary-trees/README.md)
+
+[621. 任务调度器](../amass/621-task-scheduler/README.md)
+
+[647. 回文子串](../amass/647-palindromic-substrings/README.md)

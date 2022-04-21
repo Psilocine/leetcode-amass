@@ -47,6 +47,7 @@
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
+| 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
 
 ## 分治
 
@@ -85,3 +86,4 @@
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 461. [汉明距离](../amass/461-hamming-distance/README.md) | 简单 |
+| 621. [任务调度器](../amass/621-task-scheduler/README.md) | 中等 |
