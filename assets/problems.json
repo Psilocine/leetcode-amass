@@ -10,6 +10,16 @@
     "path": "../amass/1-two-sum/README.md"
   },
   {
+    "id": 2,
+    "title": {
+      "cn": "两数相加",
+      "en": "2-add-two-numbers"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/add-two-numbers/",
+    "path": "../amass/2-add-two-numbers/README.md"
+  },
+  {
     "id": 20,
     "title": {
       "cn": "有效的括号",
@@ -38,6 +48,16 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/maximum-subarray/",
     "path": "../amass/53-maximun-subarray/README.md"
+  },
+  {
+    "id": 56,
+    "title": {
+      "cn": "合并区间",
+      "en": "56-merge-intervals"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/merge-intervals/",
+    "path": "../amass/56-merge-intervals/README.md"
   },
   {
     "id": 70,

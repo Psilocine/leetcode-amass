@@ -15,12 +15,14 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 20. [有效的括号](../amass/20-valid-parentheses/README.md) | 简单 |
+| 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
 
 ## 迭代
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 2. [两数相加](../amass/2-add-two-numbers/README.md) | 中等 |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
@@ -67,6 +69,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
@@ -76,6 +79,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 

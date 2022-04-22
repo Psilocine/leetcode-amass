@@ -44,6 +44,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 56,
+        "title": "合并区间",
+        "path": "../amass/56-merge-intervals/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 155,
         "title": "最小栈",
         "path": "../amass/155-min-stack/README.md",
@@ -54,6 +60,12 @@
   {
     "label": "迭代",
     "problems": [
+      {
+        "id": 2,
+        "title": "两数相加",
+        "path": "../amass/2-add-two-numbers/README.md",
+        "difficulty": "中等"
+      },
       {
         "id": 21,
         "title": "合并两个有序链表",
@@ -206,6 +218,12 @@
     "label": "双指针",
     "problems": [
       {
+        "id": 56,
+        "title": "合并区间",
+        "path": "../amass/56-merge-intervals/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 141,
         "title": "环形链表",
         "path": "../amass/141-linked-list-cycle/README.md",
@@ -234,6 +252,12 @@
   {
     "label": "排序",
     "problems": [
+      {
+        "id": 56,
+        "title": "合并区间",
+        "path": "../amass/56-merge-intervals/README.md",
+        "difficulty": "中等"
+      },
       {
         "id": 169,
         "title": "多数元素",
