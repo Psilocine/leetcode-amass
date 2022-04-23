@@ -4,6 +4,10 @@
 
 [2. 两数相加](../amass/2-add-two-numbers/README.md)
 
+[3. 无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md)
+
+[5. 最长回文子串](../amass/5-longest-palindromic-substring/README.md)
+
 [20. 有效的括号](../amass/20-valid-parentheses/README.md)
 
 [21. 合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md)

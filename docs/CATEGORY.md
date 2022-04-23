@@ -5,6 +5,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 1. [两数之和](../amass/1-two-sum/README.md) | 简单 |
+| 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 136. [只出现一次的数字](../amass/136-single-number/README.md) | 简单 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
@@ -69,6 +70,8 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
+| 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
@@ -91,3 +94,15 @@
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 461. [汉明距离](../amass/461-hamming-distance/README.md) | 简单 |
 | 621. [任务调度器](../amass/621-task-scheduler/README.md) | 中等 |
+
+## 滑动窗口
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
+
+## 贪心
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |

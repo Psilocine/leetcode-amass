@@ -9,6 +9,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 3,
+        "title": "无重复字符的最长子串",
+        "path": "../amass/3-longest-substring-without-repeating-characters/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 136,
         "title": "只出现一次的数字",
         "path": "../amass/136-single-number/README.md",
@@ -218,6 +224,18 @@
     "label": "双指针",
     "problems": [
       {
+        "id": 3,
+        "title": "无重复字符的最长子串",
+        "path": "../amass/3-longest-substring-without-repeating-characters/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 5,
+        "title": "最长回文子串",
+        "path": "../amass/5-longest-palindromic-substring/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 56,
         "title": "合并区间",
         "path": "../amass/56-merge-intervals/README.md",
@@ -297,6 +315,28 @@
         "id": 621,
         "title": "任务调度器",
         "path": "../amass/621-task-scheduler/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "滑动窗口",
+    "problems": [
+      {
+        "id": 3,
+        "title": "无重复字符的最长子串",
+        "path": "../amass/3-longest-substring-without-repeating-characters/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "贪心",
+    "problems": [
+      {
+        "id": 5,
+        "title": "最长回文子串",
+        "path": "../amass/5-longest-palindromic-substring/README.md",
         "difficulty": "中等"
       }
     ]

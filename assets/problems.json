@@ -20,6 +20,26 @@
     "path": "../amass/2-add-two-numbers/README.md"
   },
   {
+    "id": 3,
+    "title": {
+      "cn": "无重复字符的最长子串",
+      "en": "3-longest-substring-without-repeating-characters"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/",
+    "path": "../amass/3-longest-substring-without-repeating-characters/README.md"
+  },
+  {
+    "id": 5,
+    "title": {
+      "cn": "最长回文子串",
+      "en": "5-longest-palindromic-substring"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/longest-palindromic-substring/",
+    "path": "../amass/5-longest-palindromic-substring/README.md"
+  },
+  {
     "id": 20,
     "title": {
       "cn": "有效的括号",
