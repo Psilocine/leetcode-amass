@@ -155,6 +155,12 @@
     "label": "动态规划",
     "problems": [
       {
+        "id": 5,
+        "title": "最长回文子串",
+        "path": "../amass/5-longest-palindromic-substring/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 53,
         "title": "最大子数组和",
         "path": "../amass/53-maximun-subarray/README.md",
@@ -233,6 +239,12 @@
         "id": 5,
         "title": "最长回文子串",
         "path": "../amass/5-longest-palindromic-substring/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 11,
+        "title": "盛最多水的容器",
+        "path": "../amass/11-container-with-most-water/README.md",
         "difficulty": "中等"
       },
       {
@@ -332,6 +344,17 @@
   },
   {
     "label": "贪心",
+    "problems": [
+      {
+        "id": 5,
+        "title": "最长回文子串",
+        "path": "../amass/5-longest-palindromic-substring/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "中间扩散",
     "problems": [
       {
         "id": 5,

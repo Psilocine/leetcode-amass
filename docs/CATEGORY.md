@@ -46,6 +46,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
 | 53. [最大子数组和](../amass/53-maximun-subarray/README.md) | 简单 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
@@ -72,6 +73,7 @@
 | ---- | ---- |
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
+| 11. [盛最多水的容器](../amass/11-container-with-most-water/README.md) | 中等 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
@@ -102,6 +104,12 @@
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 
 ## 贪心
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
+
+## 中间扩散
 
 | 题目 | 难度 |
 | ---- | ---- |

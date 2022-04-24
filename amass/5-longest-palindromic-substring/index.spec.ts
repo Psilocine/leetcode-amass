@@ -1,8 +1,16 @@
 import { describe, expect, it } from "vitest";
-import { longestPalindrome } from ".";
+import { longestPalindrome, longestPalindrome2, longestPalindrome3 } from ".";
 
 describe("最长回文子串", () => {
-  testCase(longestPalindrome);
+  describe("动态规划", () => {
+    testCase(longestPalindrome);
+  });
+  describe("贪心 + 双指针", () => {
+    testCase(longestPalindrome2);
+  });
+  describe("中心扩展", () => {
+    testCase(longestPalindrome3);
+  });
 });
 
 function testCase(fn: (s:string) => string) {
