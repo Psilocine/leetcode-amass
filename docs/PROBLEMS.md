@@ -14,6 +14,8 @@
 
 [17. 电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md)
 
+[19. 删除链表的倒数第 N 个结点](../amass/19-remove-nth-node-from-end-of-list/README.md)
+
 [20. 有效的括号](../amass/20-valid-parentheses/README.md)
 
 [21. 合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md)

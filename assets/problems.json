@@ -70,6 +70,16 @@
     "path": "../amass/17-letter-combinations-of-a-phone-number/README.md"
   },
   {
+    "id": 19,
+    "title": {
+      "cn": "删除链表的倒数第 N 个结点",
+      "en": "19-remove-nth-node-from-end-of-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/",
+    "path": "../amass/19-remove-nth-node-from-end-of-list/README.md"
+  },
+  {
     "id": 20,
     "title": {
       "cn": "有效的括号",

@@ -266,6 +266,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 19,
+        "title": "删除链表的倒数第 N 个结点",
+        "path": "../amass/19-remove-nth-node-from-end-of-list/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 56,
         "title": "合并区间",
         "path": "../amass/56-merge-intervals/README.md",
