@@ -44,6 +44,12 @@
     "label": "栈",
     "problems": [
       {
+        "id": 17,
+        "title": "电话号码的字母组合",
+        "path": "../amass/17-letter-combinations-of-a-phone-number/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 20,
         "title": "有效的括号",
         "path": "../amass/20-valid-parentheses/README.md",
@@ -101,6 +107,12 @@
   {
     "label": "递归",
     "problems": [
+      {
+        "id": 17,
+        "title": "电话号码的字母组合",
+        "path": "../amass/17-letter-combinations-of-a-phone-number/README.md",
+        "difficulty": "中等"
+      },
       {
         "id": 21,
         "title": "合并两个有序链表",
@@ -245,6 +257,12 @@
         "id": 11,
         "title": "盛最多水的容器",
         "path": "../amass/11-container-with-most-water/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 15,
+        "title": "三数之和",
+        "path": "../amass/15-3sum/README.md",
         "difficulty": "中等"
       },
       {

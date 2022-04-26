@@ -15,6 +15,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 17. [电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md) | 中等 |
 | 20. [有效的括号](../amass/20-valid-parentheses/README.md) | 简单 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
@@ -33,6 +34,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 17. [电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md) | 中等 |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
@@ -74,6 +76,7 @@
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
 | 11. [盛最多水的容器](../amass/11-container-with-most-water/README.md) | 中等 |
+| 15. [三数之和](../amass/15-3sum/README.md) | 中等 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |

@@ -10,6 +10,10 @@
 
 [11. 盛最多水的容器](../amass/11-container-with-most-water/README.md)
 
+[15. 三数之和](../amass/15-3sum/README.md)
+
+[17. 电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md)
+
 [20. 有效的括号](../amass/20-valid-parentheses/README.md)
 
 [21. 合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md)

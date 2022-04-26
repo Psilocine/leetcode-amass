@@ -50,6 +50,26 @@
     "path": "../amass/11-container-with-most-water/README.md"
   },
   {
+    "id": 15,
+    "title": {
+      "cn": "三数之和",
+      "en": "15-3sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/3sum/",
+    "path": "../amass/15-3sum/README.md"
+  },
+  {
+    "id": 17,
+    "title": {
+      "cn": "电话号码的字母组合",
+      "en": "17-letter-combinations-of-a-phone-number"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/",
+    "path": "../amass/17-letter-combinations-of-a-phone-number/README.md"
+  },
+  {
     "id": 20,
     "title": {
       "cn": "有效的括号",
