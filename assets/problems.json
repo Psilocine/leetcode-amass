@@ -100,6 +100,16 @@
     "path": "../amass/21-merge-two-sorted-lists/README.md"
   },
   {
+    "id": 22,
+    "title": {
+      "cn": "括号生成",
+      "en": "22-generate-parentheses"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/generate-parentheses/",
+    "path": "../amass/22-generate-parentheses/README.md"
+  },
+  {
     "id": 53,
     "title": {
       "cn": "最大子数组和",

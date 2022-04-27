@@ -15,6 +15,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 22,
+        "title": "括号生成",
+        "path": "../amass/22-generate-parentheses/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 136,
         "title": "只出现一次的数字",
         "path": "../amass/136-single-number/README.md",
@@ -118,6 +124,12 @@
         "title": "合并两个有序链表",
         "path": "../amass/21-merge-two-sorted-lists/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 22,
+        "title": "括号生成",
+        "path": "../amass/22-generate-parentheses/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 70,

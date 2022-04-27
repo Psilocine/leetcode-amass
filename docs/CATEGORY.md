@@ -6,6 +6,7 @@
 | ---- | ---- |
 | 1. [两数之和](../amass/1-two-sum/README.md) | 简单 |
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
+| 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
 | 136. [只出现一次的数字](../amass/136-single-number/README.md) | 简单 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
@@ -36,6 +37,7 @@
 | ---- | ---- |
 | 17. [电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md) | 中等 |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
+| 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
