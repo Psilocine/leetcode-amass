@@ -80,6 +80,7 @@
 | 11. [盛最多水的容器](../amass/11-container-with-most-water/README.md) | 中等 |
 | 15. [三数之和](../amass/15-3sum/README.md) | 中等 |
 | 19. [删除链表的倒数第 N 个结点](../amass/19-remove-nth-node-from-end-of-list/README.md) | 中等 |
+| 31. [下一个排列](../amass/31-next-permutation/README.md) | 中等 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |

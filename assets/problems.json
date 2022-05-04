@@ -110,6 +110,16 @@
     "path": "../amass/22-generate-parentheses/README.md"
   },
   {
+    "id": 31,
+    "title": {
+      "cn": "下一个排列",
+      "en": "31-next-permutation"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/next-permutation/",
+    "path": "../amass/31-next-permutation/README.md"
+  },
+  {
     "id": 53,
     "title": {
       "cn": "最大子数组和",

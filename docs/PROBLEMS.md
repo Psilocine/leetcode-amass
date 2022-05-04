@@ -22,6 +22,8 @@
 
 [22. 括号生成](../amass/22-generate-parentheses/README.md)
 
+[31. 下一个排列](../amass/31-next-permutation/README.md)
+
 [53. 最大子数组和](../amass/53-maximun-subarray/README.md)
 
 [56. 合并区间](../amass/56-merge-intervals/README.md)
