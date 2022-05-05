@@ -24,6 +24,8 @@
 
 [31. 下一个排列](../amass/31-next-permutation/README.md)
 
+[33. 搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md)
+
 [53. 最大子数组和](../amass/53-maximun-subarray/README.md)
 
 [56. 合并区间](../amass/56-merge-intervals/README.md)

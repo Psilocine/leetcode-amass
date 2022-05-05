@@ -121,3 +121,9 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
+
+## 二分法
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 33. [搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md) | 中等 |

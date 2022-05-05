@@ -405,5 +405,16 @@
         "difficulty": "中等"
       }
     ]
+  },
+  {
+    "label": "二分法",
+    "problems": [
+      {
+        "id": 33,
+        "title": "搜索旋转排序数组",
+        "path": "../amass/33-search-in-rotated-sorted-array/README.md",
+        "difficulty": "中等"
+      }
+    ]
   }
 ]

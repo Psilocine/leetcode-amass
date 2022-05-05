@@ -120,6 +120,16 @@
     "path": "../amass/31-next-permutation/README.md"
   },
   {
+    "id": 33,
+    "title": {
+      "cn": "搜索旋转排序数组",
+      "en": "33-search-in-rotated-sorted-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/search-in-rotated-sorted-array/",
+    "path": "../amass/33-search-in-rotated-sorted-array/README.md"
+  },
+  {
     "id": 53,
     "title": {
       "cn": "最大子数组和",
