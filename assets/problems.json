@@ -130,6 +130,16 @@
     "path": "../amass/33-search-in-rotated-sorted-array/README.md"
   },
   {
+    "id": 34,
+    "title": {
+      "cn": "在排序数组中查找元素的第一个和最后一个位置",
+      "en": "34-find-first-and-last-position-of-element-in-sorted-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "path": "../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md"
+  },
+  {
     "id": 53,
     "title": {
       "cn": "最大子数组和",

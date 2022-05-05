@@ -127,3 +127,4 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 33. [搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md) | 中等 |
+| 34. [在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
