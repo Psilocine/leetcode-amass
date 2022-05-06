@@ -21,6 +21,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 49,
+        "title": "字母异位词分组",
+        "path": "../amass/49-group-anagrams/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 136,
         "title": "只出现一次的数字",
         "path": "../amass/136-single-number/README.md",
@@ -337,6 +343,12 @@
     "label": "排序",
     "problems": [
       {
+        "id": 49,
+        "title": "字母异位词分组",
+        "path": "../amass/49-group-anagrams/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 56,
         "title": "合并区间",
         "path": "../amass/56-merge-intervals/README.md",
@@ -359,6 +371,12 @@
   {
     "label": "数学",
     "problems": [
+      {
+        "id": 48,
+        "title": "旋转图像",
+        "path": "../amass/48-rotate-image/README.md",
+        "difficulty": "中等"
+      },
       {
         "id": 338,
         "title": "比特位计数",

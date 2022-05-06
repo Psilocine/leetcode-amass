@@ -7,6 +7,7 @@
 | 1. [两数之和](../amass/1-two-sum/README.md) | 简单 |
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
+| 49. [字母异位词分组](../amass/49-group-anagrams/README.md) | 中等 |
 | 136. [只出现一次的数字](../amass/136-single-number/README.md) | 简单 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
@@ -93,6 +94,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 49. [字母异位词分组](../amass/49-group-anagrams/README.md) | 中等 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
@@ -101,6 +103,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 48. [旋转图像](../amass/48-rotate-image/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 461. [汉明距离](../amass/461-hamming-distance/README.md) | 简单 |

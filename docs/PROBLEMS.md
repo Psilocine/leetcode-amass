@@ -32,6 +32,10 @@
 
 [46. 全排列](../amass/46-permutations/README.md)
 
+[48. 旋转图像](../amass/48-rotate-image/README.md)
+
+[49. 字母异位词分组](../amass/49-group-anagrams/README.md)
+
 [53. 最大子数组和](../amass/53-maximun-subarray/README.md)
 
 [56. 合并区间](../amass/56-merge-intervals/README.md)
