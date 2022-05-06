@@ -38,6 +38,8 @@
 | 17. [电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md) | 中等 |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
+| 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
+| 46. [全排列](../amass/46-permutations/README.md) | 中等 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
@@ -128,3 +130,10 @@
 | ---- | ---- |
 | 33. [搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md) | 中等 |
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
+
+## 回溯
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
+| 46. [全排列](../amass/46-permutations/README.md) | 中等 |
