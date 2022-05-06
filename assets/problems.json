@@ -300,6 +300,16 @@
     "path": "../amass/169-majority-element/README.md"
   },
   {
+    "id": 200,
+    "title": {
+      "cn": "岛屿数量",
+      "en": "200-number-of-islands"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/number-of-islands/",
+    "path": "../amass/200-number-of-islands/README.md"
+  },
+  {
     "id": 206,
     "title": {
       "cn": "反转链表",

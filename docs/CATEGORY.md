@@ -44,6 +44,7 @@
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
+| 200. [岛屿数量](../amass/200-number-of-islands/README.md) | 中等 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
 | 543. [二叉树的直径](../amass/543-diameter-of-binary-tree/README.md) | 简单 |

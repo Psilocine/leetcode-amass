@@ -60,6 +60,8 @@
 
 [169. 多数元素](../amass/169-majority-element/README.md)
 
+[200. 岛屿数量](../amass/200-number-of-islands/README.md)
+
 [206. 反转链表](../amass/206-reverse-linked-list/README.md)
 
 [226. 翻转二叉树](../amass/226-invert-binary-tree/README.md)

@@ -168,6 +168,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 200,
+        "title": "岛屿数量",
+        "path": "../amass/200-number-of-islands/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 206,
         "title": "反转链表",
         "path": "../amass/206-reverse-linked-list/README.md",
