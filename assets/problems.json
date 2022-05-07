@@ -190,6 +190,16 @@
     "path": "../amass/53-maximun-subarray/README.md"
   },
   {
+    "id": 55,
+    "title": {
+      "cn": "跳跃游戏",
+      "en": "55-jump-game"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/jump-game/",
+    "path": "../amass/55-jump-game/README.md"
+  },
+  {
     "id": 56,
     "title": {
       "cn": "合并区间",
@@ -200,6 +210,26 @@
     "path": "../amass/56-merge-intervals/README.md"
   },
   {
+    "id": 62,
+    "title": {
+      "cn": "不同路径",
+      "en": "62-unique-paths"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/unique-paths/",
+    "path": "../amass/62-unique-paths/README.md"
+  },
+  {
+    "id": 64,
+    "title": {
+      "cn": "最小路径和",
+      "en": "64-minimum-path-sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/minimum-path-sum/",
+    "path": "../amass/64-minimum-path-sum/README.md"
+  },
+  {
     "id": 70,
     "title": {
       "cn": "爬楼梯",
@@ -208,6 +238,16 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/climbing-stairs/",
     "path": "../amass/70-climbing-stairs/README.md"
+  },
+  {
+    "id": 75,
+    "title": {
+      "cn": "颜色分类",
+      "en": "75-sort-colors"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/sort-colors/",
+    "path": "../amass/75-sort-colors/README.md"
   },
   {
     "id": 94,

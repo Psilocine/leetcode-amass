@@ -56,6 +56,8 @@
 | ---- | ---- |
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
 | 53. [最大子数组和](../amass/53-maximun-subarray/README.md) | 简单 |
+| 62. [不同路径](../amass/62-unique-paths/README.md) | 中等 |
+| 64. [最小路径和](../amass/64-minimum-path-sum/README.md) | 中等 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
@@ -86,6 +88,7 @@
 | 19. [删除链表的倒数第 N 个结点](../amass/19-remove-nth-node-from-end-of-list/README.md) | 中等 |
 | 31. [下一个排列](../amass/31-next-permutation/README.md) | 中等 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
+| 75. [颜色分类](../amass/75-sort-colors/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
@@ -121,6 +124,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
+| 55. [跳跃游戏](../amass/55-jump-game/README.md) | 中等 |
 
 ## 中间扩散
 

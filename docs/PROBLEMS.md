@@ -38,9 +38,17 @@
 
 [53. 最大子数组和](../amass/53-maximun-subarray/README.md)
 
+[55. 跳跃游戏](../amass/55-jump-game/README.md)
+
 [56. 合并区间](../amass/56-merge-intervals/README.md)
 
+[62. 不同路径](../amass/62-unique-paths/README.md)
+
+[64. 最小路径和](../amass/64-minimum-path-sum/README.md)
+
 [70. 爬楼梯](../amass/70-climbing-stairs/README.md)
+
+[75. 颜色分类](../amass/75-sort-colors/README.md)
 
 [94. 二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md)
 

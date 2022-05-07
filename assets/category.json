@@ -215,6 +215,18 @@
         "difficulty": "简单"
       },
       {
+        "id": 62,
+        "title": "不同路径",
+        "path": "../amass/62-unique-paths/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 64,
+        "title": "最小路径和",
+        "path": "../amass/64-minimum-path-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 70,
         "title": "爬楼梯",
         "path": "../amass/70-climbing-stairs/README.md",
@@ -317,6 +329,12 @@
         "id": 56,
         "title": "合并区间",
         "path": "../amass/56-merge-intervals/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 75,
+        "title": "颜色分类",
+        "path": "../amass/75-sort-colors/README.md",
         "difficulty": "中等"
       },
       {
@@ -427,6 +445,12 @@
         "id": 5,
         "title": "最长回文子串",
         "path": "../amass/5-longest-palindromic-substring/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 55,
+        "title": "跳跃游戏",
+        "path": "../amass/55-jump-game/README.md",
         "difficulty": "中等"
       }
     ]
