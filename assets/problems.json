@@ -250,6 +250,26 @@
     "path": "../amass/75-sort-colors/README.md"
   },
   {
+    "id": 78,
+    "title": {
+      "cn": "子集",
+      "en": "78-subsets"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/subsets/",
+    "path": "../amass/78-subsets/README.md"
+  },
+  {
+    "id": 79,
+    "title": {
+      "cn": "单词搜索",
+      "en": "79-word-search"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode-cn.com/problems/word-search/",
+    "path": "../amass/79-word-search/README.md"
+  },
+  {
     "id": 94,
     "title": {
       "cn": "二叉树的中序遍历",

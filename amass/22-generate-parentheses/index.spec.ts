@@ -5,7 +5,7 @@ describe("括号生成", () => {
   describe("哈希表", () => {
     testCase(generateParenthesis);
   });
-  describe("DFS - 回溯", () => {
+  describe("DFS", () => {
     testCase(generateParenthesis2);
   });
 });

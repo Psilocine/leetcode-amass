@@ -42,6 +42,8 @@
 | 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
 | 46. [全排列](../amass/46-permutations/README.md) | 中等 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
+| 78. [子集](../amass/78-subsets/README.md) | 中等 |
+| 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
 | 200. [岛屿数量](../amass/200-number-of-islands/README.md) | 中等 |
@@ -145,3 +147,5 @@
 | ---- | ---- |
 | 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
 | 46. [全排列](../amass/46-permutations/README.md) | 中等 |
+| 78. [子集](../amass/78-subsets/README.md) | 中等 |
+| 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |

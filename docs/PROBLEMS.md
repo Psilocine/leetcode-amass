@@ -50,6 +50,10 @@
 
 [75. 颜色分类](../amass/75-sort-colors/README.md)
 
+[78. 子集](../amass/78-subsets/README.md)
+
+[79. 单词搜索](../amass/79-word-search/README.md)
+
 [94. 二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md)
 
 [101. 对称二叉树](../amass/101-symmetric-tree/README.md)

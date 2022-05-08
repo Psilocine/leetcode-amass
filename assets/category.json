@@ -156,6 +156,18 @@
         "difficulty": "简单"
       },
       {
+        "id": 78,
+        "title": "子集",
+        "path": "../amass/78-subsets/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 79,
+        "title": "单词搜索",
+        "path": "../amass/79-word-search/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 94,
         "title": "二叉树的中序遍历",
         "path": "../amass/94-binary-tree-inorder-traversal/README.md",
@@ -496,6 +508,18 @@
         "id": 46,
         "title": "全排列",
         "path": "../amass/46-permutations/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 78,
+        "title": "子集",
+        "path": "../amass/78-subsets/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 79,
+        "title": "单词搜索",
+        "path": "../amass/79-word-search/README.md",
         "difficulty": "中等"
       }
     ]
