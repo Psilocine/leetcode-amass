@@ -20,6 +20,7 @@
 | 17. [电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md) | 中等 |
 | 20. [有效的括号](../amass/20-valid-parentheses/README.md) | 简单 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
+| 98. [验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md) | 中等 |
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
 
 ## 迭代
@@ -45,6 +46,7 @@
 | 78. [子集](../amass/78-subsets/README.md) | 中等 |
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
+| 98. [验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md) | 中等 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
 | 200. [岛屿数量](../amass/200-number-of-islands/README.md) | 中等 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
@@ -61,6 +63,7 @@
 | 62. [不同路径](../amass/62-unique-paths/README.md) | 中等 |
 | 64. [最小路径和](../amass/64-minimum-path-sum/README.md) | 中等 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
+| 96. [不同的二叉搜索树](../amass/96-unique-binary-search-trees/README.md) | 中等 |
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |

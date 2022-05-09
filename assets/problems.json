@@ -280,6 +280,26 @@
     "path": "../amass/94-binary-tree-inorder-traversal/README.md"
   },
   {
+    "id": 96,
+    "title": {
+      "cn": "不同的二叉搜索树",
+      "en": "96-unique-binary-search-trees"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/unique-binary-search-trees/",
+    "path": "../amass/96-unique-binary-search-trees/README.md"
+  },
+  {
+    "id": 98,
+    "title": {
+      "cn": "验证二叉搜索树",
+      "en": "98-validate-binary-search-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/validate-binary-search-tree/",
+    "path": "../amass/98-validate-binary-search-tree/README.md"
+  },
+  {
     "id": 101,
     "title": {
       "cn": "对称二叉树",

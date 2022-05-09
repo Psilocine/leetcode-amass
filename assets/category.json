@@ -74,6 +74,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 98,
+        "title": "验证二叉搜索树",
+        "path": "../amass/98-validate-binary-search-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 155,
         "title": "最小栈",
         "path": "../amass/155-min-stack/README.md",
@@ -174,6 +180,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 98,
+        "title": "验证二叉搜索树",
+        "path": "../amass/98-validate-binary-search-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 104,
         "title": "二叉树的最大深度",
         "path": "../amass/104-maximum-depth-of-binary-tree/README.md",
@@ -243,6 +255,12 @@
         "title": "爬楼梯",
         "path": "../amass/70-climbing-stairs/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 96,
+        "title": "不同的二叉搜索树",
+        "path": "../amass/96-unique-binary-search-trees/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 121,
