@@ -310,6 +310,16 @@
     "path": "../amass/101-symmetric-tree/README.md"
   },
   {
+    "id": 102,
+    "title": {
+      "cn": "二叉树的层序遍历",
+      "en": "102-binary-tree-level-order-traversal"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/binary-tree-level-order-traversal/",
+    "path": "../amass/102-binary-tree-level-order-traversal/README.md"
+  },
+  {
     "id": 104,
     "title": {
       "cn": "二叉树的最大深度",
@@ -318,6 +328,26 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/",
     "path": "../amass/104-maximum-depth-of-binary-tree/README.md"
+  },
+  {
+    "id": 105,
+    "title": {
+      "cn": "从前序与中序遍历序列构造二叉树",
+      "en": "105-construct-binary-tree-from-preorder-and-inorder-traversal"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "path": "../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md"
+  },
+  {
+    "id": 114,
+    "title": {
+      "cn": "二叉树展开为链表",
+      "en": "114-flatten-binary-tree-to-linked-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/",
+    "path": "../amass/114-flatten-binary-tree-to-linked-list/README.md"
   },
   {
     "id": 121,

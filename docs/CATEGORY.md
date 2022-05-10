@@ -21,6 +21,8 @@
 | 20. [有效的括号](../amass/20-valid-parentheses/README.md) | 简单 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 98. [验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md) | 中等 |
+| 102. [二叉树的层序遍历](../amass/102-binary-tree-level-order-traversal/README.md) | 中等 |
+| 114. [二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md) | 中等 |
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
 
 ## 迭代
@@ -47,7 +49,10 @@
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 98. [验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md) | 中等 |
+| 102. [二叉树的层序遍历](../amass/102-binary-tree-level-order-traversal/README.md) | 中等 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
+| 105. [从前序与中序遍历序列构造二叉树](../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | 中等 |
+| 114. [二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md) | 中等 |
 | 200. [岛屿数量](../amass/200-number-of-islands/README.md) | 中等 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |

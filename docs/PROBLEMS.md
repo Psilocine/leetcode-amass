@@ -62,7 +62,13 @@
 
 [101. 对称二叉树](../amass/101-symmetric-tree/README.md)
 
+[102. 二叉树的层序遍历](../amass/102-binary-tree-level-order-traversal/README.md)
+
 [104. 二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md)
+
+[105. 从前序与中序遍历序列构造二叉树](../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md)
+
+[114. 二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md)
 
 [121. 买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md)
 

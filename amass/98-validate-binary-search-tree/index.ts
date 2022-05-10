@@ -18,7 +18,7 @@ export function isValidBST(root: TreeNode | null): boolean {
     return dfs(root.left, lower, root.val) && dfs(root.right, root.val, upper);
   };
 
-  return dfs(root, Number.MIN_VALUE, Number.MAX_VALUE);
+  return dfs(root, -Infinity, Infinity);
 }
 
 /**
@@ -29,7 +29,7 @@ export function isValidBST(root: TreeNode | null): boolean {
  */
 export function isValidBST2(root: TreeNode | null): boolean {
   const stack = [];
-  let inorder = Number.MIN_VALUE;
+  let inorder = -Infinity;
 
   while (root || stack.length) {
     while (root) {

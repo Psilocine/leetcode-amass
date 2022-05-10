@@ -15,6 +15,7 @@ describe("验证二叉搜索树", () => {
 function testCase(fn: (root: TreeNode | null) => boolean) {
   it.each([
     // test cases
+    [[0], true],
     [[5, 1, 4, null, null, 3, 6], false],
     [[2, 1, 3], true],
     [[5, 4, 6, null, null, 3, 7], false],

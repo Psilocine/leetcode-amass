@@ -80,6 +80,18 @@
         "difficulty": "中等"
       },
       {
+        "id": 102,
+        "title": "二叉树的层序遍历",
+        "path": "../amass/102-binary-tree-level-order-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 114,
+        "title": "二叉树展开为链表",
+        "path": "../amass/114-flatten-binary-tree-to-linked-list/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 155,
         "title": "最小栈",
         "path": "../amass/155-min-stack/README.md",
@@ -186,10 +198,28 @@
         "difficulty": "中等"
       },
       {
+        "id": 102,
+        "title": "二叉树的层序遍历",
+        "path": "../amass/102-binary-tree-level-order-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 104,
         "title": "二叉树的最大深度",
         "path": "../amass/104-maximum-depth-of-binary-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 105,
+        "title": "从前序与中序遍历序列构造二叉树",
+        "path": "../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 114,
+        "title": "二叉树展开为链表",
+        "path": "../amass/114-flatten-binary-tree-to-linked-list/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 200,
