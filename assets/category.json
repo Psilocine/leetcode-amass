@@ -27,10 +27,22 @@
         "difficulty": "中等"
       },
       {
+        "id": 128,
+        "title": "最长连续序列",
+        "path": "../amass/128-longest-consecutive-sequence/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 136,
         "title": "只出现一次的数字",
         "path": "../amass/136-single-number/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 139,
+        "title": "单词拆分",
+        "path": "../amass/139-word-break/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 141,
@@ -90,6 +102,12 @@
         "title": "二叉树展开为链表",
         "path": "../amass/114-flatten-binary-tree-to-linked-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 144,
+        "title": "二叉树的前序遍历",
+        "path": "../amass/144-binary-tree-preorder-traversal/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 155,
@@ -222,6 +240,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 144,
+        "title": "二叉树的前序遍历",
+        "path": "../amass/144-binary-tree-preorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 200,
         "title": "岛屿数量",
         "path": "../amass/200-number-of-islands/README.md",
@@ -297,6 +321,12 @@
         "title": "买卖股票的最佳时机",
         "path": "../amass/121-best-time-to-buy-and-sell-stock/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 139,
+        "title": "单词拆分",
+        "path": "../amass/139-word-break/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 338,
@@ -436,6 +466,12 @@
         "id": 56,
         "title": "合并区间",
         "path": "../amass/56-merge-intervals/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 128,
+        "title": "最长连续序列",
+        "path": "../amass/128-longest-consecutive-sequence/README.md",
         "difficulty": "中等"
       },
       {

@@ -72,9 +72,15 @@
 
 [121. 买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md)
 
+[128. 最长连续序列](../amass/128-longest-consecutive-sequence/README.md)
+
 [136. 只出现一次的数字](../amass/136-single-number/README.md)
 
+[139. 单词拆分](../amass/139-word-break/README.md)
+
 [141. 环形链表](../amass/141-linked-list-cycle/README.md)
+
+[144. 二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md)
 
 [155. 最小栈](../amass/155-min-stack/README.md)
 

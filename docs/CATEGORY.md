@@ -8,7 +8,9 @@
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
 | 49. [字母异位词分组](../amass/49-group-anagrams/README.md) | 中等 |
+| 128. [最长连续序列](../amass/128-longest-consecutive-sequence/README.md) | 中等 |
 | 136. [只出现一次的数字](../amass/136-single-number/README.md) | 简单 |
+| 139. [单词拆分](../amass/139-word-break/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
@@ -23,6 +25,7 @@
 | 98. [验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md) | 中等 |
 | 102. [二叉树的层序遍历](../amass/102-binary-tree-level-order-traversal/README.md) | 中等 |
 | 114. [二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md) | 中等 |
+| 144. [二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md) | 简单 |
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
 
 ## 迭代
@@ -53,6 +56,7 @@
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
 | 105. [从前序与中序遍历序列构造二叉树](../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | 中等 |
 | 114. [二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md) | 中等 |
+| 144. [二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md) | 简单 |
 | 200. [岛屿数量](../amass/200-number-of-islands/README.md) | 中等 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
@@ -70,6 +74,7 @@
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 96. [不同的二叉搜索树](../amass/96-unique-binary-search-trees/README.md) | 中等 |
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
+| 139. [单词拆分](../amass/139-word-break/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
 
@@ -110,6 +115,7 @@
 | ---- | ---- |
 | 49. [字母异位词分组](../amass/49-group-anagrams/README.md) | 中等 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
+| 128. [最长连续序列](../amass/128-longest-consecutive-sequence/README.md) | 中等 |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 
