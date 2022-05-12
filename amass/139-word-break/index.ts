@@ -3,7 +3,7 @@
  * dp[i] = dp[j] && check(s[j..i-1])
  * check(s[j..i-1]) 表示子串 s[j..i-1] 是否出现在字典中
  *
- * @desc 时间复杂度 O(n ^ 2) 空间复杂度 O(n)
+ * @desc 时间复杂度 O(n ^ 2) 空间复杂度 O(n) n 为 s 的长度
  * @param s {string}
  * @param wordDict {string[]}
  * @returns {boolean}

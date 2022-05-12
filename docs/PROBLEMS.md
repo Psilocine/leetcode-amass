@@ -80,7 +80,11 @@
 
 [141. 环形链表](../amass/141-linked-list-cycle/README.md)
 
+[142. 环形链表 II](../amass/142-linked-list-cycle-ii/README.md)
+
 [144. 二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md)
+
+[146. LRU 缓存](../amass/146-lru-cache/README.md)
 
 [155. 最小栈](../amass/155-min-stack/README.md)
 

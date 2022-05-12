@@ -51,6 +51,18 @@
         "difficulty": "简单"
       },
       {
+        "id": 142,
+        "title": "环形链表 II",
+        "path": "../amass/142-linked-list-cycle-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 146,
+        "title": "LRU 缓存",
+        "path": "../amass/146-lru-cache/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 160,
         "title": "相交链表",
         "path": "../amass/160-intersection-of-two-linked-lists/README.md",
@@ -432,6 +444,12 @@
         "title": "环形链表",
         "path": "../amass/141-linked-list-cycle/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 142,
+        "title": "环形链表 II",
+        "path": "../amass/142-linked-list-cycle-ii/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 160,

@@ -12,6 +12,8 @@
 | 136. [只出现一次的数字](../amass/136-single-number/README.md) | 简单 |
 | 139. [单词拆分](../amass/139-word-break/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
+| 142. [环形链表 II](../amass/142-linked-list-cycle-ii/README.md) | 中等 |
+| 146. [LRU 缓存](../amass/146-lru-cache/README.md) | 中等 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 
@@ -105,6 +107,7 @@
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 75. [颜色分类](../amass/75-sort-colors/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
+| 142. [环形链表 II](../amass/142-linked-list-cycle-ii/README.md) | 中等 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
 | 283. [移动零](../amass/283-move-zeroes/README.md) | 简单 |
