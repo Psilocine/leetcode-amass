@@ -86,6 +86,10 @@
 
 [146. LRU 缓存](../amass/146-lru-cache/README.md)
 
+[148. 排序链表](../amass/148-sort-list/README.md)
+
+[152. 乘积最大子数组](../amass/152-maximum-product-subarray/README.md)
+
 [155. 最小栈](../amass/155-min-stack/README.md)
 
 [160. 相交链表](../amass/160-intersection-of-two-linked-lists/README.md)

@@ -258,6 +258,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 148,
+        "title": "排序链表",
+        "path": "../amass/148-sort-list/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 200,
         "title": "岛屿数量",
         "path": "../amass/200-number-of-islands/README.md",
@@ -338,6 +344,12 @@
         "id": 139,
         "title": "单词拆分",
         "path": "../amass/139-word-break/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 152,
+        "title": "乘积最大子数组",
+        "path": "../amass/152-maximum-product-subarray/README.md",
         "difficulty": "中等"
       },
       {
@@ -493,6 +505,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 148,
+        "title": "排序链表",
+        "path": "../amass/148-sort-list/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 169,
         "title": "多数元素",
         "path": "../amass/169-majority-element/README.md",
@@ -622,6 +640,17 @@
         "id": 79,
         "title": "单词搜索",
         "path": "../amass/79-word-search/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "归并排序",
+    "problems": [
+      {
+        "id": 148,
+        "title": "排序链表",
+        "path": "../amass/148-sort-list/README.md",
         "difficulty": "中等"
       }
     ]

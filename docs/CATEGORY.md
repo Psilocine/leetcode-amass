@@ -59,6 +59,7 @@
 | 105. [从前序与中序遍历序列构造二叉树](../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | 中等 |
 | 114. [二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md) | 中等 |
 | 144. [二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md) | 简单 |
+| 148. [排序链表](../amass/148-sort-list/README.md) | 中等 |
 | 200. [岛屿数量](../amass/200-number-of-islands/README.md) | 中等 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
@@ -77,6 +78,7 @@
 | 96. [不同的二叉搜索树](../amass/96-unique-binary-search-trees/README.md) | 中等 |
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 139. [单词拆分](../amass/139-word-break/README.md) | 中等 |
+| 152. [乘积最大子数组](../amass/152-maximum-product-subarray/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
 
@@ -119,6 +121,7 @@
 | 49. [字母异位词分组](../amass/49-group-anagrams/README.md) | 中等 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 128. [最长连续序列](../amass/128-longest-consecutive-sequence/README.md) | 中等 |
+| 148. [排序链表](../amass/148-sort-list/README.md) | 中等 |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 
@@ -166,3 +169,9 @@
 | 46. [全排列](../amass/46-permutations/README.md) | 中等 |
 | 78. [子集](../amass/78-subsets/README.md) | 中等 |
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
+
+## 归并排序
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 148. [排序链表](../amass/148-sort-list/README.md) | 中等 |

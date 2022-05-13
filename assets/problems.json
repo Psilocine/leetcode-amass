@@ -430,6 +430,26 @@
     "path": "../amass/146-lru-cache/README.md"
   },
   {
+    "id": 148,
+    "title": {
+      "cn": "排序链表",
+      "en": "148-sort-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/sort-list/",
+    "path": "../amass/148-sort-list/README.md"
+  },
+  {
+    "id": 152,
+    "title": {
+      "cn": "乘积最大子数组",
+      "en": "152-maximum-product-subarray"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-product-subarray/",
+    "path": "../amass/152-maximum-product-subarray/README.md"
+  },
+  {
     "id": 155,
     "title": {
       "cn": "最小栈",
