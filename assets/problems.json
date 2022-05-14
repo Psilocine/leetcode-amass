@@ -480,6 +480,16 @@
     "path": "../amass/169-majority-element/README.md"
   },
   {
+    "id": 198,
+    "title": {
+      "cn": "打家劫舍",
+      "en": "198-house-robber"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/house-robber/",
+    "path": "../amass/198-house-robber/README.md"
+  },
+  {
     "id": 200,
     "title": {
       "cn": "岛屿数量",
@@ -498,6 +508,16 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/reverse-linked-list/",
     "path": "../amass/206-reverse-linked-list/README.md"
+  },
+  {
+    "id": 207,
+    "title": {
+      "cn": "课程表",
+      "en": "207-course-schedule"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/course-schedule/",
+    "path": "../amass/207-course-schedule/README.md"
   },
   {
     "id": 226,

@@ -126,6 +126,12 @@
         "title": "最小栈",
         "path": "../amass/155-min-stack/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 207,
+        "title": "课程表",
+        "path": "../amass/207-course-schedule/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -350,6 +356,12 @@
         "id": 152,
         "title": "乘积最大子数组",
         "path": "../amass/152-maximum-product-subarray/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 198,
+        "title": "打家劫舍",
+        "path": "../amass/198-house-robber/README.md",
         "difficulty": "中等"
       },
       {

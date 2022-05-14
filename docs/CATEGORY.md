@@ -29,6 +29,7 @@
 | 114. [二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md) | 中等 |
 | 144. [二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md) | 简单 |
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
+| 207. [课程表](../amass/207-course-schedule/README.md) | 中等 |
 
 ## 迭代
 
@@ -79,6 +80,7 @@
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 139. [单词拆分](../amass/139-word-break/README.md) | 中等 |
 | 152. [乘积最大子数组](../amass/152-maximum-product-subarray/README.md) | 中等 |
+| 198. [打家劫舍](../amass/198-house-robber/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
 
