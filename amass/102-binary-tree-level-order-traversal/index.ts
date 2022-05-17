@@ -32,7 +32,7 @@ export function levelOrder(root: TreeNode | null): number[][] {
 }
 
 /**
- * 广度优先搜索 BFS - 栈
+ * 广度优先搜索 BFS - 队列
  * @desc 时间复杂度 O(n) 空间复杂度 O(n)
  * @param root {TreeNode | null}
  * @returns {number[][]}

@@ -6,6 +6,8 @@
 
 [3. 无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md)
 
+[4.06. 后继者](../amass/04.06-successor-lcci/README.md)
+
 [5. 最长回文子串](../amass/5-longest-palindromic-substring/README.md)
 
 [11. 盛最多水的容器](../amass/11-container-with-most-water/README.md)
@@ -72,6 +74,8 @@
 
 [121. 买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md)
 
+[124. 二叉树中的最大路径和](../amass/124-binary-tree-maximum-path-sum/README.md)
+
 [128. 最长连续序列](../amass/128-longest-consecutive-sequence/README.md)
 
 [136. 只出现一次的数字](../amass/136-single-number/README.md)
@@ -104,6 +108,12 @@
 
 [207. 课程表](../amass/207-course-schedule/README.md)
 
+[208. 实现 Trie (前缀树)](../amass/208-implement-trie-prefix-tree/README.md)
+
+[215. 数组中的第K个最大元素](../amass/215-kth-largest-element-in-an-array/README.md)
+
+[221. 最大正方形](../amass/221-maximal-square/README.md)
+
 [226. 翻转二叉树](../amass/226-invert-binary-tree/README.md)
 
 [234. 回文链表](../amass/234-palindrome-linked-list/README.md)
@@ -123,3 +133,5 @@
 [621. 任务调度器](../amass/621-task-scheduler/README.md)
 
 [647. 回文子串](../amass/647-palindromic-substrings/README.md)
+
+[953. 验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md)

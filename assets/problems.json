@@ -30,6 +30,16 @@
     "path": "../amass/3-longest-substring-without-repeating-characters/README.md"
   },
   {
+    "id": 4.06,
+    "title": {
+      "cn": "后继者",
+      "en": "04.06-successor-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/successor-lcci/",
+    "path": "../amass/04.06-successor-lcci/README.md"
+  },
+  {
     "id": 5,
     "title": {
       "cn": "最长回文子串",
@@ -360,6 +370,16 @@
     "path": "../amass/121-best-time-to-buy-and-sell-stock/README.md"
   },
   {
+    "id": 124,
+    "title": {
+      "cn": "二叉树中的最大路径和",
+      "en": "124-binary-tree-maximum-path-sum"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/binary-tree-maximum-path-sum/",
+    "path": "../amass/124-binary-tree-maximum-path-sum/README.md"
+  },
+  {
     "id": 128,
     "title": {
       "cn": "最长连续序列",
@@ -520,6 +540,36 @@
     "path": "../amass/207-course-schedule/README.md"
   },
   {
+    "id": 208,
+    "title": {
+      "cn": "实现 Trie (前缀树)",
+      "en": "208-implement-trie-prefix-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/implement-trie-prefix-tree/",
+    "path": "../amass/208-implement-trie-prefix-tree/README.md"
+  },
+  {
+    "id": 215,
+    "title": {
+      "cn": "数组中的第K个最大元素",
+      "en": "215-kth-largest-element-in-an-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/kth-largest-element-in-an-array/",
+    "path": "../amass/215-kth-largest-element-in-an-array/README.md"
+  },
+  {
+    "id": 221,
+    "title": {
+      "cn": "最大正方形",
+      "en": "221-maximal-square"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximal-square/",
+    "path": "../amass/221-maximal-square/README.md"
+  },
+  {
     "id": 226,
     "title": {
       "cn": "翻转二叉树",
@@ -618,5 +668,15 @@
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/palindromic-substrings/",
     "path": "../amass/647-palindromic-substrings/README.md"
+  },
+  {
+    "id": 953,
+    "title": {
+      "cn": "验证外星语词典",
+      "en": "953-verifying-an-alien-dictionary"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/verifying-an-alien-dictionary/",
+    "path": "../amass/953-verifying-an-alien-dictionary/README.md"
   }
 ]

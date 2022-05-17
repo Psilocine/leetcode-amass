@@ -7,11 +7,11 @@ describe("排序链表", () => {
     testCase(sortList);
   });
 
-  describe('归并 - 自顶向下', () => {
+  describe("归并 - 自顶向下", () => {
     testCase(sortList2);
   });
 
-  describe('归并 - 自底向上', () => {
+  describe("归并 - 自底向上", () => {
     testCase(sortList3);
   });
 });

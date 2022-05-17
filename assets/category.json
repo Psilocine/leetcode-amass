@@ -73,6 +73,18 @@
         "title": "多数元素",
         "path": "../amass/169-majority-element/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 208,
+        "title": "实现 Trie (前缀树)",
+        "path": "../amass/208-implement-trie-prefix-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 953,
+        "title": "验证外星语词典",
+        "path": "../amass/953-verifying-an-alien-dictionary/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -102,6 +114,12 @@
         "title": "验证二叉搜索树",
         "path": "../amass/98-validate-binary-search-tree/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 101,
+        "title": "对称二叉树",
+        "path": "../amass/101-symmetric-tree/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 102,
@@ -145,6 +163,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 4.06,
+        "title": "后继者",
+        "path": "../amass/04.06-successor-lcci/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 21,
         "title": "合并两个有序链表",
         "path": "../amass/21-merge-two-sorted-lists/README.md",
@@ -154,6 +178,12 @@
         "id": 94,
         "title": "二叉树的中序遍历",
         "path": "../amass/94-binary-tree-inorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 101,
+        "title": "对称二叉树",
+        "path": "../amass/101-symmetric-tree/README.md",
         "difficulty": "简单"
       },
       {
@@ -173,6 +203,12 @@
   {
     "label": "递归",
     "problems": [
+      {
+        "id": 4.06,
+        "title": "后继者",
+        "path": "../amass/04.06-successor-lcci/README.md",
+        "difficulty": "中等"
+      },
       {
         "id": 17,
         "title": "电话号码的字母组合",
@@ -234,6 +270,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 101,
+        "title": "对称二叉树",
+        "path": "../amass/101-symmetric-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 102,
         "title": "二叉树的层序遍历",
         "path": "../amass/102-binary-tree-level-order-traversal/README.md",
@@ -256,6 +298,12 @@
         "title": "二叉树展开为链表",
         "path": "../amass/114-flatten-binary-tree-to-linked-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 124,
+        "title": "二叉树中的最大路径和",
+        "path": "../amass/124-binary-tree-maximum-path-sum/README.md",
+        "difficulty": "困难"
       },
       {
         "id": 144,
@@ -362,6 +410,12 @@
         "id": 198,
         "title": "打家劫舍",
         "path": "../amass/198-house-robber/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 221,
+        "title": "最大正方形",
+        "path": "../amass/221-maximal-square/README.md",
         "difficulty": "中等"
       },
       {
@@ -529,6 +583,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 215,
+        "title": "数组中的第K个最大元素",
+        "path": "../amass/215-kth-largest-element-in-an-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 448,
         "title": "找到所有数组中消失的数字",
         "path": "../amass/448-find-all-numbers-disappeared-in-an-array/README.md",
@@ -663,6 +723,100 @@
         "id": 148,
         "title": "排序链表",
         "path": "../amass/148-sort-list/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "二叉树",
+    "problems": [
+      {
+        "id": 4.06,
+        "title": "后继者",
+        "path": "../amass/04.06-successor-lcci/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 94,
+        "title": "二叉树的中序遍历",
+        "path": "../amass/94-binary-tree-inorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 96,
+        "title": "不同的二叉搜索树",
+        "path": "../amass/96-unique-binary-search-trees/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 98,
+        "title": "验证二叉搜索树",
+        "path": "../amass/98-validate-binary-search-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 101,
+        "title": "对称二叉树",
+        "path": "../amass/101-symmetric-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 102,
+        "title": "二叉树的层序遍历",
+        "path": "../amass/102-binary-tree-level-order-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 104,
+        "title": "二叉树的最大深度",
+        "path": "../amass/104-maximum-depth-of-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 105,
+        "title": "从前序与中序遍历序列构造二叉树",
+        "path": "../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 114,
+        "title": "二叉树展开为链表",
+        "path": "../amass/114-flatten-binary-tree-to-linked-list/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 144,
+        "title": "二叉树的前序遍历",
+        "path": "../amass/144-binary-tree-preorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 226,
+        "title": "翻转二叉树",
+        "path": "../amass/226-invert-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 543,
+        "title": "二叉树的直径",
+        "path": "../amass/543-diameter-of-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 617,
+        "title": "合并二叉树",
+        "path": "../amass/617-merge-two-binary-trees/README.md",
+        "difficulty": "简单"
+      }
+    ]
+  },
+  {
+    "label": "快速排序",
+    "problems": [
+      {
+        "id": 215,
+        "title": "数组中的第K个最大元素",
+        "path": "../amass/215-kth-largest-element-in-an-array/README.md",
         "difficulty": "中等"
       }
     ]
