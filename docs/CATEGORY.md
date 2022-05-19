@@ -33,6 +33,7 @@
 | 144. [二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md) | 简单 |
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
 | 207. [课程表](../amass/207-course-schedule/README.md) | 中等 |
+| 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
 
 ## 迭代
 
@@ -72,8 +73,11 @@
 | 200. [岛屿数量](../amass/200-number-of-islands/README.md) | 中等 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
+| 236. [二叉树的最近公共祖先](../amass/236-lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
+| 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
 | 543. [二叉树的直径](../amass/543-diameter-of-binary-tree/README.md) | 简单 |
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
+| 654. [最大二叉树](../amass/654-maximum-binary-tree/README.md) | 中等 |
 
 ## 动态规划
 

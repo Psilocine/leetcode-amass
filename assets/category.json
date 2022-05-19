@@ -150,6 +150,12 @@
         "title": "课程表",
         "path": "../amass/207-course-schedule/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 297,
+        "title": "二叉树的序列化与反序列化",
+        "path": "../amass/297-serialize-and-deserialize-binary-tree/README.md",
+        "difficulty": "困难"
       }
     ]
   },
@@ -336,6 +342,18 @@
         "difficulty": "简单"
       },
       {
+        "id": 236,
+        "title": "二叉树的最近公共祖先",
+        "path": "../amass/236-lowest-common-ancestor-of-a-binary-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 297,
+        "title": "二叉树的序列化与反序列化",
+        "path": "../amass/297-serialize-and-deserialize-binary-tree/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 543,
         "title": "二叉树的直径",
         "path": "../amass/543-diameter-of-binary-tree/README.md",
@@ -346,6 +364,12 @@
         "title": "合并二叉树",
         "path": "../amass/617-merge-two-binary-trees/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 654,
+        "title": "最大二叉树",
+        "path": "../amass/654-maximum-binary-tree/README.md",
+        "difficulty": "中等"
       }
     ]
   },
