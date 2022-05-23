@@ -760,6 +760,16 @@
     "path": "../amass/543-diameter-of-binary-tree/README.md"
   },
   {
+    "id": 581,
+    "title": {
+      "cn": "最短无序连续子数组",
+      "en": "581-shortest-unsorted-continuous-subarray"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/",
+    "path": "../amass/581-shortest-unsorted-continuous-subarray/README.md"
+  },
+  {
     "id": 617,
     "title": {
       "cn": "合并二叉树",

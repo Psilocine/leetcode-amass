@@ -630,6 +630,12 @@
         "title": "寻找重复数",
         "path": "../amass/287-find-the-duplicate-number/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 581,
+        "title": "最短无序连续子数组",
+        "path": "../amass/581-shortest-unsorted-continuous-subarray/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -682,6 +688,12 @@
         "id": 462,
         "title": "最少移动次数使数组元素相等 II",
         "path": "../amass/462-minimum-moves-to-equal-array-elements-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 581,
+        "title": "最短无序连续子数组",
+        "path": "../amass/581-shortest-unsorted-continuous-subarray/README.md",
         "difficulty": "中等"
       }
     ]

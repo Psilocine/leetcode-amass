@@ -138,6 +138,7 @@
 | 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
 | 283. [移动零](../amass/283-move-zeroes/README.md) | 简单 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
+| 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 
 ## 排序
 
@@ -151,6 +152,7 @@
 | 215. [数组中的第K个最大元素](../amass/215-kth-largest-element-in-an-array/README.md) | 中等 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 462. [最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md) | 中等 |
+| 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 
 ## 数学
 

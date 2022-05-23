@@ -152,6 +152,8 @@
 
 [543. 二叉树的直径](../amass/543-diameter-of-binary-tree/README.md)
 
+[581. 最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md)
+
 [617. 合并二叉树](../amass/617-merge-two-binary-trees/README.md)
 
 [621. 任务调度器](../amass/621-task-scheduler/README.md)
