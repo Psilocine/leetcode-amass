@@ -160,6 +160,16 @@
     "path": "../amass/39-combination-sum/README.md"
   },
   {
+    "id": 43,
+    "title": {
+      "cn": "字符串相乘",
+      "en": "43-multiply-strings"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/multiply-strings/",
+    "path": "../amass/43-multiply-strings/README.md"
+  },
+  {
     "id": 46,
     "title": {
       "cn": "全排列",
@@ -550,6 +560,16 @@
     "path": "../amass/208-implement-trie-prefix-tree/README.md"
   },
   {
+    "id": 213,
+    "title": {
+      "cn": "打家劫舍 II",
+      "en": "213-house-robber-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/house-robber-ii/",
+    "path": "../amass/213-house-robber-ii/README.md"
+  },
+  {
     "id": 215,
     "title": {
       "cn": "数组中的第K个最大元素",
@@ -620,6 +640,16 @@
     "path": "../amass/297-serialize-and-deserialize-binary-tree/README.md"
   },
   {
+    "id": 337,
+    "title": {
+      "cn": "打家劫舍 III",
+      "en": "337-house-robber-iii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/house-robber-iii/",
+    "path": "../amass/337-house-robber-iii/README.md"
+  },
+  {
     "id": 338,
     "title": {
       "cn": "比特位计数",
@@ -628,6 +658,36 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/counting-bits/",
     "path": "../amass/338-counting-bits/README.md"
+  },
+  {
+    "id": 415,
+    "title": {
+      "cn": "字符串相加",
+      "en": "415-add-strings"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/add-strings/",
+    "path": "../amass/415-add-strings/README.md"
+  },
+  {
+    "id": 436,
+    "title": {
+      "cn": "寻找右区间",
+      "en": "436-find-right-interval"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-right-interval/",
+    "path": "../amass/436-find-right-interval/README.md"
+  },
+  {
+    "id": 437,
+    "title": {
+      "cn": "路径总和 III",
+      "en": "437-path-sum-iii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/path-sum-iii/",
+    "path": "../amass/437-path-sum-iii/README.md"
   },
   {
     "id": 448,
@@ -648,6 +708,26 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/hamming-distance/",
     "path": "../amass/461-hamming-distance/README.md"
+  },
+  {
+    "id": 462,
+    "title": {
+      "cn": "最少移动次数使数组元素相等 II",
+      "en": "462-minimum-moves-to-equal-array-elements-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/",
+    "path": "../amass/462-minimum-moves-to-equal-array-elements-ii/README.md"
+  },
+  {
+    "id": 538,
+    "title": {
+      "cn": "把二叉搜索树转换为累加树",
+      "en": "538-convert-bst-to-greater-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/convert-bst-to-greater-tree/",
+    "path": "../amass/538-convert-bst-to-greater-tree/README.md"
   },
   {
     "id": 543,
@@ -708,5 +788,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/verifying-an-alien-dictionary/",
     "path": "../amass/953-verifying-an-alien-dictionary/README.md"
+  },
+  {
+    "id": 961,
+    "title": {
+      "cn": "在长度 2N 的数组中找出重复 N 次的元素",
+      "en": "961-n-repeated-element-in-size-2n-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/",
+    "path": "../amass/961-n-repeated-element-in-size-2n-array/README.md"
   }
 ]

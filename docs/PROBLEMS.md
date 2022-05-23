@@ -32,6 +32,8 @@
 
 [39. 组合总和](../amass/39-combination-sum/README.md)
 
+[43. 字符串相乘](../amass/43-multiply-strings/README.md)
+
 [46. 全排列](../amass/46-permutations/README.md)
 
 [48. 旋转图像](../amass/48-rotate-image/README.md)
@@ -110,6 +112,8 @@
 
 [208. 实现 Trie (前缀树)](../amass/208-implement-trie-prefix-tree/README.md)
 
+[213. 打家劫舍 II](../amass/213-house-robber-ii/README.md)
+
 [215. 数组中的第K个最大元素](../amass/215-kth-largest-element-in-an-array/README.md)
 
 [221. 最大正方形](../amass/221-maximal-square/README.md)
@@ -124,11 +128,23 @@
 
 [297. 二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md)
 
+[337. 打家劫舍 III](../amass/337-house-robber-iii/README.md)
+
 [338. 比特位计数](../amass/338-counting-bits/README.md)
+
+[415. 字符串相加](../amass/415-add-strings/README.md)
+
+[436. 寻找右区间](../amass/436-find-right-interval/README.md)
+
+[437. 路径总和 III](../amass/437-path-sum-iii/README.md)
 
 [448. 找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md)
 
 [461. 汉明距离](../amass/461-hamming-distance/README.md)
+
+[462. 最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md)
+
+[538. 把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md)
 
 [543. 二叉树的直径](../amass/543-diameter-of-binary-tree/README.md)
 
@@ -141,3 +157,5 @@
 [654. 最大二叉树](../amass/654-maximum-binary-tree/README.md)
 
 [953. 验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md)
+
+[961. 在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md)

@@ -17,7 +17,9 @@
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 | 208. [实现 Trie (前缀树)](../amass/208-implement-trie-prefix-tree/README.md) | 中等 |
+| 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
 | 953. [验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md) | 简单 |
+| 961. [在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md) | 简单 |
 
 ## 栈
 
@@ -75,6 +77,9 @@
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
 | 236. [二叉树的最近公共祖先](../amass/236-lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
+| 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
+| 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
+| 538. [把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md) | 中等 |
 | 543. [二叉树的直径](../amass/543-diameter-of-binary-tree/README.md) | 简单 |
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
 | 654. [最大二叉树](../amass/654-maximum-binary-tree/README.md) | 中等 |
@@ -93,7 +98,9 @@
 | 139. [单词拆分](../amass/139-word-break/README.md) | 中等 |
 | 152. [乘积最大子数组](../amass/152-maximum-product-subarray/README.md) | 中等 |
 | 198. [打家劫舍](../amass/198-house-robber/README.md) | 中等 |
+| 213. [打家劫舍 II](../amass/213-house-robber-ii/README.md) | 中等 |
 | 221. [最大正方形](../amass/221-maximal-square/README.md) | 中等 |
+| 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
 
@@ -140,13 +147,16 @@
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 | 215. [数组中的第K个最大元素](../amass/215-kth-largest-element-in-an-array/README.md) | 中等 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
+| 462. [最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md) | 中等 |
 
 ## 数学
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 43. [字符串相乘](../amass/43-multiply-strings/README.md) | 中等 |
 | 48. [旋转图像](../amass/48-rotate-image/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
+| 415. [字符串相加](../amass/415-add-strings/README.md) | 简单 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 461. [汉明距离](../amass/461-hamming-distance/README.md) | 简单 |
 | 621. [任务调度器](../amass/621-task-scheduler/README.md) | 中等 |
@@ -176,6 +186,7 @@
 | ---- | ---- |
 | 33. [搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md) | 中等 |
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
+| 436. [寻找右区间](../amass/436-find-right-interval/README.md) | 中等 |
 
 ## 回溯
 
@@ -207,6 +218,8 @@
 | 114. [二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md) | 中等 |
 | 144. [二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md) | 简单 |
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
+| 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
+| 538. [把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md) | 中等 |
 | 543. [二叉树的直径](../amass/543-diameter-of-binary-tree/README.md) | 简单 |
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
 

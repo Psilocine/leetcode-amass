@@ -81,9 +81,21 @@
         "difficulty": "中等"
       },
       {
+        "id": 437,
+        "title": "路径总和 III",
+        "path": "../amass/437-path-sum-iii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 953,
         "title": "验证外星语词典",
         "path": "../amass/953-verifying-an-alien-dictionary/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 961,
+        "title": "在长度 2N 的数组中找出重复 N 次的元素",
+        "path": "../amass/961-n-repeated-element-in-size-2n-array/README.md",
         "difficulty": "简单"
       }
     ]
@@ -354,6 +366,24 @@
         "difficulty": "困难"
       },
       {
+        "id": 337,
+        "title": "打家劫舍 III",
+        "path": "../amass/337-house-robber-iii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 437,
+        "title": "路径总和 III",
+        "path": "../amass/437-path-sum-iii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 538,
+        "title": "把二叉搜索树转换为累加树",
+        "path": "../amass/538-convert-bst-to-greater-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 543,
         "title": "二叉树的直径",
         "path": "../amass/543-diameter-of-binary-tree/README.md",
@@ -437,9 +467,21 @@
         "difficulty": "中等"
       },
       {
+        "id": 213,
+        "title": "打家劫舍 II",
+        "path": "../amass/213-house-robber-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 221,
         "title": "最大正方形",
         "path": "../amass/221-maximal-square/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 337,
+        "title": "打家劫舍 III",
+        "path": "../amass/337-house-robber-iii/README.md",
         "difficulty": "中等"
       },
       {
@@ -617,12 +659,24 @@
         "title": "找到所有数组中消失的数字",
         "path": "../amass/448-find-all-numbers-disappeared-in-an-array/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 462,
+        "title": "最少移动次数使数组元素相等 II",
+        "path": "../amass/462-minimum-moves-to-equal-array-elements-ii/README.md",
+        "difficulty": "中等"
       }
     ]
   },
   {
     "label": "数学",
     "problems": [
+      {
+        "id": 43,
+        "title": "字符串相乘",
+        "path": "../amass/43-multiply-strings/README.md",
+        "difficulty": "中等"
+      },
       {
         "id": 48,
         "title": "旋转图像",
@@ -633,6 +687,12 @@
         "id": 338,
         "title": "比特位计数",
         "path": "../amass/338-counting-bits/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 415,
+        "title": "字符串相加",
+        "path": "../amass/415-add-strings/README.md",
         "difficulty": "简单"
       },
       {
@@ -707,6 +767,12 @@
         "id": 34,
         "title": "在排序数组中查找元素的第一个和最后一个位置",
         "path": "../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 436,
+        "title": "寻找右区间",
+        "path": "../amass/436-find-right-interval/README.md",
         "difficulty": "中等"
       }
     ]
@@ -819,6 +885,18 @@
         "title": "翻转二叉树",
         "path": "../amass/226-invert-binary-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 337,
+        "title": "打家劫舍 III",
+        "path": "../amass/337-house-robber-iii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 538,
+        "title": "把二叉搜索树转换为累加树",
+        "path": "../amass/538-convert-bst-to-greater-tree/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 543,
