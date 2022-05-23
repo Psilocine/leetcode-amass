@@ -100,6 +100,7 @@
 | 198. [打家劫舍](../amass/198-house-robber/README.md) | 中等 |
 | 213. [打家劫舍 II](../amass/213-house-robber-ii/README.md) | 中等 |
 | 221. [最大正方形](../amass/221-maximal-square/README.md) | 中等 |
+| 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
@@ -128,6 +129,7 @@
 | 15. [三数之和](../amass/15-3sum/README.md) | 中等 |
 | 19. [删除链表的倒数第 N 个结点](../amass/19-remove-nth-node-from-end-of-list/README.md) | 中等 |
 | 31. [下一个排列](../amass/31-next-permutation/README.md) | 中等 |
+| 42. [接雨水](../amass/42-trapping-rain-water/README.md) | 困难 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 75. [颜色分类](../amass/75-sort-colors/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
@@ -135,6 +137,7 @@
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
 | 283. [移动零](../amass/283-move-zeroes/README.md) | 简单 |
+| 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 
 ## 排序
 
@@ -186,6 +189,7 @@
 | ---- | ---- |
 | 33. [搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md) | 中等 |
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
+| 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 436. [寻找右区间](../amass/436-find-right-interval/README.md) | 中等 |
 
 ## 回溯

@@ -32,6 +32,8 @@
 
 [39. 组合总和](../amass/39-combination-sum/README.md)
 
+[42. 接雨水](../amass/42-trapping-rain-water/README.md)
+
 [43. 字符串相乘](../amass/43-multiply-strings/README.md)
 
 [46. 全排列](../amass/46-permutations/README.md)
@@ -125,6 +127,8 @@
 [236. 二叉树的最近公共祖先](../amass/236-lowest-common-ancestor-of-a-binary-tree/README.md)
 
 [283. 移动零](../amass/283-move-zeroes/README.md)
+
+[287. 寻找重复数](../amass/287-find-the-duplicate-number/README.md)
 
 [297. 二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md)
 

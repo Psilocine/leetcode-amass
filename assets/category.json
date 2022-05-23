@@ -479,6 +479,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 287,
+        "title": "寻找重复数",
+        "path": "../amass/287-find-the-duplicate-number/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 337,
         "title": "打家劫舍 III",
         "path": "../amass/337-house-robber-iii/README.md",
@@ -572,6 +578,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 42,
+        "title": "接雨水",
+        "path": "../amass/42-trapping-rain-water/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 56,
         "title": "合并区间",
         "path": "../amass/56-merge-intervals/README.md",
@@ -612,6 +624,12 @@
         "title": "移动零",
         "path": "../amass/283-move-zeroes/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 287,
+        "title": "寻找重复数",
+        "path": "../amass/287-find-the-duplicate-number/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -767,6 +785,12 @@
         "id": 34,
         "title": "在排序数组中查找元素的第一个和最后一个位置",
         "path": "../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 287,
+        "title": "寻找重复数",
+        "path": "../amass/287-find-the-duplicate-number/README.md",
         "difficulty": "中等"
       },
       {
