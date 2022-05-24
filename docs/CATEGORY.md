@@ -36,6 +36,7 @@
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
 | 207. [课程表](../amass/207-course-schedule/README.md) | 中等 |
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
+| 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 
 ## 迭代
 
@@ -48,6 +49,7 @@
 | 101. [对称二叉树](../amass/101-symmetric-tree/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
+| 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
 
 ## 递归
 
@@ -79,10 +81,13 @@
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
+| 450. [删除二叉搜索树中的节点](../amass/450-delete-node-in-a-bst/README.md) | 中等 |
 | 538. [把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md) | 中等 |
 | 543. [二叉树的直径](../amass/543-diameter-of-binary-tree/README.md) | 简单 |
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
 | 654. [最大二叉树](../amass/654-maximum-binary-tree/README.md) | 中等 |
+| 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
+| 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 
 ## 动态规划
 
@@ -225,9 +230,12 @@
 | 144. [二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md) | 简单 |
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
+| 450. [删除二叉搜索树中的节点](../amass/450-delete-node-in-a-bst/README.md) | 中等 |
 | 538. [把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md) | 中等 |
 | 543. [二叉树的直径](../amass/543-diameter-of-binary-tree/README.md) | 简单 |
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
+| 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
+| 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 
 ## 快速排序
 

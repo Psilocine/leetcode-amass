@@ -720,6 +720,16 @@
     "path": "../amass/448-find-all-numbers-disappeared-in-an-array/README.md"
   },
   {
+    "id": 450,
+    "title": {
+      "cn": "删除二叉搜索树中的节点",
+      "en": "450-delete-node-in-a-bst"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/delete-node-in-a-bst/",
+    "path": "../amass/450-delete-node-in-a-bst/README.md"
+  },
+  {
     "id": 461,
     "title": {
       "cn": "汉明距离",
@@ -810,6 +820,16 @@
     "path": "../amass/654-maximum-binary-tree/README.md"
   },
   {
+    "id": 700,
+    "title": {
+      "cn": "二叉搜索树中的搜索",
+      "en": "700-search-in-a-binary-search-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/search-in-a-binary-search-tree/",
+    "path": "../amass/700-search-in-a-binary-search-tree/README.md"
+  },
+  {
     "id": 953,
     "title": {
       "cn": "验证外星语词典",
@@ -828,5 +848,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/",
     "path": "../amass/961-n-repeated-element-in-size-2n-array/README.md"
+  },
+  {
+    "id": 965,
+    "title": {
+      "cn": "单值二叉树",
+      "en": "965-univalued-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/univalued-binary-tree/",
+    "path": "../amass/965-univalued-binary-tree/README.md"
   }
 ]

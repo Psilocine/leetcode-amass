@@ -168,6 +168,12 @@
         "title": "二叉树的序列化与反序列化",
         "path": "../amass/297-serialize-and-deserialize-binary-tree/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 965,
+        "title": "单值二叉树",
+        "path": "../amass/965-univalued-binary-tree/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -214,6 +220,12 @@
         "id": 206,
         "title": "反转链表",
         "path": "../amass/206-reverse-linked-list/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 700,
+        "title": "二叉搜索树中的搜索",
+        "path": "../amass/700-search-in-a-binary-search-tree/README.md",
         "difficulty": "简单"
       }
     ]
@@ -378,6 +390,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 450,
+        "title": "删除二叉搜索树中的节点",
+        "path": "../amass/450-delete-node-in-a-bst/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 538,
         "title": "把二叉搜索树转换为累加树",
         "path": "../amass/538-convert-bst-to-greater-tree/README.md",
@@ -400,6 +418,18 @@
         "title": "最大二叉树",
         "path": "../amass/654-maximum-binary-tree/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 700,
+        "title": "二叉搜索树中的搜索",
+        "path": "../amass/700-search-in-a-binary-search-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 965,
+        "title": "单值二叉树",
+        "path": "../amass/965-univalued-binary-tree/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -929,6 +959,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 450,
+        "title": "删除二叉搜索树中的节点",
+        "path": "../amass/450-delete-node-in-a-bst/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 538,
         "title": "把二叉搜索树转换为累加树",
         "path": "../amass/538-convert-bst-to-greater-tree/README.md",
@@ -944,6 +980,18 @@
         "id": 617,
         "title": "合并二叉树",
         "path": "../amass/617-merge-two-binary-trees/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 700,
+        "title": "二叉搜索树中的搜索",
+        "path": "../amass/700-search-in-a-binary-search-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 965,
+        "title": "单值二叉树",
+        "path": "../amass/965-univalued-binary-tree/README.md",
         "difficulty": "简单"
       }
     ]
