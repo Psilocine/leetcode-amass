@@ -146,6 +146,8 @@
 
 [437. 路径总和 III](../amass/437-path-sum-iii/README.md)
 
+[438. 找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md)
+
 [448. 找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md)
 
 [450. 删除二叉搜索树中的节点](../amass/450-delete-node-in-a-bst/README.md)

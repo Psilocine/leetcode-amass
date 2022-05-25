@@ -730,6 +730,16 @@
     "path": "../amass/437-path-sum-iii/README.md"
   },
   {
+    "id": 438,
+    "title": {
+      "cn": "找到字符串中所有字母异位词",
+      "en": "438-find-all-anagrams-in-a-string"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-all-anagrams-in-a-string/",
+    "path": "../amass/438-find-all-anagrams-in-a-string/README.md"
+  },
+  {
     "id": 448,
     "title": {
       "cn": "找到所有数组中消失的数字",

@@ -93,6 +93,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 438,
+        "title": "找到字符串中所有字母异位词",
+        "path": "../amass/438-find-all-anagrams-in-a-string/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 953,
         "title": "验证外星语词典",
         "path": "../amass/953-verifying-an-alien-dictionary/README.md",
@@ -801,6 +807,12 @@
         "title": "最小覆盖子串",
         "path": "../amass/76-minimum-window-substring/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 438,
+        "title": "找到字符串中所有字母异位词",
+        "path": "../amass/438-find-all-anagrams-in-a-string/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1022,6 +1034,17 @@
         "title": "数组中的第K个最大元素",
         "path": "../amass/215-kth-largest-element-in-an-array/README.md",
         "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "队列",
+    "problems": [
+      {
+        "id": 239,
+        "title": "滑动窗口最大值",
+        "path": "../amass/239-sliding-window-maximum/README.md",
+        "difficulty": "困难"
       }
     ]
   }

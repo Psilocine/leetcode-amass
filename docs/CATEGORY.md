@@ -19,6 +19,7 @@
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 | 208. [实现 Trie (前缀树)](../amass/208-implement-trie-prefix-tree/README.md) | 中等 |
 | 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
+| 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |
 | 953. [验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md) | 简单 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md) | 简单 |
 
@@ -179,6 +180,7 @@
 | ---- | ---- |
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 76. [最小覆盖子串](../amass/76-minimum-window-substring/README.md) | 困难 |
+| 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |
 
 ## 贪心
 
@@ -245,3 +247,9 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 215. [数组中的第K个最大元素](../amass/215-kth-largest-element-in-an-array/README.md) | 中等 |
+
+## 队列
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 239. [滑动窗口最大值](../amass/239-sliding-window-maximum/README.md) | 困难 |
