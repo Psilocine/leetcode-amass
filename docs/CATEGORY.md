@@ -8,6 +8,7 @@
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
 | 49. [字母异位词分组](../amass/49-group-anagrams/README.md) | 中等 |
+| 76. [最小覆盖子串](../amass/76-minimum-window-substring/README.md) | 困难 |
 | 128. [最长连续序列](../amass/128-longest-consecutive-sequence/README.md) | 中等 |
 | 136. [只出现一次的数字](../amass/136-single-number/README.md) | 简单 |
 | 139. [单词拆分](../amass/139-word-break/README.md) | 中等 |
@@ -176,6 +177,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
+| 76. [最小覆盖子串](../amass/76-minimum-window-substring/README.md) | 困难 |
 
 ## 贪心
 

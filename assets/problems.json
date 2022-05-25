@@ -280,6 +280,16 @@
     "path": "../amass/75-sort-colors/README.md"
   },
   {
+    "id": 76,
+    "title": {
+      "cn": "最小覆盖子串",
+      "en": "76-minimum-window-substring"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/minimum-window-substring/",
+    "path": "../amass/76-minimum-window-substring/README.md"
+  },
+  {
     "id": 78,
     "title": {
       "cn": "子集",

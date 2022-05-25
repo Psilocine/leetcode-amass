@@ -56,6 +56,8 @@
 
 [75. 颜色分类](../amass/75-sort-colors/README.md)
 
+[76. 最小覆盖子串](../amass/76-minimum-window-substring/README.md)
+
 [78. 子集](../amass/78-subsets/README.md)
 
 [79. 单词搜索](../amass/79-word-search/README.md)
