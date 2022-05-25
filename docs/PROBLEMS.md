@@ -152,6 +152,8 @@
 
 [462. 最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md)
 
+[467. 环绕字符串中唯一的子字符串](../amass/467-unique-substrings-in-wraparound-string/README.md)
+
 [538. 把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md)
 
 [543. 二叉树的直径](../amass/543-diameter-of-binary-tree/README.md)

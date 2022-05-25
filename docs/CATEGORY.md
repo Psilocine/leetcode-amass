@@ -109,6 +109,7 @@
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
+| 467. [环绕字符串中唯一的子字符串](../amass/467-unique-substrings-in-wraparound-string/README.md) | 中等 |
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
 
 ## 分治

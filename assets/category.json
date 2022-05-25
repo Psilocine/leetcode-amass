@@ -533,6 +533,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 467,
+        "title": "环绕字符串中唯一的子字符串",
+        "path": "../amass/467-unique-substrings-in-wraparound-string/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 647,
         "title": "回文子串",
         "path": "../amass/647-palindromic-substrings/README.md",
