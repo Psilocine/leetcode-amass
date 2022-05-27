@@ -99,6 +99,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 560,
+        "title": "和为 K 的子数组",
+        "path": "../amass/560-subarray-sum-equals-k/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 953,
         "title": "验证外星语词典",
         "path": "../amass/953-verifying-an-alien-dictionary/README.md",
@@ -1078,6 +1084,17 @@
         "id": 240,
         "title": "搜索二维矩阵 II",
         "path": "../amass/240-search-a-2d-matrix-ii/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "前缀和",
+    "problems": [
+      {
+        "id": 560,
+        "title": "和为 K 的子数组",
+        "path": "../amass/560-subarray-sum-equals-k/README.md",
         "difficulty": "中等"
       }
     ]

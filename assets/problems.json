@@ -830,6 +830,16 @@
     "path": "../amass/543-diameter-of-binary-tree/README.md"
   },
   {
+    "id": 560,
+    "title": {
+      "cn": "和为 K 的子数组",
+      "en": "560-subarray-sum-equals-k"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/subarray-sum-equals-k/",
+    "path": "../amass/560-subarray-sum-equals-k/README.md"
+  },
+  {
     "id": 581,
     "title": {
       "cn": "最短无序连续子数组",

@@ -20,6 +20,7 @@
 | 208. [实现 Trie (前缀树)](../amass/208-implement-trie-prefix-tree/README.md) | 中等 |
 | 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
 | 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |
+| 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |
 | 953. [验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md) | 简单 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md) | 简单 |
 
@@ -267,3 +268,9 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 240. [搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md) | 中等 |
+
+## 前缀和
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |
