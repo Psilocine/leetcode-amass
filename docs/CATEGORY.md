@@ -273,4 +273,5 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 303. [区域和检索 - 数组不可变](../amass/303-range-sum-query-immutable/README.md) | 简单 |
 | 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |

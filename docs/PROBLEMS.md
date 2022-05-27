@@ -140,6 +140,8 @@
 
 [297. 二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md)
 
+[303. 区域和检索 - 数组不可变](../amass/303-range-sum-query-immutable/README.md)
+
 [337. 打家劫舍 III](../amass/337-house-robber-iii/README.md)
 
 [338. 比特位计数](../amass/338-counting-bits/README.md)

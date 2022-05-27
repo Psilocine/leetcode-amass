@@ -700,6 +700,16 @@
     "path": "../amass/297-serialize-and-deserialize-binary-tree/README.md"
   },
   {
+    "id": 303,
+    "title": {
+      "cn": "区域和检索 - 数组不可变",
+      "en": "303-range-sum-query-immutable"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/range-sum-query-immutable/",
+    "path": "../amass/303-range-sum-query-immutable/README.md"
+  },
+  {
     "id": 337,
     "title": {
       "cn": "打家劫舍 III",
