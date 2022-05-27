@@ -201,8 +201,10 @@
 | ---- | ---- |
 | 33. [搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md) | 中等 |
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
+| 240. [搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md) | 中等 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 436. [寻找右区间](../amass/436-find-right-interval/README.md) | 中等 |
+| 704. [ 二分查找](../amass/704-binary-search/README.md) | 简单 |
 
 ## 回溯
 
@@ -253,3 +255,15 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 239. [滑动窗口最大值](../amass/239-sliding-window-maximum/README.md) | 困难 |
+
+## 遍历
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
+
+## Z字形查找
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 240. [搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md) | 中等 |

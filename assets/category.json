@@ -860,6 +860,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 240,
+        "title": "搜索二维矩阵 II",
+        "path": "../amass/240-search-a-2d-matrix-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 287,
         "title": "寻找重复数",
         "path": "../amass/287-find-the-duplicate-number/README.md",
@@ -870,6 +876,12 @@
         "title": "寻找右区间",
         "path": "../amass/436-find-right-interval/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 704,
+        "title": " 二分查找",
+        "path": "../amass/704-binary-search/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -1045,6 +1057,28 @@
         "title": "滑动窗口最大值",
         "path": "../amass/239-sliding-window-maximum/README.md",
         "difficulty": "困难"
+      }
+    ]
+  },
+  {
+    "label": "遍历",
+    "problems": [
+      {
+        "id": 17.11,
+        "title": "面试题 17.11. 单词距离",
+        "path": "../amass/17.11-find-closest-lcci/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "Z字形查找",
+    "problems": [
+      {
+        "id": 240,
+        "title": "搜索二维矩阵 II",
+        "path": "../amass/240-search-a-2d-matrix-ii/README.md",
+        "difficulty": "中等"
       }
     ]
   }

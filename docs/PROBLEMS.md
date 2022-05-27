@@ -16,6 +16,8 @@
 
 [17. 电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md)
 
+[17.11. 面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md)
+
 [19. 删除链表的倒数第 N 个结点](../amass/19-remove-nth-node-from-end-of-list/README.md)
 
 [20. 有效的括号](../amass/20-valid-parentheses/README.md)
@@ -130,6 +132,8 @@
 
 [239. 滑动窗口最大值](../amass/239-sliding-window-maximum/README.md)
 
+[240. 搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md)
+
 [283. 移动零](../amass/283-move-zeroes/README.md)
 
 [287. 寻找重复数](../amass/287-find-the-duplicate-number/README.md)
@@ -173,6 +177,8 @@
 [654. 最大二叉树](../amass/654-maximum-binary-tree/README.md)
 
 [700. 二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md)
+
+[704.  二分查找](../amass/704-binary-search/README.md)
 
 [953. 验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md)
 
