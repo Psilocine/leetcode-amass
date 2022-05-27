@@ -273,5 +273,6 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 238. [除自身以外数组的乘积](../amass/238-product-of-array-except-self/README.md) | 中等 |
 | 303. [区域和检索 - 数组不可变](../amass/303-range-sum-query-immutable/README.md) | 简单 |
 | 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |

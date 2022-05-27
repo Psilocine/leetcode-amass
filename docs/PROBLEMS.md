@@ -130,6 +130,8 @@
 
 [236. 二叉树的最近公共祖先](../amass/236-lowest-common-ancestor-of-a-binary-tree/README.md)
 
+[238. 除自身以外数组的乘积](../amass/238-product-of-array-except-self/README.md)
+
 [239. 滑动窗口最大值](../amass/239-sliding-window-maximum/README.md)
 
 [240. 搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md)

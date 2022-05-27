@@ -650,6 +650,16 @@
     "path": "../amass/236-lowest-common-ancestor-of-a-binary-tree/README.md"
   },
   {
+    "id": 238,
+    "title": {
+      "cn": "除自身以外数组的乘积",
+      "en": "238-product-of-array-except-self"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/product-of-array-except-self/",
+    "path": "../amass/238-product-of-array-except-self/README.md"
+  },
+  {
     "id": 239,
     "title": {
       "cn": "滑动窗口最大值",

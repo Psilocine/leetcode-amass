@@ -1092,6 +1092,12 @@
     "label": "前缀和",
     "problems": [
       {
+        "id": 238,
+        "title": "除自身以外数组的乘积",
+        "path": "../amass/238-product-of-array-except-self/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 303,
         "title": "区域和检索 - 数组不可变",
         "path": "../amass/303-range-sum-query-immutable/README.md",
