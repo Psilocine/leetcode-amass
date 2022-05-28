@@ -830,6 +830,16 @@
     "path": "../amass/467-unique-substrings-in-wraparound-string/README.md"
   },
   {
+    "id": 494,
+    "title": {
+      "cn": "目标和",
+      "en": "494-target-sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/target-sum/",
+    "path": "../amass/494-target-sum/README.md"
+  },
+  {
     "id": 538,
     "title": {
       "cn": "把二叉搜索树转换为累加树",
