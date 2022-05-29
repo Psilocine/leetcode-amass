@@ -166,6 +166,8 @@
 
 [467. 环绕字符串中唯一的子字符串](../amass/467-unique-substrings-in-wraparound-string/README.md)
 
+[468. 验证IP地址](../amass/468-validate-ip-address/README.md)
+
 [494. 目标和](../amass/494-target-sum/README.md)
 
 [538. 把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md)

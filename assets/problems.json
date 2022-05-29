@@ -830,6 +830,16 @@
     "path": "../amass/467-unique-substrings-in-wraparound-string/README.md"
   },
   {
+    "id": 468,
+    "title": {
+      "cn": "验证IP地址",
+      "en": "468-validate-ip-address"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/validate-ip-address/",
+    "path": "../amass/468-validate-ip-address/README.md"
+  },
+  {
     "id": 494,
     "title": {
       "cn": "目标和",

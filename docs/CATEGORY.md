@@ -262,6 +262,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
+| 468. [验证IP地址](../amass/468-validate-ip-address/README.md) | 中等 |
 
 ## Z字形查找
 

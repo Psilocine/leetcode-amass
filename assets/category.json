@@ -1074,6 +1074,12 @@
         "title": "面试题 17.11. 单词距离",
         "path": "../amass/17.11-find-closest-lcci/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 468,
+        "title": "验证IP地址",
+        "path": "../amass/468-validate-ip-address/README.md",
+        "difficulty": "中等"
       }
     ]
   },
