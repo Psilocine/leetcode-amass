@@ -414,6 +414,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 494,
+        "title": "目标和",
+        "path": "../amass/494-target-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 538,
         "title": "把二叉搜索树转换为累加树",
         "path": "../amass/538-convert-bst-to-greater-tree/README.md",
@@ -548,6 +554,12 @@
         "id": 467,
         "title": "环绕字符串中唯一的子字符串",
         "path": "../amass/467-unique-substrings-in-wraparound-string/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 494,
+        "title": "目标和",
+        "path": "../amass/494-target-sum/README.md",
         "difficulty": "中等"
       },
       {

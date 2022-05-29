@@ -1,9 +1,13 @@
 import { describe, expect, it } from "vitest";
-import { findTargetSumWays } from ".";
+import { findTargetSumWays, findTargetSumWays2 } from ".";
 
 describe("目标和", () => {
-  describe("Name of the group", () => {
+  describe("dfs", () => {
     testCase(findTargetSumWays);
+  });
+
+  describe('动态规划', () => {
+    testCase(findTargetSumWays2)
   });
 });
 
