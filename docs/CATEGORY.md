@@ -98,6 +98,7 @@
 | 654. [最大二叉树](../amass/654-maximum-binary-tree/README.md) | 中等 |
 | 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
+| 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 
 ## 动态规划
 
@@ -258,6 +259,7 @@
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
 | 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
+| 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 
 ## 快速排序
 

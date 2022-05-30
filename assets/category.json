@@ -490,6 +490,12 @@
         "title": "单值二叉树",
         "path": "../amass/965-univalued-binary-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1022,
+        "title": "从根到叶的二进制数之和",
+        "path": "../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -1124,6 +1130,12 @@
         "id": 965,
         "title": "单值二叉树",
         "path": "../amass/965-univalued-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1022,
+        "title": "从根到叶的二进制数之和",
+        "path": "../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md",
         "difficulty": "简单"
       }
     ]

@@ -207,3 +207,5 @@
 [961. 在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md)
 
 [965. 单值二叉树](../amass/965-univalued-binary-tree/README.md)
+
+[1022. 从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md)
