@@ -62,6 +62,7 @@
 | 17. [电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md) | 中等 |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
+| 37. [解数独](../amass/37-sudoku-solver/README.md) | 困难 |
 | 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
 | 46. [全排列](../amass/46-permutations/README.md) | 中等 |
 | 51. [N 皇后](../amass/51-n-queens/README.md) | 困难 |
@@ -214,6 +215,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 37. [解数独](../amass/37-sudoku-solver/README.md) | 困难 |
 | 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
 | 46. [全排列](../amass/46-permutations/README.md) | 中等 |
 | 51. [N 皇后](../amass/51-n-queens/README.md) | 困难 |

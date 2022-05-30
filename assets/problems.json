@@ -160,6 +160,16 @@
     "path": "../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md"
   },
   {
+    "id": 37,
+    "title": {
+      "cn": "解数独",
+      "en": "37-sudoku-solver"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/sudoku-solver/",
+    "path": "../amass/37-sudoku-solver/README.md"
+  },
+  {
     "id": 39,
     "title": {
       "cn": "组合总和",

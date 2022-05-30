@@ -276,6 +276,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 37,
+        "title": "解数独",
+        "path": "../amass/37-sudoku-solver/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 39,
         "title": "组合总和",
         "path": "../amass/39-combination-sum/README.md",
@@ -912,6 +918,12 @@
   {
     "label": "回溯",
     "problems": [
+      {
+        "id": 37,
+        "title": "解数独",
+        "path": "../amass/37-sudoku-solver/README.md",
+        "difficulty": "困难"
+      },
       {
         "id": 39,
         "title": "组合总和",
