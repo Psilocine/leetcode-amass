@@ -69,6 +69,7 @@
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 78. [子集](../amass/78-subsets/README.md) | 中等 |
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
+| 90. [子集 II](../amass/90-subsets-ii/README.md) | 中等 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 98. [验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md) | 中等 |
 | 101. [对称二叉树](../amass/101-symmetric-tree/README.md) | 简单 |
@@ -221,6 +222,7 @@
 | 51. [N 皇后](../amass/51-n-queens/README.md) | 困难 |
 | 78. [子集](../amass/78-subsets/README.md) | 中等 |
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
+| 90. [子集 II](../amass/90-subsets-ii/README.md) | 中等 |
 
 ## 归并排序
 

@@ -340,6 +340,16 @@
     "path": "../amass/79-word-search/README.md"
   },
   {
+    "id": 90,
+    "title": {
+      "cn": "子集 II",
+      "en": "90-subsets-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/subsets-ii/",
+    "path": "../amass/90-subsets-ii/README.md"
+  },
+  {
     "id": 94,
     "title": {
       "cn": "二叉树的中序遍历",
