@@ -220,6 +220,16 @@
     "path": "../amass/46-permutations/README.md"
   },
   {
+    "id": 47,
+    "title": {
+      "cn": "全排列 II",
+      "en": "47-permutations-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/permutations-ii/",
+    "path": "../amass/47-permutations-ii/README.md"
+  },
+  {
     "id": 48,
     "title": {
       "cn": "旋转图像",

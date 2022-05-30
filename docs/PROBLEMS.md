@@ -44,6 +44,8 @@
 
 [46. 全排列](../amass/46-permutations/README.md)
 
+[47. 全排列 II](../amass/47-permutations-ii/README.md)
+
 [48. 旋转图像](../amass/48-rotate-image/README.md)
 
 [49. 字母异位词分组](../amass/49-group-anagrams/README.md)
