@@ -36,6 +36,8 @@
 
 [39. 组合总和](../amass/39-combination-sum/README.md)
 
+[40. 组合总和 II](../amass/40-combination-sum-ii/README.md)
+
 [42. 接雨水](../amass/42-trapping-rain-water/README.md)
 
 [43. 字符串相乘](../amass/43-multiply-strings/README.md)
@@ -129,6 +131,8 @@
 [213. 打家劫舍 II](../amass/213-house-robber-ii/README.md)
 
 [215. 数组中的第K个最大元素](../amass/215-kth-largest-element-in-an-array/README.md)
+
+[216. 组合总和 III](../amass/216-combination-sum-iii/README.md)
 
 [221. 最大正方形](../amass/221-maximal-square/README.md)
 

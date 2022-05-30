@@ -288,6 +288,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 40,
+        "title": "组合总和 II",
+        "path": "../amass/40-combination-sum-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 46,
         "title": "全排列",
         "path": "../amass/46-permutations/README.md",
@@ -400,6 +406,12 @@
         "title": "反转链表",
         "path": "../amass/206-reverse-linked-list/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 216,
+        "title": "组合总和 III",
+        "path": "../amass/216-combination-sum-iii/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 226,
@@ -943,6 +955,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 40,
+        "title": "组合总和 II",
+        "path": "../amass/40-combination-sum-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 46,
         "title": "全排列",
         "path": "../amass/46-permutations/README.md",
@@ -976,6 +994,12 @@
         "id": 90,
         "title": "子集 II",
         "path": "../amass/90-subsets-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 216,
+        "title": "组合总和 III",
+        "path": "../amass/216-combination-sum-iii/README.md",
         "difficulty": "中等"
       }
     ]

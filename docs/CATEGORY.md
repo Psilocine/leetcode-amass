@@ -64,6 +64,7 @@
 | 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
 | 37. [解数独](../amass/37-sudoku-solver/README.md) | 困难 |
 | 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
+| 40. [组合总和 II](../amass/40-combination-sum-ii/README.md) | 中等 |
 | 46. [全排列](../amass/46-permutations/README.md) | 中等 |
 | 51. [N 皇后](../amass/51-n-queens/README.md) | 困难 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
@@ -83,6 +84,7 @@
 | 148. [排序链表](../amass/148-sort-list/README.md) | 中等 |
 | 200. [岛屿数量](../amass/200-number-of-islands/README.md) | 中等 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
+| 216. [组合总和 III](../amass/216-combination-sum-iii/README.md) | 中等 |
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
 | 236. [二叉树的最近公共祖先](../amass/236-lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
@@ -219,12 +221,14 @@
 | ---- | ---- |
 | 37. [解数独](../amass/37-sudoku-solver/README.md) | 困难 |
 | 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
+| 40. [组合总和 II](../amass/40-combination-sum-ii/README.md) | 中等 |
 | 46. [全排列](../amass/46-permutations/README.md) | 中等 |
 | 51. [N 皇后](../amass/51-n-queens/README.md) | 困难 |
 | 77. [组合](../amass/77-combinations/README.md) | 中等 |
 | 78. [子集](../amass/78-subsets/README.md) | 中等 |
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
 | 90. [子集 II](../amass/90-subsets-ii/README.md) | 中等 |
+| 216. [组合总和 III](../amass/216-combination-sum-iii/README.md) | 中等 |
 
 ## 归并排序
 

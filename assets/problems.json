@@ -180,6 +180,16 @@
     "path": "../amass/39-combination-sum/README.md"
   },
   {
+    "id": 40,
+    "title": {
+      "cn": "组合总和 II",
+      "en": "40-combination-sum-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/combination-sum-ii/",
+    "path": "../amass/40-combination-sum-ii/README.md"
+  },
+  {
     "id": 42,
     "title": {
       "cn": "接雨水",
@@ -648,6 +658,16 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/kth-largest-element-in-an-array/",
     "path": "../amass/215-kth-largest-element-in-an-array/README.md"
+  },
+  {
+    "id": 216,
+    "title": {
+      "cn": "组合总和 III",
+      "en": "216-combination-sum-iii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/combination-sum-iii/",
+    "path": "../amass/216-combination-sum-iii/README.md"
   },
   {
     "id": 221,
