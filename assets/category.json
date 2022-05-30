@@ -288,6 +288,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 51,
+        "title": "N 皇后",
+        "path": "../amass/51-n-queens/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 70,
         "title": "爬楼梯",
         "path": "../amass/70-climbing-stairs/README.md",
@@ -917,6 +923,12 @@
         "title": "全排列",
         "path": "../amass/46-permutations/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 51,
+        "title": "N 皇后",
+        "path": "../amass/51-n-queens/README.md",
+        "difficulty": "困难"
       },
       {
         "id": 78,

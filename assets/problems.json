@@ -220,6 +220,16 @@
     "path": "../amass/49-group-anagrams/README.md"
   },
   {
+    "id": 51,
+    "title": {
+      "cn": "N 皇后",
+      "en": "51-n-queens"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/n-queens/",
+    "path": "../amass/51-n-queens/README.md"
+  },
+  {
     "id": 53,
     "title": {
       "cn": "最大子数组和",

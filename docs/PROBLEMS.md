@@ -44,6 +44,8 @@
 
 [49. 字母异位词分组](../amass/49-group-anagrams/README.md)
 
+[51. N 皇后](../amass/51-n-queens/README.md)
+
 [53. 最大子数组和](../amass/53-maximun-subarray/README.md)
 
 [55. 跳跃游戏](../amass/55-jump-game/README.md)
