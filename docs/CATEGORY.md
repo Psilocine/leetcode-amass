@@ -67,6 +67,7 @@
 | 46. [全排列](../amass/46-permutations/README.md) | 中等 |
 | 51. [N 皇后](../amass/51-n-queens/README.md) | 困难 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
+| 77. [组合](../amass/77-combinations/README.md) | 中等 |
 | 78. [子集](../amass/78-subsets/README.md) | 中等 |
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
 | 90. [子集 II](../amass/90-subsets-ii/README.md) | 中等 |
@@ -220,6 +221,7 @@
 | 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
 | 46. [全排列](../amass/46-permutations/README.md) | 中等 |
 | 51. [N 皇后](../amass/51-n-queens/README.md) | 困难 |
+| 77. [组合](../amass/77-combinations/README.md) | 中等 |
 | 78. [子集](../amass/78-subsets/README.md) | 中等 |
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
 | 90. [子集 II](../amass/90-subsets-ii/README.md) | 中等 |

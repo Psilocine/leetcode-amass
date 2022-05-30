@@ -320,6 +320,16 @@
     "path": "../amass/76-minimum-window-substring/README.md"
   },
   {
+    "id": 77,
+    "title": {
+      "cn": "组合",
+      "en": "77-combinations"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/combinations/",
+    "path": "../amass/77-combinations/README.md"
+  },
+  {
     "id": 78,
     "title": {
       "cn": "子集",

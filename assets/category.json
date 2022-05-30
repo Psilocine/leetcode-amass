@@ -306,6 +306,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 77,
+        "title": "组合",
+        "path": "../amass/77-combinations/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 78,
         "title": "子集",
         "path": "../amass/78-subsets/README.md",
@@ -947,6 +953,12 @@
         "title": "N 皇后",
         "path": "../amass/51-n-queens/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 77,
+        "title": "组合",
+        "path": "../amass/77-combinations/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 78,
