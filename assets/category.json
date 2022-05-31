@@ -438,6 +438,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 301,
+        "title": "删除无效的括号",
+        "path": "../amass/301-remove-invalid-parentheses/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 337,
         "title": "打家劫舍 III",
         "path": "../amass/337-house-robber-iii/README.md",
@@ -1018,6 +1024,18 @@
         "id": 216,
         "title": "组合总和 III",
         "path": "../amass/216-combination-sum-iii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 301,
+        "title": "删除无效的括号",
+        "path": "../amass/301-remove-invalid-parentheses/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": 494,
+        "title": "目标和",
+        "path": "../amass/494-target-sum/README.md",
         "difficulty": "中等"
       }
     ]

@@ -156,6 +156,8 @@
 
 [297. 二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md)
 
+[301. 删除无效的括号](../amass/301-remove-invalid-parentheses/README.md)
+
 [303. 区域和检索 - 数组不可变](../amass/303-range-sum-query-immutable/README.md)
 
 [337. 打家劫舍 III](../amass/337-house-robber-iii/README.md)

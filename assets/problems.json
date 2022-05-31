@@ -780,6 +780,16 @@
     "path": "../amass/297-serialize-and-deserialize-binary-tree/README.md"
   },
   {
+    "id": 301,
+    "title": {
+      "cn": "删除无效的括号",
+      "en": "301-remove-invalid-parentheses"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/remove-invalid-parentheses/",
+    "path": "../amass/301-remove-invalid-parentheses/README.md"
+  },
+  {
     "id": 303,
     "title": {
       "cn": "区域和检索 - 数组不可变",

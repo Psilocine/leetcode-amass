@@ -89,6 +89,7 @@
 | 226. [翻转二叉树](../amass/226-invert-binary-tree/README.md) | 简单 |
 | 236. [二叉树的最近公共祖先](../amass/236-lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
+| 301. [删除无效的括号](../amass/301-remove-invalid-parentheses/README.md) | 困难 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
 | 450. [删除二叉搜索树中的节点](../amass/450-delete-node-in-a-bst/README.md) | 中等 |
@@ -232,6 +233,8 @@
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
 | 90. [子集 II](../amass/90-subsets-ii/README.md) | 中等 |
 | 216. [组合总和 III](../amass/216-combination-sum-iii/README.md) | 中等 |
+| 301. [删除无效的括号](../amass/301-remove-invalid-parentheses/README.md) | 困难 |
+| 494. [目标和](../amass/494-target-sum/README.md) | 中等 |
 
 ## 归并排序
 

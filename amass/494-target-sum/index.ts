@@ -6,25 +6,26 @@
  * @returns {number}
  */
 export function findTargetSumWays(nums: number[], target: number): number {
-  let count = 0;
-  const backtracking = (nums, target, index, sum) => {
-    if (index === nums.length) {
-      if (sum === target) {
-        count++;
-      }
-    } else {
-      backtracking(nums, target, index + 1, sum + nums[index]);
-      backtracking(nums, target, index + 1, sum - nums[index]);
+  let ans: number = 0;
+
+  const backtrack = (sum, start) => {
+    if (start === nums.length) {
+      if (sum === target) ans++;
+
+      return;
     }
+
+    backtrack(sum - nums[start], start + 1);
+    backtrack(sum + nums[start], start + 1);
   };
 
-  backtracking(nums, target, 0, 0);
+  backtrack(0, 0);
 
-  return count;
+  return ans;
 }
 
 /**
- * 动态规划
+ * 动态规划 TODO
  * @desc 时间复杂度 O(n * (sum - target)) 空间复杂度 O(sum - target)
  * @param nums {number[]}
  * @param target {number}
