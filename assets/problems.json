@@ -450,6 +450,16 @@
     "path": "../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md"
   },
   {
+    "id": 111,
+    "title": {
+      "cn": "二叉树的最小深度",
+      "en": "111-minimum-depth-of-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-depth-of-binary-tree/",
+    "path": "../amass/111-minimum-depth-of-binary-tree/README.md"
+  },
+  {
     "id": 114,
     "title": {
       "cn": "二叉树展开为链表",

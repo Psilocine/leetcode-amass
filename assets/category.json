@@ -378,6 +378,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 111,
+        "title": "二叉树的最小深度",
+        "path": "../amass/111-minimum-depth-of-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 114,
         "title": "二叉树展开为链表",
         "path": "../amass/114-flatten-binary-tree-to-linked-list/README.md",
@@ -1103,6 +1109,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 111,
+        "title": "二叉树的最小深度",
+        "path": "../amass/111-minimum-depth-of-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 114,
         "title": "二叉树展开为链表",
         "path": "../amass/114-flatten-binary-tree-to-linked-list/README.md",
@@ -1184,6 +1196,12 @@
   {
     "label": "队列",
     "problems": [
+      {
+        "id": 111,
+        "title": "二叉树的最小深度",
+        "path": "../amass/111-minimum-depth-of-binary-tree/README.md",
+        "difficulty": "简单"
+      },
       {
         "id": 239,
         "title": "滑动窗口最大值",
