@@ -940,6 +940,16 @@
     "path": "../amass/468-validate-ip-address/README.md"
   },
   {
+    "id": 473,
+    "title": {
+      "cn": "火柴拼正方形",
+      "en": "473-matchsticks-to-square"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/matchsticks-to-square/",
+    "path": "../amass/473-matchsticks-to-square/README.md"
+  },
+  {
     "id": 494,
     "title": {
       "cn": "目标和",

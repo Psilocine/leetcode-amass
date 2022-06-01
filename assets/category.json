@@ -480,6 +480,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 473,
+        "title": "火柴拼正方形",
+        "path": "../amass/473-matchsticks-to-square/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 494,
         "title": "目标和",
         "path": "../amass/494-target-sum/README.md",
@@ -1055,6 +1061,12 @@
         "title": "删除无效的括号",
         "path": "../amass/301-remove-invalid-parentheses/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 473,
+        "title": "火柴拼正方形",
+        "path": "../amass/473-matchsticks-to-square/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 494,
