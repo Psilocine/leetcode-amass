@@ -810,6 +810,16 @@
     "path": "../amass/303-range-sum-query-immutable/README.md"
   },
   {
+    "id": 322,
+    "title": {
+      "cn": "零钱兑换",
+      "en": "322-coin-change"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/coin-change/",
+    "path": "../amass/322-coin-change/README.md"
+  },
+  {
     "id": 337,
     "title": {
       "cn": "打家劫舍 III",

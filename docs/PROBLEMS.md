@@ -162,6 +162,8 @@
 
 [303. 区域和检索 - 数组不可变](../amass/303-range-sum-query-immutable/README.md)
 
+[322. 零钱兑换](../amass/322-coin-change/README.md)
+
 [337. 打家劫舍 III](../amass/337-house-robber-iii/README.md)
 
 [338. 比特位计数](../amass/338-counting-bits/README.md)

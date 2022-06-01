@@ -456,6 +456,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 322,
+        "title": "零钱兑换",
+        "path": "../amass/322-coin-change/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 337,
         "title": "打家劫舍 III",
         "path": "../amass/337-house-robber-iii/README.md",
@@ -602,6 +608,12 @@
         "id": 287,
         "title": "寻找重复数",
         "path": "../amass/287-find-the-duplicate-number/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 322,
+        "title": "零钱兑换",
+        "path": "../amass/322-coin-change/README.md",
         "difficulty": "中等"
       },
       {

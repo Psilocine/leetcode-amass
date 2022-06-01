@@ -92,6 +92,7 @@
 | 236. [二叉树的最近公共祖先](../amass/236-lowest-common-ancestor-of-a-binary-tree/README.md) | 中等 |
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
 | 301. [删除无效的括号](../amass/301-remove-invalid-parentheses/README.md) | 困难 |
+| 322. [零钱兑换](../amass/322-coin-change/README.md) | 中等 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
 | 450. [删除二叉搜索树中的节点](../amass/450-delete-node-in-a-bst/README.md) | 中等 |
@@ -121,6 +122,7 @@
 | 213. [打家劫舍 II](../amass/213-house-robber-ii/README.md) | 中等 |
 | 221. [最大正方形](../amass/221-maximal-square/README.md) | 中等 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
+| 322. [零钱兑换](../amass/322-coin-change/README.md) | 中等 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
 | 467. [环绕字符串中唯一的子字符串](../amass/467-unique-substrings-in-wraparound-string/README.md) | 中等 |
