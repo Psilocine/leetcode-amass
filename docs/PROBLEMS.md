@@ -208,6 +208,8 @@
 
 [704.  二分查找](../amass/704-binary-search/README.md)
 
+[752. 打开转盘锁](../amass/752-open-the-lock/README.md)
+
 [953. 验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md)
 
 [961. 在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md)
