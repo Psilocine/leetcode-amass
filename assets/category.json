@@ -950,6 +950,12 @@
     "label": "二分法",
     "problems": [
       {
+        "id": 4,
+        "title": "寻找两个正序数组的中位数",
+        "path": "../amass/4-median-of-two-sorted-arrays/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 33,
         "title": "搜索旋转排序数组",
         "path": "../amass/33-search-in-rotated-sorted-array/README.md",

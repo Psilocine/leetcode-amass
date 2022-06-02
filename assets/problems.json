@@ -30,6 +30,16 @@
     "path": "../amass/3-longest-substring-without-repeating-characters/README.md"
   },
   {
+    "id": 4,
+    "title": {
+      "cn": "寻找两个正序数组的中位数",
+      "en": "4-median-of-two-sorted-arrays"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/median-of-two-sorted-arrays/",
+    "path": "../amass/4-median-of-two-sorted-arrays/README.md"
+  },
+  {
     "id": 4.06,
     "title": {
       "cn": "后继者",
