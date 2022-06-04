@@ -216,10 +216,14 @@
 
 [752. 打开转盘锁](../amass/752-open-the-lock/README.md)
 
+[929. 独特的电子邮件地址](../amass/929-unique-email-addresses/README.md)
+
 [953. 验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md)
 
 [961. 在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md)
 
 [965. 单值二叉树](../amass/965-univalued-binary-tree/README.md)
+
+[977. 有序数组的平方](../amass/977-squares-of-a-sorted-array/README.md)
 
 [1022. 从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md)

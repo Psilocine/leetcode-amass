@@ -1080,6 +1080,16 @@
     "path": "../amass/752-open-the-lock/README.md"
   },
   {
+    "id": 929,
+    "title": {
+      "cn": "独特的电子邮件地址",
+      "en": "929-unique-email-addresses"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/unique-email-addresses/",
+    "path": "../amass/929-unique-email-addresses/README.md"
+  },
+  {
     "id": 953,
     "title": {
       "cn": "验证外星语词典",
@@ -1108,6 +1118,16 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/univalued-binary-tree/",
     "path": "../amass/965-univalued-binary-tree/README.md"
+  },
+  {
+    "id": 977,
+    "title": {
+      "cn": "有序数组的平方",
+      "en": "977-squares-of-a-sorted-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/squares-of-a-sorted-array/",
+    "path": "../amass/977-squares-of-a-sorted-array/README.md"
   },
   {
     "id": 1022,

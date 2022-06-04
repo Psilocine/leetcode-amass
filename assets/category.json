@@ -111,6 +111,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 929,
+        "title": "独特的电子邮件地址",
+        "path": "../amass/929-unique-email-addresses/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 953,
         "title": "验证外星语词典",
         "path": "../amass/953-verifying-an-alien-dictionary/README.md",
@@ -786,6 +792,12 @@
         "title": "最短无序连续子数组",
         "path": "../amass/581-shortest-unsorted-continuous-subarray/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 977,
+        "title": "有序数组的平方",
+        "path": "../amass/977-squares-of-a-sorted-array/README.md",
+        "difficulty": "简单"
       }
     ]
   },
