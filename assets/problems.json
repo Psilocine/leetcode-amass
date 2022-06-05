@@ -1080,6 +1080,16 @@
     "path": "../amass/704-binary-search/README.md"
   },
   {
+    "id": 739,
+    "title": {
+      "cn": "每日温度",
+      "en": "739-daily-temperatures"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/daily-temperatures/",
+    "path": "../amass/739-daily-temperatures/README.md"
+  },
+  {
     "id": 752,
     "title": {
       "cn": "打开转盘锁",

@@ -216,6 +216,8 @@
 
 [704.  二分查找](../amass/704-binary-search/README.md)
 
+[739. 每日温度](../amass/739-daily-temperatures/README.md)
+
 [752. 打开转盘锁](../amass/752-open-the-lock/README.md)
 
 [929. 独特的电子邮件地址](../amass/929-unique-email-addresses/README.md)
