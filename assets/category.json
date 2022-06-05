@@ -900,6 +900,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 478,
+        "title": "在圆内随机生成点",
+        "path": "../amass/478-generate-random-point-in-a-circle/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 621,
         "title": "任务调度器",
         "path": "../amass/621-task-scheduler/README.md",

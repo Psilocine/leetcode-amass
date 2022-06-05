@@ -192,6 +192,8 @@
 
 [473. 火柴拼正方形](../amass/473-matchsticks-to-square/README.md)
 
+[478. 在圆内随机生成点](../amass/478-generate-random-point-in-a-circle/README.md)
+
 [494. 目标和](../amass/494-target-sum/README.md)
 
 [538. 把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md)

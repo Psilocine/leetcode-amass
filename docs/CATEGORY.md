@@ -191,6 +191,7 @@
 | 415. [字符串相加](../amass/415-add-strings/README.md) | 简单 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 461. [汉明距离](../amass/461-hamming-distance/README.md) | 简单 |
+| 478. [在圆内随机生成点](../amass/478-generate-random-point-in-a-circle/README.md) | 中等 |
 | 621. [任务调度器](../amass/621-task-scheduler/README.md) | 中等 |
 
 ## 滑动窗口

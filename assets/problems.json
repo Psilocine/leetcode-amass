@@ -960,6 +960,16 @@
     "path": "../amass/473-matchsticks-to-square/README.md"
   },
   {
+    "id": 478,
+    "title": {
+      "cn": "在圆内随机生成点",
+      "en": "478-generate-random-point-in-a-circle"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/generate-random-point-in-a-circle/",
+    "path": "../amass/478-generate-random-point-in-a-circle/README.md"
+  },
+  {
     "id": 494,
     "title": {
       "cn": "目标和",
