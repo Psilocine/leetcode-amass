@@ -176,6 +176,8 @@
 
 [338. 比特位计数](../amass/338-counting-bits/README.md)
 
+[347. 前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md)
+
 [415. 字符串相加](../amass/415-add-strings/README.md)
 
 [436. 寻找右区间](../amass/436-find-right-interval/README.md)

@@ -880,6 +880,16 @@
     "path": "../amass/338-counting-bits/README.md"
   },
   {
+    "id": 347,
+    "title": {
+      "cn": "前 K 个高频元素",
+      "en": "347-top-k-frequent-elements"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/top-k-frequent-elements/",
+    "path": "../amass/347-top-k-frequent-elements/README.md"
+  },
+  {
     "id": 415,
     "title": {
       "cn": "字符串相加",
