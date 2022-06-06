@@ -770,6 +770,16 @@
     "path": "../amass/240-search-a-2d-matrix-ii/README.md"
   },
   {
+    "id": 279,
+    "title": {
+      "cn": "完全平方数",
+      "en": "279-perfect-squares"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/perfect-squares/",
+    "path": "../amass/279-perfect-squares/README.md"
+  },
+  {
     "id": 283,
     "title": {
       "cn": "移动零",
