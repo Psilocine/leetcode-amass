@@ -1050,6 +1050,16 @@
     "path": "../amass/621-task-scheduler/README.md"
   },
   {
+    "id": 633,
+    "title": {
+      "cn": "平方数之和",
+      "en": "633-sum-of-square-numbers"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/sum-of-square-numbers/",
+    "path": "../amass/633-sum-of-square-numbers/README.md"
+  },
+  {
     "id": 647,
     "title": {
       "cn": "回文子串",
