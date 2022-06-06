@@ -728,6 +728,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 16,
+        "title": "最接近的三数之和",
+        "path": "../amass/16-3sum-closest/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 19,
         "title": "删除链表的倒数第 N 个结点",
         "path": "../amass/19-remove-nth-node-from-end-of-list/README.md",
@@ -816,6 +822,12 @@
   {
     "label": "排序",
     "problems": [
+      {
+        "id": 16,
+        "title": "最接近的三数之和",
+        "path": "../amass/16-3sum-closest/README.md",
+        "difficulty": "中等"
+      },
       {
         "id": 49,
         "title": "字母异位词分组",

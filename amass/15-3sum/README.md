@@ -51,7 +51,7 @@ export function threeSum(nums: number[]): number[][] {
 
   let ans = [];
 
-  for (let i = 0; i < len - 1; i++) {
+  for (let i = 0; i < len - 2; i++) {
     if (nums[i] > 0) break; // 一定大于 0
     if (i > 0 && nums[i] === nums[i - 1]) continue; // 去重
 
