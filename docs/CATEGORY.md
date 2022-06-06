@@ -155,6 +155,7 @@
 | 11. [盛最多水的容器](../amass/11-container-with-most-water/README.md) | 中等 |
 | 15. [三数之和](../amass/15-3sum/README.md) | 中等 |
 | 16. [最接近的三数之和](../amass/16-3sum-closest/README.md) | 中等 |
+| 18. [四数之和](../amass/18-4sum/README.md) | 中等 |
 | 19. [删除链表的倒数第 N 个结点](../amass/19-remove-nth-node-from-end-of-list/README.md) | 中等 |
 | 31. [下一个排列](../amass/31-next-permutation/README.md) | 中等 |
 | 42. [接雨水](../amass/42-trapping-rain-water/README.md) | 困难 |
@@ -175,6 +176,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 16. [最接近的三数之和](../amass/16-3sum-closest/README.md) | 中等 |
+| 18. [四数之和](../amass/18-4sum/README.md) | 中等 |
 | 49. [字母异位词分组](../amass/49-group-anagrams/README.md) | 中等 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 128. [最长连续序列](../amass/128-longest-consecutive-sequence/README.md) | 中等 |

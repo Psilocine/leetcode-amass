@@ -734,6 +734,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 18,
+        "title": "四数之和",
+        "path": "../amass/18-4sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 19,
         "title": "删除链表的倒数第 N 个结点",
         "path": "../amass/19-remove-nth-node-from-end-of-list/README.md",
@@ -826,6 +832,12 @@
         "id": 16,
         "title": "最接近的三数之和",
         "path": "../amass/16-3sum-closest/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 18,
+        "title": "四数之和",
+        "path": "../amass/18-4sum/README.md",
         "difficulty": "中等"
       },
       {

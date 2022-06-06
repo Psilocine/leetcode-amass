@@ -22,6 +22,8 @@
 
 [17.11. 面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md)
 
+[18. 四数之和](../amass/18-4sum/README.md)
+
 [19. 删除链表的倒数第 N 个结点](../amass/19-remove-nth-node-from-end-of-list/README.md)
 
 [20. 有效的括号](../amass/20-valid-parentheses/README.md)

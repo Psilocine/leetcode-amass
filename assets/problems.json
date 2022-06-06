@@ -110,6 +110,16 @@
     "path": "../amass/17.11-find-closest-lcci/README.md"
   },
   {
+    "id": 18,
+    "title": {
+      "cn": "四数之和",
+      "en": "18-4sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/4sum/",
+    "path": "../amass/18-4sum/README.md"
+  },
+  {
     "id": 19,
     "title": {
       "cn": "删除链表的倒数第 N 个结点",
