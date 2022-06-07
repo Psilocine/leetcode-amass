@@ -166,6 +166,8 @@
 
 [297. 二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md)
 
+[300. 最长递增子序列](../amass/300-longest-increasing-subsequence/README.md)
+
 [301. 删除无效的括号](../amass/301-remove-invalid-parentheses/README.md)
 
 [303. 区域和检索 - 数组不可变](../amass/303-range-sum-query-immutable/README.md)

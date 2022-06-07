@@ -830,6 +830,16 @@
     "path": "../amass/297-serialize-and-deserialize-binary-tree/README.md"
   },
   {
+    "id": 300,
+    "title": {
+      "cn": "最长递增子序列",
+      "en": "300-longest-increasing-subsequence"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/longest-increasing-subsequence/",
+    "path": "../amass/300-longest-increasing-subsequence/README.md"
+  },
+  {
     "id": 301,
     "title": {
       "cn": "删除无效的括号",

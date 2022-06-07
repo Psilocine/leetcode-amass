@@ -126,6 +126,7 @@
 | 213. [打家劫舍 II](../amass/213-house-robber-ii/README.md) | 中等 |
 | 221. [最大正方形](../amass/221-maximal-square/README.md) | 中等 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
+| 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
 | 322. [零钱兑换](../amass/322-coin-change/README.md) | 中等 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
@@ -218,6 +219,7 @@
 | ---- | ---- |
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
 | 55. [跳跃游戏](../amass/55-jump-game/README.md) | 中等 |
+| 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
 
 ## 中间扩散
 
@@ -234,6 +236,7 @@
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
 | 240. [搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md) | 中等 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
+| 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
 | 436. [寻找右区间](../amass/436-find-right-interval/README.md) | 中等 |
 | 704. [ 二分查找](../amass/704-binary-search/README.md) | 简单 |
 | 875. [爱吃香蕉的珂珂](../amass/875-koko-eating-bananas/README.md) | 中等 |
