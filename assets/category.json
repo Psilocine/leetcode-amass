@@ -653,6 +653,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 416,
+        "title": "分割等和子集",
+        "path": "../amass/416-partition-equal-subset-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 467,
         "title": "环绕字符串中唯一的子字符串",
         "path": "../amass/467-unique-substrings-in-wraparound-string/README.md",
@@ -886,6 +892,12 @@
         "id": 347,
         "title": "前 K 个高频元素",
         "path": "../amass/347-top-k-frequent-elements/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 406,
+        "title": "根据身高重建队列",
+        "path": "../amass/406-queue-reconstruction-by-height/README.md",
         "difficulty": "中等"
       },
       {
@@ -1331,6 +1343,12 @@
         "id": 17.11,
         "title": "面试题 17.11. 单词距离",
         "path": "../amass/17.11-find-closest-lcci/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 406,
+        "title": "根据身高重建队列",
+        "path": "../amass/406-queue-reconstruction-by-height/README.md",
         "difficulty": "中等"
       },
       {

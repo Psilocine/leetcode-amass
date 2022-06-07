@@ -129,6 +129,7 @@
 | 322. [零钱兑换](../amass/322-coin-change/README.md) | 中等 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
+| 416. [分割等和子集](../amass/416-partition-equal-subset-sum/README.md) | 中等 |
 | 467. [环绕字符串中唯一的子字符串](../amass/467-unique-substrings-in-wraparound-string/README.md) | 中等 |
 | 494. [目标和](../amass/494-target-sum/README.md) | 中等 |
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
@@ -185,6 +186,7 @@
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 | 215. [数组中的第K个最大元素](../amass/215-kth-largest-element-in-an-array/README.md) | 中等 |
 | 347. [前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md) | 中等 |
+| 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 462. [最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
@@ -305,6 +307,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
+| 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
 | 468. [验证IP地址](../amass/468-validate-ip-address/README.md) | 中等 |
 
 ## Z字形查找

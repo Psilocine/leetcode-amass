@@ -178,7 +178,11 @@
 
 [347. 前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md)
 
+[406. 根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md)
+
 [415. 字符串相加](../amass/415-add-strings/README.md)
+
+[416. 分割等和子集](../amass/416-partition-equal-subset-sum/README.md)
 
 [436. 寻找右区间](../amass/436-find-right-interval/README.md)
 

@@ -890,6 +890,16 @@
     "path": "../amass/347-top-k-frequent-elements/README.md"
   },
   {
+    "id": 406,
+    "title": {
+      "cn": "根据身高重建队列",
+      "en": "406-queue-reconstruction-by-height"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/queue-reconstruction-by-height/",
+    "path": "../amass/406-queue-reconstruction-by-height/README.md"
+  },
+  {
     "id": 415,
     "title": {
       "cn": "字符串相加",
@@ -898,6 +908,16 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/add-strings/",
     "path": "../amass/415-add-strings/README.md"
+  },
+  {
+    "id": 416,
+    "title": {
+      "cn": "分割等和子集",
+      "en": "416-partition-equal-subset-sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/partition-equal-subset-sum/",
+    "path": "../amass/416-partition-equal-subset-sum/README.md"
   },
   {
     "id": 436,
