@@ -230,6 +230,8 @@
 
 [752. 打开转盘锁](../amass/752-open-the-lock/README.md)
 
+[875. 爱吃香蕉的珂珂](../amass/875-koko-eating-bananas/README.md)
+
 [929. 独特的电子邮件地址](../amass/929-unique-email-addresses/README.md)
 
 [953. 验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md)

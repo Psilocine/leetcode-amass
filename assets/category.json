@@ -1056,6 +1056,12 @@
         "title": " 二分查找",
         "path": "../amass/704-binary-search/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 875,
+        "title": "爱吃香蕉的珂珂",
+        "path": "../amass/875-koko-eating-bananas/README.md",
+        "difficulty": "中等"
       }
     ]
   },

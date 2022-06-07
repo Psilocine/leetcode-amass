@@ -1150,6 +1150,16 @@
     "path": "../amass/752-open-the-lock/README.md"
   },
   {
+    "id": 875,
+    "title": {
+      "cn": "爱吃香蕉的珂珂",
+      "en": "875-koko-eating-bananas"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/koko-eating-bananas/",
+    "path": "../amass/875-koko-eating-bananas/README.md"
+  },
+  {
     "id": 929,
     "title": {
       "cn": "独特的电子邮件地址",
