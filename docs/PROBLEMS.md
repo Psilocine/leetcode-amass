@@ -132,6 +132,8 @@
 
 [169. 多数元素](../amass/169-majority-element/README.md)
 
+[188. 买卖股票的最佳时机 IV](../amass/188-best-time-to-buy-and-sell-stock-iv/README.md)
+
 [198. 打家劫舍](../amass/198-house-robber/README.md)
 
 [200. 岛屿数量](../amass/200-number-of-islands/README.md)
