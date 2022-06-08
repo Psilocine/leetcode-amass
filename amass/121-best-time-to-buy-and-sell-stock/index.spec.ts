@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { maxProfit, maxProfit2 } from ".";
+import { maxProfit, maxProfit2, maxProfit3 } from ".";
 
 describe("买卖股票的最佳时机", () => {
   describe('暴力破解', () => {
@@ -8,6 +8,9 @@ describe("买卖股票的最佳时机", () => {
 
   describe('动态规划', () => {
     testCase(maxProfit2);
+  });
+  describe('动态规划 - 空间优化', () => {
+    testCase(maxProfit3);
   });
 });
 
