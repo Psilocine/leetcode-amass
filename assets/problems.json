@@ -1248,5 +1248,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/",
     "path": "../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md"
+  },
+  {
+    "id": 1037,
+    "title": {
+      "cn": "有效的回旋镖",
+      "en": "1037-valid-boomerang"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/valid-boomerang/",
+    "path": "../amass/1037-valid-boomerang/README.md"
   }
 ]

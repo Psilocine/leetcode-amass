@@ -976,6 +976,12 @@
         "title": "任务调度器",
         "path": "../amass/621-task-scheduler/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1037,
+        "title": "有效的回旋镖",
+        "path": "../amass/1037-valid-boomerang/README.md",
+        "difficulty": "简单"
       }
     ]
   },

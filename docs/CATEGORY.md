@@ -204,6 +204,7 @@
 | 461. [汉明距离](../amass/461-hamming-distance/README.md) | 简单 |
 | 478. [在圆内随机生成点](../amass/478-generate-random-point-in-a-circle/README.md) | 中等 |
 | 621. [任务调度器](../amass/621-task-scheduler/README.md) | 中等 |
+| 1037. [有效的回旋镖](../amass/1037-valid-boomerang/README.md) | 简单 |
 
 ## 滑动窗口
 

@@ -249,3 +249,5 @@
 [977. 有序数组的平方](../amass/977-squares-of-a-sorted-array/README.md)
 
 [1022. 从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md)
+
+[1037. 有效的回旋镖](../amass/1037-valid-boomerang/README.md)
