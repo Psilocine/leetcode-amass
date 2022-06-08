@@ -699,6 +699,12 @@
         "title": "回文子串",
         "path": "../amass/647-palindromic-substrings/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 714,
+        "title": "买卖股票的最佳时机含手续费",
+        "path": "../amass/714-best-time-to-buy-and-sell-stock-with-transaction-fee/README.md",
+        "difficulty": "中等"
       }
     ]
   },
