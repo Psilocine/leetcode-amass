@@ -19,6 +19,7 @@
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
 | 208. [实现 Trie (前缀树)](../amass/208-implement-trie-prefix-tree/README.md) | 中等 |
 | 347. [前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md) | 中等 |
+| 399. [除法求值](../amass/399-evaluate-division/README.md) | 中等 |
 | 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
 | 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |
 | 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |
@@ -43,6 +44,7 @@
 | 207. [课程表](../amass/207-course-schedule/README.md) | 中等 |
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
 | 394. [字符串解码](../amass/394-decode-string/README.md) | 中等 |
+| 399. [除法求值](../amass/399-evaluate-division/README.md) | 中等 |
 | 739. [每日温度](../amass/739-daily-temperatures/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 

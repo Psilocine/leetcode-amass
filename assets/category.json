@@ -93,6 +93,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 399,
+        "title": "除法求值",
+        "path": "../amass/399-evaluate-division/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 437,
         "title": "路径总和 III",
         "path": "../amass/437-path-sum-iii/README.md",
@@ -209,6 +215,12 @@
         "id": 394,
         "title": "字符串解码",
         "path": "../amass/394-decode-string/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 399,
+        "title": "除法求值",
+        "path": "../amass/399-evaluate-division/README.md",
         "difficulty": "中等"
       },
       {

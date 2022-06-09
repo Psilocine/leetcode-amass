@@ -190,6 +190,8 @@
 
 [394. 字符串解码](../amass/394-decode-string/README.md)
 
+[399. 除法求值](../amass/399-evaluate-division/README.md)
+
 [406. 根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md)
 
 [415. 字符串相加](../amass/415-add-strings/README.md)

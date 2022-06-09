@@ -950,6 +950,16 @@
     "path": "../amass/394-decode-string/README.md"
   },
   {
+    "id": 399,
+    "title": {
+      "cn": "除法求值",
+      "en": "399-evaluate-division"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/evaluate-division/",
+    "path": "../amass/399-evaluate-division/README.md"
+  },
+  {
     "id": 406,
     "title": {
       "cn": "根据身高重建队列",

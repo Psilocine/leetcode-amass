@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { decodeString } from ".";
 describe("字符串解码", () => {
-  describe("decodeString", () => {
+  describe("栈辅助", () => {
     testCase(decodeString);
   });
 });
