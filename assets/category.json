@@ -206,6 +206,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 394,
+        "title": "字符串解码",
+        "path": "../amass/394-decode-string/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 739,
         "title": "每日温度",
         "path": "../amass/739-daily-temperatures/README.md",

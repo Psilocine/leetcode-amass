@@ -188,6 +188,8 @@
 
 [347. 前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md)
 
+[394. 字符串解码](../amass/394-decode-string/README.md)
+
 [406. 根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md)
 
 [415. 字符串相加](../amass/415-add-strings/README.md)

@@ -2,7 +2,7 @@
  * 动态规划
  * dp[i][0] = Math.max(dp[i-1][0], dp[i-1][1] + prices[i] - 2)
  * dp[i][1] = Math.max(dp[i-1][1], dp[i-1][0] - prices[i])
- * @desc 时间复杂度 O(n) 空间复杂度 O(n)
+ * @desc 时间复杂度 O(n) 空间复杂度 O(2n = n)
  * @param prices {number[]}
  * @return {number}
  */

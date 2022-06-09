@@ -940,6 +940,16 @@
     "path": "../amass/347-top-k-frequent-elements/README.md"
   },
   {
+    "id": 394,
+    "title": {
+      "cn": "字符串解码",
+      "en": "394-decode-string"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/decode-string/",
+    "path": "../amass/394-decode-string/README.md"
+  },
+  {
     "id": 406,
     "title": {
       "cn": "根据身高重建队列",

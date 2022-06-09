@@ -42,6 +42,7 @@
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
 | 207. [课程表](../amass/207-course-schedule/README.md) | 中等 |
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
+| 394. [字符串解码](../amass/394-decode-string/README.md) | 中等 |
 | 739. [每日温度](../amass/739-daily-temperatures/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 
