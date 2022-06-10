@@ -133,6 +133,7 @@
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
 | 309. [最佳买卖股票时机含冷冻期](../amass/309-best-time-to-buy-and-sell-stock-with-cooldown/README.md) | 中等 |
+| 312. [戳气球](../amass/312-burst-balloons/README.md) | 困难 |
 | 322. [零钱兑换](../amass/322-coin-change/README.md) | 中等 |
 | 337. [打家劫舍 III](../amass/337-house-robber-iii/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |

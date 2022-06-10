@@ -677,6 +677,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 312,
+        "title": "戳气球",
+        "path": "../amass/312-burst-balloons/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 322,
         "title": "零钱兑换",
         "path": "../amass/322-coin-change/README.md",
