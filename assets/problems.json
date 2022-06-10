@@ -400,6 +400,26 @@
     "path": "../amass/79-word-search/README.md"
   },
   {
+    "id": 84,
+    "title": {
+      "cn": "柱状图中最大的矩形",
+      "en": "84-largest-rectangle-in-histogram"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/largest-rectangle-in-histogram/",
+    "path": "../amass/84-largest-rectangle-in-histogram/README.md"
+  },
+  {
+    "id": 85,
+    "title": {
+      "cn": "最大矩形",
+      "en": "85-maximal-rectangle"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/maximal-rectangle/",
+    "path": "../amass/85-maximal-rectangle/README.md"
+  },
+  {
     "id": 90,
     "title": {
       "cn": "子集 II",

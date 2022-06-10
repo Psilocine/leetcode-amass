@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 import { maxCoins } from ".";
 
 describe("戳气球", () => {
-  describe("maxCoins", () => {
+  describe("动态规划", () => {
     testCase(maxCoins);
   });
 });

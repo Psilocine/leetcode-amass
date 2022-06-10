@@ -164,6 +164,18 @@
         "difficulty": "中等"
       },
       {
+        "id": 84,
+        "title": "柱状图中最大的矩形",
+        "path": "../amass/84-largest-rectangle-in-histogram/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": 85,
+        "title": "最大矩形",
+        "path": "../amass/85-maximal-rectangle/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 98,
         "title": "验证二叉搜索树",
         "path": "../amass/98-validate-binary-search-tree/README.md",

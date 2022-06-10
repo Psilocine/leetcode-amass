@@ -34,7 +34,7 @@
 ```typescript
 /**
  * 单调栈
- * @desc
+ * @desc 时间复杂度 O(n) 空间复杂度 O(n)
  * @param heights {number[]}
  * @returns {number}
  */

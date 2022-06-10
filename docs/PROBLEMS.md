@@ -80,6 +80,10 @@
 
 [79. 单词搜索](../amass/79-word-search/README.md)
 
+[84. 柱状图中最大的矩形](../amass/84-largest-rectangle-in-histogram/README.md)
+
+[85. 最大矩形](../amass/85-maximal-rectangle/README.md)
+
 [90. 子集 II](../amass/90-subsets-ii/README.md)
 
 [94. 二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md)

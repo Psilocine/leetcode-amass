@@ -35,6 +35,8 @@
 | 17. [电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md) | 中等 |
 | 20. [有效的括号](../amass/20-valid-parentheses/README.md) | 简单 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
+| 84. [柱状图中最大的矩形](../amass/84-largest-rectangle-in-histogram/README.md) | 困难 |
+| 85. [最大矩形](../amass/85-maximal-rectangle/README.md) | 困难 |
 | 98. [验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md) | 中等 |
 | 101. [对称二叉树](../amass/101-symmetric-tree/README.md) | 简单 |
 | 102. [二叉树的层序遍历](../amass/102-binary-tree-level-order-traversal/README.md) | 中等 |
