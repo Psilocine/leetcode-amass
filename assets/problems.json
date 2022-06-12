@@ -350,6 +350,16 @@
     "path": "../amass/70-climbing-stairs/README.md"
   },
   {
+    "id": 72,
+    "title": {
+      "cn": "编辑距离",
+      "en": "72-edit-distance"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/edit-distance/",
+    "path": "../amass/72-edit-distance/README.md"
+  },
+  {
     "id": 75,
     "title": {
       "cn": "颜色分类",

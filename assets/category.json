@@ -623,6 +623,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 72,
+        "title": "编辑距离",
+        "path": "../amass/72-edit-distance/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 96,
         "title": "不同的二叉搜索树",
         "path": "../amass/96-unique-binary-search-trees/README.md",

@@ -70,6 +70,8 @@
 
 [70. 爬楼梯](../amass/70-climbing-stairs/README.md)
 
+[72. 编辑距离](../amass/72-edit-distance/README.md)
+
 [75. 颜色分类](../amass/75-sort-colors/README.md)
 
 [76. 最小覆盖子串](../amass/76-minimum-window-substring/README.md)

@@ -124,6 +124,7 @@
 | 62. [不同路径](../amass/62-unique-paths/README.md) | 中等 |
 | 64. [最小路径和](../amass/64-minimum-path-sum/README.md) | 中等 |
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
+| 72. [编辑距离](../amass/72-edit-distance/README.md) | 困难 |
 | 96. [不同的二叉搜索树](../amass/96-unique-binary-search-trees/README.md) | 中等 |
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 122. [买卖股票的最佳时机 II](../amass/122-best-time-to-buy-and-sell-stock-ii/README.md) | 中等 |
