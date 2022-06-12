@@ -599,6 +599,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 32,
+        "title": "最长有效括号",
+        "path": "../amass/32-longest-valid-parentheses/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 53,
         "title": "最大子数组和",
         "path": "../amass/53-maximun-subarray/README.md",

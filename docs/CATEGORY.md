@@ -120,6 +120,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
+| 32. [最长有效括号](../amass/32-longest-valid-parentheses/README.md) | 困难 |
 | 53. [最大子数组和](../amass/53-maximun-subarray/README.md) | 简单 |
 | 62. [不同路径](../amass/62-unique-paths/README.md) | 中等 |
 | 64. [最小路径和](../amass/64-minimum-path-sum/README.md) | 中等 |

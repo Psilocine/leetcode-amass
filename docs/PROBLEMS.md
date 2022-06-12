@@ -34,6 +34,8 @@
 
 [31. 下一个排列](../amass/31-next-permutation/README.md)
 
+[32. 最长有效括号](../amass/32-longest-valid-parentheses/README.md)
+
 [33. 搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md)
 
 [34. 在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md)

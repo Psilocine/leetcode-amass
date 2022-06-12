@@ -170,6 +170,16 @@
     "path": "../amass/31-next-permutation/README.md"
   },
   {
+    "id": 32,
+    "title": {
+      "cn": "最长有效括号",
+      "en": "32-longest-valid-parentheses"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/longest-valid-parentheses/",
+    "path": "../amass/32-longest-valid-parentheses/README.md"
+  },
+  {
     "id": 33,
     "title": {
       "cn": "搜索旋转排序数组",
