@@ -58,6 +58,7 @@
 | 2. [两数相加](../amass/2-add-two-numbers/README.md) | 中等 |
 | 4.06. [后继者](../amass/04.06-successor-lcci/README.md) | 中等 |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
+| 23. [合并K个升序链表](../amass/23-merge-k-sorted-lists/README.md) | 困难 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 101. [对称二叉树](../amass/101-symmetric-tree/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
@@ -120,6 +121,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
+| 10. [正则表达式匹配](../amass/10-regular-expression-matching/README.md) | 困难 |
 | 32. [最长有效括号](../amass/32-longest-valid-parentheses/README.md) | 困难 |
 | 53. [最大子数组和](../amass/53-maximun-subarray/README.md) | 简单 |
 | 62. [不同路径](../amass/62-unique-paths/README.md) | 中等 |

@@ -277,6 +277,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 23,
+        "title": "合并K个升序链表",
+        "path": "../amass/23-merge-k-sorted-lists/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 94,
         "title": "二叉树的中序遍历",
         "path": "../amass/94-binary-tree-inorder-traversal/README.md",
@@ -597,6 +603,12 @@
         "title": "最长回文子串",
         "path": "../amass/5-longest-palindromic-substring/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 10,
+        "title": "正则表达式匹配",
+        "path": "../amass/10-regular-expression-matching/README.md",
+        "difficulty": "困难"
       },
       {
         "id": 32,

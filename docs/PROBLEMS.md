@@ -12,6 +12,8 @@
 
 [5. 最长回文子串](../amass/5-longest-palindromic-substring/README.md)
 
+[10. 正则表达式匹配](../amass/10-regular-expression-matching/README.md)
+
 [11. 盛最多水的容器](../amass/11-container-with-most-water/README.md)
 
 [15. 三数之和](../amass/15-3sum/README.md)
@@ -31,6 +33,8 @@
 [21. 合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md)
 
 [22. 括号生成](../amass/22-generate-parentheses/README.md)
+
+[23. 合并K个升序链表](../amass/23-merge-k-sorted-lists/README.md)
 
 [31. 下一个排列](../amass/31-next-permutation/README.md)
 

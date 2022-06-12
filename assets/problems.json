@@ -60,6 +60,16 @@
     "path": "../amass/5-longest-palindromic-substring/README.md"
   },
   {
+    "id": 10,
+    "title": {
+      "cn": "正则表达式匹配",
+      "en": "10-regular-expression-matching"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/regular-expression-matching/",
+    "path": "../amass/10-regular-expression-matching/README.md"
+  },
+  {
     "id": 11,
     "title": {
       "cn": "盛最多水的容器",
@@ -158,6 +168,16 @@
     "difficulty": "中等",
     "url": "https://leetcode-cn.com/problems/generate-parentheses/",
     "path": "../amass/22-generate-parentheses/README.md"
+  },
+  {
+    "id": 23,
+    "title": {
+      "cn": "合并K个升序链表",
+      "en": "23-merge-k-sorted-lists"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/merge-k-sorted-lists/",
+    "path": "../amass/23-merge-k-sorted-lists/README.md"
   },
   {
     "id": 31,
