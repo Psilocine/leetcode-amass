@@ -123,6 +123,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 890,
+        "title": "查找和替换模式",
+        "path": "../amass/890-find-and-replace-pattern/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 929,
         "title": "独特的电子邮件地址",
         "path": "../amass/929-unique-email-addresses/README.md",

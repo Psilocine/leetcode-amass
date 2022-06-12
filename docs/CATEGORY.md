@@ -24,6 +24,7 @@
 | 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |
 | 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |
 | 752. [打开转盘锁](../amass/752-open-the-lock/README.md) | 中等 |
+| 890. [查找和替换模式](../amass/890-find-and-replace-pattern/README.md) | 中等 |
 | 929. [独特的电子邮件地址](../amass/929-unique-email-addresses/README.md) | 简单 |
 | 953. [验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md) | 简单 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md) | 简单 |

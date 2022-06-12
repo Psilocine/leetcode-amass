@@ -1290,6 +1290,16 @@
     "path": "../amass/875-koko-eating-bananas/README.md"
   },
   {
+    "id": 890,
+    "title": {
+      "cn": "查找和替换模式",
+      "en": "890-find-and-replace-pattern"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-and-replace-pattern/",
+    "path": "../amass/890-find-and-replace-pattern/README.md"
+  },
+  {
     "id": 926,
     "title": {
       "cn": "将字符串翻转到单调递增",
