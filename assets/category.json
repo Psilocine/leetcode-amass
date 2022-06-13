@@ -1019,6 +1019,12 @@
         "title": "最短无序连续子数组",
         "path": "../amass/581-shortest-unsorted-continuous-subarray/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1051,
+        "title": "高度检查器",
+        "path": "../amass/1051-height-checker//README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -1476,6 +1482,12 @@
         "title": "验证IP地址",
         "path": "../amass/468-validate-ip-address/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1051,
+        "title": "高度检查器",
+        "path": "../amass/1051-height-checker//README.md",
+        "difficulty": "简单"
       }
     ]
   },

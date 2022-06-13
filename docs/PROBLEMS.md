@@ -283,3 +283,5 @@
 [1022. 从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md)
 
 [1037. 有效的回旋镖](../amass/1037-valid-boomerang/README.md)
+
+[1051. 高度检查器](../amass/1051-height-checker//README.md)

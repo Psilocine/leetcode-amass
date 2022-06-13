@@ -207,6 +207,7 @@
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 462. [最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
+| 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 
 ## 数学
 
@@ -329,6 +330,7 @@
 | 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
 | 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
 | 468. [验证IP地址](../amass/468-validate-ip-address/README.md) | 中等 |
+| 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 
 ## Z字形查找
 

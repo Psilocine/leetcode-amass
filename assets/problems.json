@@ -1418,5 +1418,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/valid-boomerang/",
     "path": "../amass/1037-valid-boomerang/README.md"
+  },
+  {
+    "id": 1051,
+    "title": {
+      "cn": "高度检查器",
+      "en": "1051-height-checker/"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/height-checker/",
+    "path": "../amass/1051-height-checker//README.md"
   }
 ]
