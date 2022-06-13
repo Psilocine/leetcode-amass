@@ -229,6 +229,7 @@
 | ---- | ---- |
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 76. [最小覆盖子串](../amass/76-minimum-window-substring/README.md) | 困难 |
+| 209. [长度最小的子数组](../amass/209-minimum-size-subarray-sum/README.md) | 中等 |
 | 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |
 
 ## 贪心
@@ -252,6 +253,7 @@
 | 4. [寻找两个正序数组的中位数](../amass/4-median-of-two-sorted-arrays/README.md) | 困难 |
 | 33. [搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md) | 中等 |
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
+| 209. [长度最小的子数组](../amass/209-minimum-size-subarray-sum/README.md) | 中等 |
 | 240. [搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md) | 中等 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
@@ -342,6 +344,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 209. [长度最小的子数组](../amass/209-minimum-size-subarray-sum/README.md) | 中等 |
 | 238. [除自身以外数组的乘积](../amass/238-product-of-array-except-self/README.md) | 中等 |
 | 303. [区域和检索 - 数组不可变](../amass/303-range-sum-query-immutable/README.md) | 简单 |
 | 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |
