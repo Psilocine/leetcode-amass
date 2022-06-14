@@ -1210,6 +1210,16 @@
     "path": "../amass/494-target-sum/README.md"
   },
   {
+    "id": 498,
+    "title": {
+      "cn": "对角线遍历",
+      "en": "498-diagonal-traverse"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/diagonal-traverse/",
+    "path": "../amass/498-diagonal-traverse/README.md"
+  },
+  {
     "id": 538,
     "title": {
       "cn": "把二叉搜索树转换为累加树",

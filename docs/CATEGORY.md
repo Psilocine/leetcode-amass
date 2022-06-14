@@ -355,6 +355,7 @@
 | ---- | ---- |
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |
+| 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
 
 ## 矩阵
 
@@ -362,3 +363,4 @@
 | ---- | ---- |
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |
+| 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |

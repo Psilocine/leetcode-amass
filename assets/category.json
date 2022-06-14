@@ -1557,6 +1557,12 @@
         "title": "螺旋矩阵 II",
         "path": "../amass/59-spiral-matrix-ii/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 498,
+        "title": "对角线遍历",
+        "path": "../amass/498-diagonal-traverse/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1573,6 +1579,12 @@
         "id": 59,
         "title": "螺旋矩阵 II",
         "path": "../amass/59-spiral-matrix-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 498,
+        "title": "对角线遍历",
+        "path": "../amass/498-diagonal-traverse/README.md",
         "difficulty": "中等"
       }
     ]

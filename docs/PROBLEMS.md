@@ -242,6 +242,8 @@
 
 [494. 目标和](../amass/494-target-sum/README.md)
 
+[498. 对角线遍历](../amass/498-diagonal-traverse/README.md)
+
 [538. 把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md)
 
 [543. 二叉树的直径](../amass/543-diameter-of-binary-tree/README.md)
