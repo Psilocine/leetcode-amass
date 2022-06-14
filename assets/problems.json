@@ -920,6 +920,16 @@
     "path": "../amass/252-meeting-rooms/README.md"
   },
   {
+    "id": 253,
+    "title": {
+      "cn": "会议室 II",
+      "en": "253-meeting-rooms-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/meeting-rooms-ii/",
+    "path": "../amass/253-meeting-rooms-ii/README.md"
+  },
+  {
     "id": 279,
     "title": {
       "cn": "完全平方数",

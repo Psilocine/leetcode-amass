@@ -1496,6 +1496,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 253,
+        "title": "会议室 II",
+        "path": "../amass/253-meeting-rooms-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 406,
         "title": "根据身高重建队列",
         "path": "../amass/406-queue-reconstruction-by-height/README.md",
@@ -1568,6 +1574,12 @@
         "id": 59,
         "title": "螺旋矩阵 II",
         "path": "../amass/59-spiral-matrix-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 253,
+        "title": "会议室 II",
+        "path": "../amass/253-meeting-rooms-ii/README.md",
         "difficulty": "中等"
       },
       {

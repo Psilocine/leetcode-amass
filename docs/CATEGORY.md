@@ -332,6 +332,7 @@
 | ---- | ---- |
 | 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
 | 252. [会议室](../amass/252-meeting-rooms/README.md) | 简单 |
+| 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
 | 468. [验证IP地址](../amass/468-validate-ip-address/README.md) | 中等 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
@@ -357,6 +358,7 @@
 | ---- | ---- |
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |
+| 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
 
 ## 矩阵
