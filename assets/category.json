@@ -1551,6 +1551,12 @@
         "title": "螺旋矩阵",
         "path": "../amass/54-spiral-matrix/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 59,
+        "title": "螺旋矩阵 II",
+        "path": "../amass/59-spiral-matrix-ii/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1561,6 +1567,12 @@
         "id": 54,
         "title": "螺旋矩阵",
         "path": "../amass/54-spiral-matrix/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 59,
+        "title": "螺旋矩阵 II",
+        "path": "../amass/59-spiral-matrix-ii/README.md",
         "difficulty": "中等"
       }
     ]
