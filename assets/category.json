@@ -1542,5 +1542,27 @@
         "difficulty": "中等"
       }
     ]
+  },
+  {
+    "label": "模拟",
+    "problems": [
+      {
+        "id": 54,
+        "title": "螺旋矩阵",
+        "path": "../amass/54-spiral-matrix/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "矩阵",
+    "problems": [
+      {
+        "id": 54,
+        "title": "螺旋矩阵",
+        "path": "../amass/54-spiral-matrix/README.md",
+        "difficulty": "中等"
+      }
+    ]
   }
 ]

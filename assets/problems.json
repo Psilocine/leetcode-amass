@@ -330,6 +330,16 @@
     "path": "../amass/53-maximun-subarray/README.md"
   },
   {
+    "id": 54,
+    "title": {
+      "cn": "螺旋矩阵",
+      "en": "54-spiral-matrix"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/spiral-matrix/",
+    "path": "../amass/54-spiral-matrix/README.md"
+  },
+  {
     "id": 55,
     "title": {
       "cn": "跳跃游戏",
