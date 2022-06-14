@@ -910,6 +910,16 @@
     "path": "../amass/240-search-a-2d-matrix-ii/README.md"
   },
   {
+    "id": 252,
+    "title": {
+      "cn": "会议室",
+      "en": "252-meeting-rooms"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/meeting-rooms/",
+    "path": "../amass/252-meeting-rooms/README.md"
+  },
+  {
     "id": 279,
     "title": {
       "cn": "完全平方数",

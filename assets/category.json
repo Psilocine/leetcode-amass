@@ -991,6 +991,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 252,
+        "title": "会议室",
+        "path": "../amass/252-meeting-rooms/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 347,
         "title": "前 K 个高频元素",
         "path": "../amass/347-top-k-frequent-elements/README.md",
@@ -1482,6 +1488,12 @@
         "title": "面试题 17.11. 单词距离",
         "path": "../amass/17.11-find-closest-lcci/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 252,
+        "title": "会议室",
+        "path": "../amass/252-meeting-rooms/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 406,

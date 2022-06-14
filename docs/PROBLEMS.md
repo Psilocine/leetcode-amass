@@ -182,6 +182,8 @@
 
 [240. 搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md)
 
+[252. 会议室](../amass/252-meeting-rooms/README.md)
+
 [279. 完全平方数](../amass/279-perfect-squares/README.md)
 
 [283. 移动零](../amass/283-move-zeroes/README.md)
