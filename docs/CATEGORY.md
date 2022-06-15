@@ -258,6 +258,7 @@
 | 4. [寻找两个正序数组的中位数](../amass/4-median-of-two-sorted-arrays/README.md) | 困难 |
 | 33. [搜索旋转排序数组](../amass/33-search-in-rotated-sorted-array/README.md) | 中等 |
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
+| 69. [x 的平方根 ](../amass/69-sqrtx/README.md) | 简单 |
 | 209. [长度最小的子数组](../amass/209-minimum-size-subarray-sum/README.md) | 中等 |
 | 240. [搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md) | 中等 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |

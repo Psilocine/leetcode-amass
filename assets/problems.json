@@ -390,6 +390,16 @@
     "path": "../amass/64-minimum-path-sum/README.md"
   },
   {
+    "id": 69,
+    "title": {
+      "cn": "x 的平方根 ",
+      "en": "69-sqrtx"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/sqrtx/",
+    "path": "../amass/69-sqrtx/README.md"
+  },
+  {
     "id": 70,
     "title": {
       "cn": "爬楼梯",

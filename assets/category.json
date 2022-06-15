@@ -1202,6 +1202,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 69,
+        "title": "x 的平方根 ",
+        "path": "../amass/69-sqrtx/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 209,
         "title": "长度最小的子数组",
         "path": "../amass/209-minimum-size-subarray-sum/README.md",
