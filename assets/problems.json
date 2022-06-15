@@ -1160,6 +1160,16 @@
     "path": "../amass/450-delete-node-in-a-bst/README.md"
   },
   {
+    "id": 455,
+    "title": {
+      "cn": "分发饼干",
+      "en": "455-assign-cookies"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/assign-cookies/",
+    "path": "../amass/455-assign-cookies/README.md"
+  },
+  {
     "id": 461,
     "title": {
       "cn": "汉明距离",
@@ -1380,6 +1390,16 @@
     "path": "../amass/752-open-the-lock/README.md"
   },
   {
+    "id": 794,
+    "title": {
+      "cn": "有效的井字游戏",
+      "en": "794-valid-tic-tac-toe-state"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/valid-tic-tac-toe-state/",
+    "path": "../amass/794-valid-tic-tac-toe-state/README.md"
+  },
+  {
     "id": 875,
     "title": {
       "cn": "爱吃香蕉的珂珂",
@@ -1398,6 +1418,16 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/find-and-replace-pattern/",
     "path": "../amass/890-find-and-replace-pattern/README.md"
+  },
+  {
+    "id": 912,
+    "title": {
+      "cn": "排序数组",
+      "en": "912-sort-an-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/sort-an-array/",
+    "path": "../amass/912-sort-an-array/README.md"
   },
   {
     "id": 926,

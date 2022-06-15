@@ -113,6 +113,7 @@
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
 | 654. [最大二叉树](../amass/654-maximum-binary-tree/README.md) | 中等 |
 | 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
+| 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 
@@ -188,6 +189,7 @@
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 | 633. [平方数之和](../amass/633-sum-of-square-numbers/README.md) | 中等 |
+| 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 977. [有序数组的平方](../amass/977-squares-of-a-sorted-array/README.md) | 简单 |
 
 ## 排序
@@ -206,6 +208,7 @@
 | 347. [前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md) | 中等 |
 | 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
+| 455. [分发饼干](../amass/455-assign-cookies/README.md) | 简单 |
 | 462. [最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
@@ -240,6 +243,7 @@
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
 | 55. [跳跃游戏](../amass/55-jump-game/README.md) | 中等 |
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
+| 455. [分发饼干](../amass/455-assign-cookies/README.md) | 简单 |
 
 ## 中间扩散
 
@@ -317,6 +321,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 215. [数组中的第K个最大元素](../amass/215-kth-largest-element-in-an-array/README.md) | 中等 |
+| 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 
 ## 队列
 
@@ -335,6 +340,7 @@
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
 | 468. [验证IP地址](../amass/468-validate-ip-address/README.md) | 中等 |
+| 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 
 ## Z字形查找
@@ -360,6 +366,7 @@
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
+| 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
 
 ## 矩阵
 

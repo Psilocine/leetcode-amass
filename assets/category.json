@@ -582,6 +582,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 912,
+        "title": "排序数组",
+        "path": "../amass/912-sort-an-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 965,
         "title": "单值二叉树",
         "path": "../amass/965-univalued-binary-tree/README.md",
@@ -932,6 +938,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 912,
+        "title": "排序数组",
+        "path": "../amass/912-sort-an-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 977,
         "title": "有序数组的平方",
         "path": "../amass/977-squares-of-a-sorted-array/README.md",
@@ -1012,6 +1024,12 @@
         "id": 448,
         "title": "找到所有数组中消失的数字",
         "path": "../amass/448-find-all-numbers-disappeared-in-an-array/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 455,
+        "title": "分发饼干",
+        "path": "../amass/455-assign-cookies/README.md",
         "difficulty": "简单"
       },
       {
@@ -1142,6 +1160,12 @@
         "title": "最长递增子序列",
         "path": "../amass/300-longest-increasing-subsequence/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 455,
+        "title": "分发饼干",
+        "path": "../amass/455-assign-cookies/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -1454,6 +1478,12 @@
         "title": "数组中的第K个最大元素",
         "path": "../amass/215-kth-largest-element-in-an-array/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 912,
+        "title": "排序数组",
+        "path": "../amass/912-sort-an-array/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1511,6 +1541,12 @@
         "id": 468,
         "title": "验证IP地址",
         "path": "../amass/468-validate-ip-address/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 794,
+        "title": "有效的井字游戏",
+        "path": "../amass/794-valid-tic-tac-toe-state/README.md",
         "difficulty": "中等"
       },
       {
@@ -1586,6 +1622,12 @@
         "id": 498,
         "title": "对角线遍历",
         "path": "../amass/498-diagonal-traverse/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 794,
+        "title": "有效的井字游戏",
+        "path": "../amass/794-valid-tic-tac-toe-state/README.md",
         "difficulty": "中等"
       }
     ]

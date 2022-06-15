@@ -232,6 +232,8 @@
 
 [450. 删除二叉搜索树中的节点](../amass/450-delete-node-in-a-bst/README.md)
 
+[455. 分发饼干](../amass/455-assign-cookies/README.md)
+
 [461. 汉明距离](../amass/461-hamming-distance/README.md)
 
 [462. 最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md)
@@ -276,9 +278,13 @@
 
 [752. 打开转盘锁](../amass/752-open-the-lock/README.md)
 
+[794. 有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md)
+
 [875. 爱吃香蕉的珂珂](../amass/875-koko-eating-bananas/README.md)
 
 [890. 查找和替换模式](../amass/890-find-and-replace-pattern/README.md)
+
+[912. 排序数组](../amass/912-sort-an-array/README.md)
 
 [926. 将字符串翻转到单调递增](../amass/926-flip-string-to-monotone-increasing/README.md)
 
