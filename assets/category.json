@@ -1232,6 +1232,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 374,
+        "title": "猜数字大小",
+        "path": "../amass/374-guess-number-higher-or-lower/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 436,
         "title": "寻找右区间",
         "path": "../amass/436-find-right-interval/README.md",

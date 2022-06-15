@@ -263,6 +263,7 @@
 | 240. [搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md) | 中等 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
+| 374. [猜数字大小](../amass/374-guess-number-higher-or-lower/README.md) | 简单 |
 | 436. [寻找右区间](../amass/436-find-right-interval/README.md) | 中等 |
 | 704. [ 二分查找](../amass/704-binary-search/README.md) | 简单 |
 | 875. [爱吃香蕉的珂珂](../amass/875-koko-eating-bananas/README.md) | 中等 |

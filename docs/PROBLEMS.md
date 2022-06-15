@@ -214,6 +214,8 @@
 
 [347. 前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md)
 
+[374. 猜数字大小](../amass/374-guess-number-higher-or-lower/README.md)
+
 [394. 字符串解码](../amass/394-decode-string/README.md)
 
 [399. 除法求值](../amass/399-evaluate-division/README.md)
