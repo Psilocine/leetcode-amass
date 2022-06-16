@@ -860,6 +860,16 @@
     "path": "../amass/216-combination-sum-iii/README.md"
   },
   {
+    "id": 217,
+    "title": {
+      "cn": "存在重复元素",
+      "en": "217-contains-duplicate"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/contains-duplicate/",
+    "path": "../amass/217-contains-duplicate/README.md"
+  },
+  {
     "id": 221,
     "title": {
       "cn": "最大正方形",

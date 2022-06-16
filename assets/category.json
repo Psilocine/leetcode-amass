@@ -87,6 +87,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 217,
+        "title": "存在重复元素",
+        "path": "../amass/217-contains-duplicate/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 347,
         "title": "前 K 个高频元素",
         "path": "../amass/347-top-k-frequent-elements/README.md",
@@ -1001,6 +1007,12 @@
         "title": "数组中的第K个最大元素",
         "path": "../amass/215-kth-largest-element-in-an-array/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 217,
+        "title": "存在重复元素",
+        "path": "../amass/217-contains-duplicate/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 252,

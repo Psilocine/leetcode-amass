@@ -172,6 +172,8 @@
 
 [216. 组合总和 III](../amass/216-combination-sum-iii/README.md)
 
+[217. 存在重复元素](../amass/217-contains-duplicate/README.md)
+
 [221. 最大正方形](../amass/221-maximal-square/README.md)
 
 [226. 翻转二叉树](../amass/226-invert-binary-tree/README.md)
