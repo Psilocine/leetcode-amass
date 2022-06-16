@@ -1655,6 +1655,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 14,
+        "title": "最长公共前缀",
+        "path": "../amass/14-longest-common-prefix/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 54,
         "title": "螺旋矩阵",
         "path": "../amass/54-spiral-matrix/README.md",

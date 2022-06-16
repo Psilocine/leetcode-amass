@@ -90,6 +90,16 @@
     "path": "../amass/13-roman-to-integer/README.md"
   },
   {
+    "id": 14,
+    "title": {
+      "cn": "最长公共前缀",
+      "en": "14-longest-common-prefix"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/longest-common-prefix/",
+    "path": "../amass/14-longest-common-prefix/README.md"
+  },
+  {
     "id": 15,
     "title": {
       "cn": "三数之和",

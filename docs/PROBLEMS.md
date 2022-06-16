@@ -18,6 +18,8 @@
 
 [13. 罗马数字转整数](../amass/13-roman-to-integer/README.md)
 
+[14. 最长公共前缀](../amass/14-longest-common-prefix/README.md)
+
 [15. 三数之和](../amass/15-3sum/README.md)
 
 [16. 最接近的三数之和](../amass/16-3sum-closest/README.md)
