@@ -80,6 +80,16 @@
     "path": "../amass/11-container-with-most-water/README.md"
   },
   {
+    "id": 13,
+    "title": {
+      "cn": "罗马数字转整数",
+      "en": "13-roman-to-integer"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/roman-to-integer/",
+    "path": "../amass/13-roman-to-integer/README.md"
+  },
+  {
     "id": 15,
     "title": {
       "cn": "三数之和",

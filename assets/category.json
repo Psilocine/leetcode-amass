@@ -1637,6 +1637,12 @@
     "label": "模拟",
     "problems": [
       {
+        "id": 13,
+        "title": "罗马数字转整数",
+        "path": "../amass/13-roman-to-integer/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 54,
         "title": "螺旋矩阵",
         "path": "../amass/54-spiral-matrix/README.md",

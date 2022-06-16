@@ -16,6 +16,8 @@
 
 [11. 盛最多水的容器](../amass/11-container-with-most-water/README.md)
 
+[13. 罗马数字转整数](../amass/13-roman-to-integer/README.md)
+
 [15. 三数之和](../amass/15-3sum/README.md)
 
 [16. 最接近的三数之和](../amass/16-3sum-closest/README.md)
