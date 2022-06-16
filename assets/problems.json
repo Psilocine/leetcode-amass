@@ -1270,6 +1270,16 @@
     "path": "../amass/498-diagonal-traverse/README.md"
   },
   {
+    "id": 532,
+    "title": {
+      "cn": "数组中的 k-diff 数对",
+      "en": "532-k-diff-pairs-in-an-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/k-diff-pairs-in-an-array/",
+    "path": "../amass/532-k-diff-pairs-in-an-array/README.md"
+  },
+  {
     "id": 538,
     "title": {
       "cn": "把二叉搜索树转换为累加树",

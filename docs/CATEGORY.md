@@ -210,6 +210,7 @@
 | 448. [找到所有数组中消失的数字](../amass/448-find-all-numbers-disappeared-in-an-array/README.md) | 简单 |
 | 455. [分发饼干](../amass/455-assign-cookies/README.md) | 简单 |
 | 462. [最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md) | 中等 |
+| 532. [数组中的 k-diff 数对](../amass/532-k-diff-pairs-in-an-array/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 
@@ -265,6 +266,7 @@
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
 | 374. [猜数字大小](../amass/374-guess-number-higher-or-lower/README.md) | 简单 |
 | 436. [寻找右区间](../amass/436-find-right-interval/README.md) | 中等 |
+| 532. [数组中的 k-diff 数对](../amass/532-k-diff-pairs-in-an-array/README.md) | 中等 |
 | 704. [ 二分查找](../amass/704-binary-search/README.md) | 简单 |
 | 875. [爱吃香蕉的珂珂](../amass/875-koko-eating-bananas/README.md) | 中等 |
 

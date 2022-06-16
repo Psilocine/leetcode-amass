@@ -1039,6 +1039,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 532,
+        "title": "数组中的 k-diff 数对",
+        "path": "../amass/532-k-diff-pairs-in-an-array/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 581,
         "title": "最短无序连续子数组",
         "path": "../amass/581-shortest-unsorted-continuous-subarray/README.md",
@@ -1241,6 +1247,12 @@
         "id": 436,
         "title": "寻找右区间",
         "path": "../amass/436-find-right-interval/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 532,
+        "title": "数组中的 k-diff 数对",
+        "path": "../amass/532-k-diff-pairs-in-an-array/README.md",
         "difficulty": "中等"
       },
       {
