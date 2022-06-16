@@ -1051,6 +1051,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 719,
+        "title": "找出第 K 小的数对距离",
+        "path": "../amass/719-find-k-th-smallest-pair-distance/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 1051,
         "title": "高度检查器",
         "path": "../amass/1051-height-checker//README.md",
@@ -1260,6 +1266,12 @@
         "title": " 二分查找",
         "path": "../amass/704-binary-search/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 719,
+        "title": "找出第 K 小的数对距离",
+        "path": "../amass/719-find-k-th-smallest-pair-distance/README.md",
+        "difficulty": "困难"
       },
       {
         "id": 875,

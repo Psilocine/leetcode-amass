@@ -212,6 +212,7 @@
 | 462. [最少移动次数使数组元素相等 II](../amass/462-minimum-moves-to-equal-array-elements-ii/README.md) | 中等 |
 | 532. [数组中的 k-diff 数对](../amass/532-k-diff-pairs-in-an-array/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
+| 719. [找出第 K 小的数对距离](../amass/719-find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 
 ## 数学
@@ -268,6 +269,7 @@
 | 436. [寻找右区间](../amass/436-find-right-interval/README.md) | 中等 |
 | 532. [数组中的 k-diff 数对](../amass/532-k-diff-pairs-in-an-array/README.md) | 中等 |
 | 704. [ 二分查找](../amass/704-binary-search/README.md) | 简单 |
+| 719. [找出第 K 小的数对距离](../amass/719-find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 875. [爱吃香蕉的珂珂](../amass/875-koko-eating-bananas/README.md) | 中等 |
 
 ## 回溯
