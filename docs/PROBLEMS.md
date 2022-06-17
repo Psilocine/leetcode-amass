@@ -148,6 +148,8 @@
 
 [152. 乘积最大子数组](../amass/152-maximum-product-subarray/README.md)
 
+[153. 寻找旋转排序数组中的最小值](../amass/153-find-minimum-in-rotated-sorted-array/README.md)
+
 [155. 最小栈](../amass/155-min-stack/README.md)
 
 [160. 相交链表](../amass/160-intersection-of-two-linked-lists/README.md)

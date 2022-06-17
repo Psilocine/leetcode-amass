@@ -91,17 +91,18 @@ export function search2(nums: number[], target: number): number {
     if (nums[mid] === target) {
       return mid;
     }
-    if (nums[0] <= nums[mid]) {
-      // 左边升序
-      if (nums[0] <= target && target > nums[mid]) {
+
+    // [l, mid] 有序
+    if (nums[l] <= nums[mid]) {
+      if (nums[l] <= target && target < nums[mid]) {
         // target 在升序区间
         r = mid - 1;
       } else {
         l = mid + 1
       }
     } else {
-      // 右边升序
-      if (nums[mid] < target && target <= nums[len - 1]) {
+      // [mid, r]
+      if (nums[mid] < target && target <= nums[r]) {
         // target 在升序区间
         l = mid + 1;
       } else {

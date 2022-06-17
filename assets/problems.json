@@ -740,6 +740,16 @@
     "path": "../amass/152-maximum-product-subarray/README.md"
   },
   {
+    "id": 153,
+    "title": {
+      "cn": "寻找旋转排序数组中的最小值",
+      "en": "153-find-minimum-in-rotated-sorted-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/",
+    "path": "../amass/153-find-minimum-in-rotated-sorted-array/README.md"
+  },
+  {
     "id": 155,
     "title": {
       "cn": "最小栈",
