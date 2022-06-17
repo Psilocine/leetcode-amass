@@ -1244,6 +1244,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 74,
+        "title": "搜索二维矩阵",
+        "path": "../amass/74-search-a-2d-matrix/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 81,
         "title": "搜索旋转排序数组 II",
         "path": "../amass/81-search-in-rotated-sorted-array-ii/README.md",

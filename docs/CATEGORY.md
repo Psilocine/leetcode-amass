@@ -265,6 +265,7 @@
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
 | 35. [搜索插入位置](../amass/35-search-insert-position/README.md) | 简单 |
 | 69. [x 的平方根 ](../amass/69-sqrtx/README.md) | 简单 |
+| 74. [搜索二维矩阵](../amass/74-search-a-2d-matrix/README.md) | 中等 |
 | 81. [搜索旋转排序数组 II](../amass/81-search-in-rotated-sorted-array-ii/README.md) | 中等 |
 | 153. [寻找旋转排序数组中的最小值](../amass/153-find-minimum-in-rotated-sorted-array/README.md) | 中等 |
 | 154. [寻找旋转排序数组中的最小值 II](../amass/154-find-minimum-in-rotated-sorted-array-ii/README.md) | 困难 |

@@ -90,6 +90,8 @@
 
 [72. 编辑距离](../amass/72-edit-distance/README.md)
 
+[74. 搜索二维矩阵](../amass/74-search-a-2d-matrix/README.md)
+
 [75. 颜色分类](../amass/75-sort-colors/README.md)
 
 [76. 最小覆盖子串](../amass/76-minimum-window-substring/README.md)
