@@ -1232,6 +1232,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 35,
+        "title": "搜索插入位置",
+        "path": "../amass/35-search-insert-position/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 69,
         "title": "x 的平方根 ",
         "path": "../amass/69-sqrtx/README.md",

@@ -48,6 +48,8 @@
 
 [34. 在排序数组中查找元素的第一个和最后一个位置](../amass/34-find-first-and-last-position-of-element-in-sorted-array/README.md)
 
+[35. 搜索插入位置](../amass/35-search-insert-position/README.md)
+
 [37. 解数独](../amass/37-sudoku-solver/README.md)
 
 [39. 组合总和](../amass/39-combination-sum/README.md)
