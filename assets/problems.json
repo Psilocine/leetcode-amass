@@ -1000,6 +1000,16 @@
     "path": "../amass/253-meeting-rooms-ii/README.md"
   },
   {
+    "id": 278,
+    "title": {
+      "cn": "第一个错误的版本",
+      "en": "278-first-bad-version"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/first-bad-version/",
+    "path": "../amass/278-first-bad-version/README.md"
+  },
+  {
     "id": 279,
     "title": {
       "cn": "完全平方数",

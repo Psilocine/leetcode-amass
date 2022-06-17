@@ -1268,6 +1268,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 278,
+        "title": "第一个错误的版本",
+        "path": "../amass/278-first-bad-version/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 287,
         "title": "寻找重复数",
         "path": "../amass/287-find-the-duplicate-number/README.md",
