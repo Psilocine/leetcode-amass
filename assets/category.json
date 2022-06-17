@@ -1238,6 +1238,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 81,
+        "title": "搜索旋转排序数组 II",
+        "path": "../amass/81-search-in-rotated-sorted-array-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 153,
         "title": "寻找旋转排序数组中的最小值",
         "path": "../amass/153-find-minimum-in-rotated-sorted-array/README.md",

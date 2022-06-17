@@ -98,6 +98,8 @@
 
 [79. 单词搜索](../amass/79-word-search/README.md)
 
+[81. 搜索旋转排序数组 II](../amass/81-search-in-rotated-sorted-array-ii/README.md)
+
 [84. 柱状图中最大的矩形](../amass/84-largest-rectangle-in-histogram/README.md)
 
 [85. 最大矩形](../amass/85-maximal-rectangle/README.md)

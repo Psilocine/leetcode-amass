@@ -490,6 +490,16 @@
     "path": "../amass/79-word-search/README.md"
   },
   {
+    "id": 81,
+    "title": {
+      "cn": "搜索旋转排序数组 II",
+      "en": "81-search-in-rotated-sorted-array-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/",
+    "path": "../amass/81-search-in-rotated-sorted-array-ii/README.md"
+  },
+  {
     "id": 84,
     "title": {
       "cn": "柱状图中最大的矩形",
