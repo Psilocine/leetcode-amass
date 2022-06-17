@@ -41,7 +41,8 @@ export function spiralOrder(matrix: number[][]): number[] {
     return [];
   }
   const n = matrix[0].length;
-  const ans: number[] = [];
+  const ans: number[] = new Array(m * n).fill(0);
+  let idx: number = 0;
 
   let left = 0,
     right = n - 1,
@@ -50,13 +51,13 @@ export function spiralOrder(matrix: number[][]): number[] {
 
   while (top < bottom && left < right) {
     // top
-    for (let i = left; i < right; i++) ans.push(matrix[top][i]);
+    for (let i = left; i < right; i++) ans[idx++] = matrix[top][i];
     // right
-    for (let i = top; i < bottom; i++) ans.push(matrix[i][right]);
+    for (let i = top; i < bottom; i++) ans[idx++] = matrix[i][right];
     // bottom
-    for (let i = right; i > left; i--) ans.push(matrix[bottom][i]);
+    for (let i = right; i > left; i--) ans[idx++] = matrix[bottom][i];
     // left
-    for (let i = bottom; i > top; i--) ans.push(matrix[i][left]);
+    for (let i = bottom; i > top; i--) ans[idx++] = matrix[i][left];
 
     top++;
     right--;
@@ -66,10 +67,10 @@ export function spiralOrder(matrix: number[][]): number[] {
 
   if (top === bottom) {
     // 只剩一行
-    for (let i = left; i <= right; i++) ans.push(matrix[top][i]);
+    for (let i = left; i <= right; i++) ans[idx++] = matrix[top][i];
   } else if (left === right) {
     // 只剩一列
-    for (let i = top; i <= bottom; i++) ans.push(matrix[i][right]);
+    for (let i = top; i <= bottom; i++) ans[idx++] = matrix[i][right];
   }
 
   return ans;

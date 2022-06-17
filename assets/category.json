@@ -258,6 +258,12 @@
         "title": "单值二叉树",
         "path": "../amass/965-univalued-binary-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1089,
+        "title": "复写零",
+        "path": "../amass/1089-duplicate-zeros/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -1601,6 +1607,12 @@
         "id": 1051,
         "title": "高度检查器",
         "path": "../amass/1051-height-checker//README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1089,
+        "title": "复写零",
+        "path": "../amass/1089-duplicate-zeros/README.md",
         "difficulty": "简单"
       }
     ]

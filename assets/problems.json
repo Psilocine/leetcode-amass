@@ -1588,5 +1588,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/height-checker/",
     "path": "../amass/1051-height-checker//README.md"
+  },
+  {
+    "id": 1089,
+    "title": {
+      "cn": "复写零",
+      "en": "1089-duplicate-zeros"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/duplicate-zeros/",
+    "path": "../amass/1089-duplicate-zeros/README.md"
   }
 ]

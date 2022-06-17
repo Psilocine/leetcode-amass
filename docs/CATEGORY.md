@@ -51,6 +51,7 @@
 | 399. [除法求值](../amass/399-evaluate-division/README.md) | 中等 |
 | 739. [每日温度](../amass/739-daily-temperatures/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
+| 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
 
 ## 迭代
 
@@ -350,6 +351,7 @@
 | 468. [验证IP地址](../amass/468-validate-ip-address/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
+| 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
 
 ## Z字形查找
 
