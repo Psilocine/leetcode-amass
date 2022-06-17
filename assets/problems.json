@@ -750,6 +750,16 @@
     "path": "../amass/153-find-minimum-in-rotated-sorted-array/README.md"
   },
   {
+    "id": 154,
+    "title": {
+      "cn": "寻找旋转排序数组中的最小值 II",
+      "en": "154-find-minimum-in-rotated-sorted-array-ii"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/",
+    "path": "../amass/154-find-minimum-in-rotated-sorted-array-ii/README.md"
+  },
+  {
     "id": 155,
     "title": {
       "cn": "最小栈",

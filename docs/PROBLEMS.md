@@ -150,6 +150,8 @@
 
 [153. 寻找旋转排序数组中的最小值](../amass/153-find-minimum-in-rotated-sorted-array/README.md)
 
+[154. 寻找旋转排序数组中的最小值 II](../amass/154-find-minimum-in-rotated-sorted-array-ii/README.md)
+
 [155. 最小栈](../amass/155-min-stack/README.md)
 
 [160. 相交链表](../amass/160-intersection-of-two-linked-lists/README.md)

@@ -1244,6 +1244,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 154,
+        "title": "寻找旋转排序数组中的最小值 II",
+        "path": "../amass/154-find-minimum-in-rotated-sorted-array-ii/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": 209,
         "title": "长度最小的子数组",
         "path": "../amass/209-minimum-size-subarray-sum/README.md",
