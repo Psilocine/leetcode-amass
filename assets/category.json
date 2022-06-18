@@ -1634,6 +1634,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 708,
+        "title": "循环有序列表的插入",
+        "path": "../amass/708-insert-into-a-sorted-circular-linked-list/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 794,
         "title": "有效的井字游戏",
         "path": "../amass/794-valid-tic-tac-toe-state/README.md",

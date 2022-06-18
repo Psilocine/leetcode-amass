@@ -1480,6 +1480,16 @@
     "path": "../amass/704-binary-search/README.md"
   },
   {
+    "id": 708,
+    "title": {
+      "cn": "循环有序列表的插入",
+      "en": "708-insert-into-a-sorted-circular-linked-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/insert-into-a-sorted-circular-linked-list/",
+    "path": "../amass/708-insert-into-a-sorted-circular-linked-list/README.md"
+  },
+  {
     "id": 714,
     "title": {
       "cn": "买卖股票的最佳时机含手续费",

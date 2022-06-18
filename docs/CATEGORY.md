@@ -355,6 +355,7 @@
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
 | 468. [验证IP地址](../amass/468-validate-ip-address/README.md) | 中等 |
+| 708. [循环有序列表的插入](../amass/708-insert-into-a-sorted-circular-linked-list/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |

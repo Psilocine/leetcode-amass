@@ -296,6 +296,8 @@
 
 [704.  二分查找](../amass/704-binary-search/README.md)
 
+[708. 循环有序列表的插入](../amass/708-insert-into-a-sorted-circular-linked-list/README.md)
+
 [714. 买卖股票的最佳时机含手续费](../amass/714-best-time-to-buy-and-sell-stock-with-transaction-fee/README.md)
 
 [719. 找出第 K 小的数对距离](../amass/719-find-k-th-smallest-pair-distance/README.md)
