@@ -46,6 +46,7 @@
 | 144. [二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md) | 简单 |
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
 | 207. [课程表](../amass/207-course-schedule/README.md) | 中等 |
+| 279. [完全平方数](../amass/279-perfect-squares/README.md) | 中等 |
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
 | 394. [字符串解码](../amass/394-decode-string/README.md) | 中等 |
 | 399. [除法求值](../amass/399-evaluate-division/README.md) | 中等 |
@@ -141,6 +142,7 @@
 | 198. [打家劫舍](../amass/198-house-robber/README.md) | 中等 |
 | 213. [打家劫舍 II](../amass/213-house-robber-ii/README.md) | 中等 |
 | 221. [最大正方形](../amass/221-maximal-square/README.md) | 中等 |
+| 279. [完全平方数](../amass/279-perfect-squares/README.md) | 中等 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
 | 309. [最佳买卖股票时机含冷冻期](../amass/309-best-time-to-buy-and-sell-stock-with-cooldown/README.md) | 中等 |
