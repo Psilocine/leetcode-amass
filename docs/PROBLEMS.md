@@ -12,6 +12,8 @@
 
 [5. 最长回文子串](../amass/5-longest-palindromic-substring/README.md)
 
+[7. 整数反转](../amass/7-reverse-integer/README.md)
+
 [10. 正则表达式匹配](../amass/10-regular-expression-matching/README.md)
 
 [11. 盛最多水的容器](../amass/11-container-with-most-water/README.md)

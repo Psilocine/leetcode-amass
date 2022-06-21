@@ -60,6 +60,16 @@
     "path": "../amass/5-longest-palindromic-substring/README.md"
   },
   {
+    "id": 7,
+    "title": {
+      "cn": "整数反转",
+      "en": "7-reverse-integer"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/reverse-integer/",
+    "path": "../amass/7-reverse-integer/README.md"
+  },
+  {
     "id": 10,
     "title": {
       "cn": "正则表达式匹配",

@@ -1104,6 +1104,12 @@
     "label": "数学",
     "problems": [
       {
+        "id": 7,
+        "title": "整数反转",
+        "path": "../amass/7-reverse-integer/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 43,
         "title": "字符串相乘",
         "path": "../amass/43-multiply-strings/README.md",
@@ -1732,6 +1738,12 @@
   {
     "label": "模拟",
     "problems": [
+      {
+        "id": 7,
+        "title": "整数反转",
+        "path": "../amass/7-reverse-integer/README.md",
+        "difficulty": "中等"
+      },
       {
         "id": 13,
         "title": "罗马数字转整数",

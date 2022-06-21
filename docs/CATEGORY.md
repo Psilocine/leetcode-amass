@@ -225,6 +225,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 7. [整数反转](../amass/7-reverse-integer/README.md) | 中等 |
 | 43. [字符串相乘](../amass/43-multiply-strings/README.md) | 中等 |
 | 48. [旋转图像](../amass/48-rotate-image/README.md) | 中等 |
 | 338. [比特位计数](../amass/338-counting-bits/README.md) | 简单 |
@@ -384,6 +385,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 7. [整数反转](../amass/7-reverse-integer/README.md) | 中等 |
 | 13. [罗马数字转整数](../amass/13-roman-to-integer/README.md) | 简单 |
 | 14. [最长公共前缀](../amass/14-longest-common-prefix/README.md) | 简单 |
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
