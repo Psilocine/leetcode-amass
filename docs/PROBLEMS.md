@@ -42,6 +42,8 @@
 
 [23. 合并K个升序链表](../amass/23-merge-k-sorted-lists/README.md)
 
+[26. 删除有序数组中的重复项](../amass/26-remove-duplicates-from-sorted-array/README.md)
+
 [31. 下一个排列](../amass/31-next-permutation/README.md)
 
 [32. 最长有效括号](../amass/32-longest-valid-parentheses/README.md)
