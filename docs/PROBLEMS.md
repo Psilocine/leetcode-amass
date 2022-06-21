@@ -60,6 +60,8 @@
 
 [40. 组合总和 II](../amass/40-combination-sum-ii/README.md)
 
+[41. 缺失的第一个正数](../amass/41-first-missing-positive/README.md)
+
 [42. 接雨水](../amass/42-trapping-rain-water/README.md)
 
 [43. 字符串相乘](../amass/43-multiply-strings/README.md)

@@ -300,6 +300,16 @@
     "path": "../amass/40-combination-sum-ii/README.md"
   },
   {
+    "id": 41,
+    "title": {
+      "cn": "缺失的第一个正数",
+      "en": "41-first-missing-positive"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/first-missing-positive/",
+    "path": "../amass/41-first-missing-positive/README.md"
+  },
+  {
     "id": 42,
     "title": {
       "cn": "接雨水",

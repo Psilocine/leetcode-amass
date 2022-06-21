@@ -8,6 +8,7 @@
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
 | 26. [删除有序数组中的重复项](../amass/26-remove-duplicates-from-sorted-array/README.md) | 简单 |
+| 41. [缺失的第一个正数](../amass/41-first-missing-positive/README.md) | 困难 |
 | 49. [字母异位词分组](../amass/49-group-anagrams/README.md) | 中等 |
 | 76. [最小覆盖子串](../amass/76-minimum-window-substring/README.md) | 困难 |
 | 128. [最长连续序列](../amass/128-longest-consecutive-sequence/README.md) | 中等 |
