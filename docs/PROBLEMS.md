@@ -335,3 +335,5 @@
 [1051. 高度检查器](../amass/1051-height-checker//README.md)
 
 [1089. 复写零](../amass/1089-duplicate-zeros/README.md)
+
+[1108. IP 地址无效化](../amass/1108-defanging-an-ip-address/README.md)
