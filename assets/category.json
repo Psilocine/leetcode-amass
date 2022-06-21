@@ -689,6 +689,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 118,
+        "title": "杨辉三角",
+        "path": "../amass/118-pascals-triangle/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 121,
         "title": "买卖股票的最佳时机",
         "path": "../amass/121-best-time-to-buy-and-sell-stock/README.md",

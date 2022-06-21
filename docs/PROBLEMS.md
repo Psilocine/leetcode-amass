@@ -132,6 +132,8 @@
 
 [114. 二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md)
 
+[118. 杨辉三角](../amass/118-pascals-triangle/README.md)
+
 [121. 买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md)
 
 [122. 买卖股票的最佳时机 II](../amass/122-best-time-to-buy-and-sell-stock-ii/README.md)

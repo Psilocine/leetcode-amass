@@ -135,6 +135,7 @@
 | 70. [爬楼梯](../amass/70-climbing-stairs/README.md) | 简单 |
 | 72. [编辑距离](../amass/72-edit-distance/README.md) | 困难 |
 | 96. [不同的二叉搜索树](../amass/96-unique-binary-search-trees/README.md) | 中等 |
+| 118. [杨辉三角](../amass/118-pascals-triangle/README.md) | 简单 |
 | 121. [买卖股票的最佳时机](../amass/121-best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 122. [买卖股票的最佳时机 II](../amass/122-best-time-to-buy-and-sell-stock-ii/README.md) | 中等 |
 | 123. [买卖股票的最佳时机 III](../amass/123-best-time-to-buy-and-sell-stock-iii/README.md) | 困难 |

@@ -660,6 +660,16 @@
     "path": "../amass/114-flatten-binary-tree-to-linked-list/README.md"
   },
   {
+    "id": 118,
+    "title": {
+      "cn": "杨辉三角",
+      "en": "118-pascals-triangle"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/pascals-triangle/",
+    "path": "../amass/118-pascals-triangle/README.md"
+  },
+  {
     "id": 121,
     "title": {
       "cn": "买卖股票的最佳时机",
