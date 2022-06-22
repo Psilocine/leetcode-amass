@@ -944,6 +944,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 125,
+        "title": "验证回文串",
+        "path": "../amass/125-valid-palindrome/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 141,
         "title": "环形链表",
         "path": "../amass/141-linked-list-cycle/README.md",

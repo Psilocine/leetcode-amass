@@ -144,6 +144,8 @@
 
 [124. 二叉树中的最大路径和](../amass/124-binary-tree-maximum-path-sum/README.md)
 
+[125. 验证回文串](../amass/125-valid-palindrome/README.md)
+
 [128. 最长连续序列](../amass/128-longest-consecutive-sequence/README.md)
 
 [136. 只出现一次的数字](../amass/136-single-number/README.md)

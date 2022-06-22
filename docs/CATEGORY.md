@@ -190,6 +190,7 @@
 | 42. [接雨水](../amass/42-trapping-rain-water/README.md) | 困难 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
 | 75. [颜色分类](../amass/75-sort-colors/README.md) | 中等 |
+| 125. [验证回文串](../amass/125-valid-palindrome/README.md) | 简单 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 142. [环形链表 II](../amass/142-linked-list-cycle-ii/README.md) | 中等 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
