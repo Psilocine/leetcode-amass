@@ -590,6 +590,16 @@
     "path": "../amass/90-subsets-ii/README.md"
   },
   {
+    "id": 92,
+    "title": {
+      "cn": "反转链表 II",
+      "en": "92-reverse-linked-list-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/reverse-linked-list-ii/",
+    "path": "../amass/92-reverse-linked-list-ii/README.md"
+  },
+  {
     "id": 94,
     "title": {
       "cn": "二叉树的中序遍历",

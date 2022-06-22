@@ -363,6 +363,7 @@
 | ---- | ---- |
 | 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
 | 82. [删除排序链表中的重复元素 II](../amass/82-remove-duplicates-from-sorted-list-ii/README.md) | 中等 |
+| 92. [反转链表 II](../amass/92-reverse-linked-list-ii/README.md) | 中等 |
 | 252. [会议室](../amass/252-meeting-rooms/README.md) | 简单 |
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
@@ -408,3 +409,9 @@
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
+
+## 链表
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 92. [反转链表 II](../amass/92-reverse-linked-list-ii/README.md) | 中等 |

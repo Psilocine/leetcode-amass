@@ -11,6 +11,7 @@
 **示例 1**
 
 ![image](https://user-images.githubusercontent.com/25545052/163834065-b8f68ff0-0622-43df-b80e-6aa03f80d543.png)
+
 ```
 输入：head = [1,2,3,4,5]
 输出：[5,4,3,2,1]
@@ -37,6 +38,7 @@
 链表可以选用迭代或递归方式完成反转。你能否用两种方法解决这道题？
 
 ## 解答
+
 ```typescript
 import { ListNode } from "~/utils/listNode";
 
@@ -49,16 +51,15 @@ import { ListNode } from "~/utils/listNode";
 export function reverseList(head: ListNode | null): ListNode | null {
   let prev = null;
   let curr = head;
-  while(curr) {
-    const next= curr.next;
+  while (curr) {
+    const next = curr.next;
     curr.next = prev;
     prev = curr;
     curr = next;
-
   }
 
   return prev;
-};
+}
 
 /**
  * 递归
@@ -71,7 +72,7 @@ export function reverseList(head: ListNode | null): ListNode | null {
  */
 export function reverseList2(head: ListNode | null): ListNode | null {
   if (head === null || head.next === null) {
-    return head
+    return head;
   }
   const newHead = reverseList2(head.next);
 
@@ -79,5 +80,5 @@ export function reverseList2(head: ListNode | null): ListNode | null {
   head.next = null; // n1 指向
 
   return newHead;
-};
+}
 ```

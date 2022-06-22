@@ -1682,6 +1682,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 92,
+        "title": "反转链表 II",
+        "path": "../amass/92-reverse-linked-list-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 252,
         "title": "会议室",
         "path": "../amass/252-meeting-rooms/README.md",
@@ -1849,6 +1855,17 @@
         "id": 498,
         "title": "对角线遍历",
         "path": "../amass/498-diagonal-traverse/README.md",
+        "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "链表",
+    "problems": [
+      {
+        "id": 92,
+        "title": "反转链表 II",
+        "path": "../amass/92-reverse-linked-list-ii/README.md",
         "difficulty": "中等"
       }
     ]
