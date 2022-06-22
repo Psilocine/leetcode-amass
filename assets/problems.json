@@ -800,6 +800,16 @@
     "path": "../amass/142-linked-list-cycle-ii/README.md"
   },
   {
+    "id": 143,
+    "title": {
+      "cn": "重排链表",
+      "en": "143-reorder-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/reorder-list/",
+    "path": "../amass/143-reorder-list/README.md"
+  },
+  {
     "id": 144,
     "title": {
       "cn": "二叉树的前序遍历",

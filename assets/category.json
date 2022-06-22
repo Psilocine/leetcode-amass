@@ -962,6 +962,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 143,
+        "title": "重排链表",
+        "path": "../amass/143-reorder-list/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 160,
         "title": "相交链表",
         "path": "../amass/160-intersection-of-two-linked-lists/README.md",
@@ -1685,6 +1691,12 @@
         "id": 92,
         "title": "反转链表 II",
         "path": "../amass/92-reverse-linked-list-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 143,
+        "title": "重排链表",
+        "path": "../amass/143-reorder-list/README.md",
         "difficulty": "中等"
       },
       {

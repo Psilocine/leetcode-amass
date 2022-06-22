@@ -160,6 +160,8 @@
 
 [142. 环形链表 II](../amass/142-linked-list-cycle-ii/README.md)
 
+[143. 重排链表](../amass/143-reorder-list/README.md)
+
 [144. 二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md)
 
 [146. LRU 缓存](../amass/146-lru-cache/README.md)

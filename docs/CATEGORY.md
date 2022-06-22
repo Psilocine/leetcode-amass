@@ -193,6 +193,7 @@
 | 125. [验证回文串](../amass/125-valid-palindrome/README.md) | 简单 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 142. [环形链表 II](../amass/142-linked-list-cycle-ii/README.md) | 中等 |
+| 143. [重排链表](../amass/143-reorder-list/README.md) | 中等 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
 | 283. [移动零](../amass/283-move-zeroes/README.md) | 简单 |
@@ -364,6 +365,7 @@
 | 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
 | 82. [删除排序链表中的重复元素 II](../amass/82-remove-duplicates-from-sorted-list-ii/README.md) | 中等 |
 | 92. [反转链表 II](../amass/92-reverse-linked-list-ii/README.md) | 中等 |
+| 143. [重排链表](../amass/143-reorder-list/README.md) | 中等 |
 | 252. [会议室](../amass/252-meeting-rooms/README.md) | 简单 |
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
