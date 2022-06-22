@@ -242,6 +242,8 @@
 
 [322. 零钱兑换](../amass/322-coin-change/README.md)
 
+[328. 奇偶链表](../amass/328-odd-even-linked-list/README.md)
+
 [337. 打家劫舍 III](../amass/337-house-robber-iii/README.md)
 
 [338. 比特位计数](../amass/338-counting-bits/README.md)

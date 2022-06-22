@@ -1712,6 +1712,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 328,
+        "title": "奇偶链表",
+        "path": "../amass/328-odd-even-linked-list/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 406,
         "title": "根据身高重建队列",
         "path": "../amass/406-queue-reconstruction-by-height/README.md",
@@ -1878,6 +1884,12 @@
         "id": 92,
         "title": "反转链表 II",
         "path": "../amass/92-reverse-linked-list-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 328,
+        "title": "奇偶链表",
+        "path": "../amass/328-odd-even-linked-list/README.md",
         "difficulty": "中等"
       }
     ]

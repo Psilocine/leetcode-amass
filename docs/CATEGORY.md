@@ -368,6 +368,7 @@
 | 143. [重排链表](../amass/143-reorder-list/README.md) | 中等 |
 | 252. [会议室](../amass/252-meeting-rooms/README.md) | 简单 |
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
+| 328. [奇偶链表](../amass/328-odd-even-linked-list/README.md) | 中等 |
 | 406. [根据身高重建队列](../amass/406-queue-reconstruction-by-height/README.md) | 中等 |
 | 468. [验证IP地址](../amass/468-validate-ip-address/README.md) | 中等 |
 | 708. [循环有序列表的插入](../amass/708-insert-into-a-sorted-circular-linked-list/README.md) | 中等 |
@@ -417,3 +418,4 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 92. [反转链表 II](../amass/92-reverse-linked-list-ii/README.md) | 中等 |
+| 328. [奇偶链表](../amass/328-odd-even-linked-list/README.md) | 中等 |
