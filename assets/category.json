@@ -1676,6 +1676,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 82,
+        "title": "删除排序链表中的重复元素 II",
+        "path": "../amass/82-remove-duplicates-from-sorted-list-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 252,
         "title": "会议室",
         "path": "../amass/252-meeting-rooms/README.md",
