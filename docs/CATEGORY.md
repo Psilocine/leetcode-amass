@@ -198,6 +198,7 @@
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 | 633. [平方数之和](../amass/633-sum-of-square-numbers/README.md) | 中等 |
+| 680. [验证回文字符串 Ⅱ](../amass/680-valid-palindrome-ii/README.md) | 简单 |
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 977. [有序数组的平方](../amass/977-squares-of-a-sorted-array/README.md) | 简单 |
 

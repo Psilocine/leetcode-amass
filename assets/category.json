@@ -992,6 +992,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 680,
+        "title": "验证回文字符串 Ⅱ",
+        "path": "../amass/680-valid-palindrome-ii/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 912,
         "title": "排序数组",
         "path": "../amass/912-sort-an-array/README.md",

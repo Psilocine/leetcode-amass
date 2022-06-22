@@ -302,6 +302,8 @@
 
 [654. 最大二叉树](../amass/654-maximum-binary-tree/README.md)
 
+[680. 验证回文字符串 Ⅱ](../amass/680-valid-palindrome-ii/README.md)
+
 [700. 二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md)
 
 [704.  二分查找](../amass/704-binary-search/README.md)
