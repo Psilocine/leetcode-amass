@@ -64,6 +64,7 @@
 | 4.06. [后继者](../amass/04.06-successor-lcci/README.md) | 中等 |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 23. [合并K个升序链表](../amass/23-merge-k-sorted-lists/README.md) | 困难 |
+| 24. [两两交换链表中的节点](../amass/24-swap-nodes-in-pairs/README.md) | 中等 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 101. [对称二叉树](../amass/101-symmetric-tree/README.md) | 简单 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
@@ -78,6 +79,7 @@
 | 17. [电话号码的字母组合](../amass/17-letter-combinations-of-a-phone-number/README.md) | 中等 |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
+| 24. [两两交换链表中的节点](../amass/24-swap-nodes-in-pairs/README.md) | 中等 |
 | 37. [解数独](../amass/37-sudoku-solver/README.md) | 困难 |
 | 39. [组合总和](../amass/39-combination-sum/README.md) | 中等 |
 | 40. [组合总和 II](../amass/40-combination-sum-ii/README.md) | 中等 |
@@ -421,19 +423,15 @@
 | 19. [删除链表的倒数第 N 个结点](../amass/19-remove-nth-node-from-end-of-list/README.md) | 中等 |
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 23. [合并K个升序链表](../amass/23-merge-k-sorted-lists/README.md) | 困难 |
+| 24. [两两交换链表中的节点](../amass/24-swap-nodes-in-pairs/README.md) | 中等 |
 | 82. [删除排序链表中的重复元素 II](../amass/82-remove-duplicates-from-sorted-list-ii/README.md) | 中等 |
 | 92. [反转链表 II](../amass/92-reverse-linked-list-ii/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 142. [环形链表 II](../amass/142-linked-list-cycle-ii/README.md) | 中等 |
 | 143. [重排链表](../amass/143-reorder-list/README.md) | 中等 |
 | 148. [排序链表](../amass/148-sort-list/README.md) | 中等 |
+| 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 203. [移除链表元素](../amass/203-remove-linked-list-elements/README.md) | 简单 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 | 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
 | 328. [奇偶链表](../amass/328-odd-even-linked-list/README.md) | 中等 |
-
-## 链表
-
-| 题目 | 难度 |
-| ---- | ---- |
-| 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |

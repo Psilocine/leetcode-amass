@@ -42,6 +42,8 @@
 
 [23. 合并K个升序链表](../amass/23-merge-k-sorted-lists/README.md)
 
+[24. 两两交换链表中的节点](../amass/24-swap-nodes-in-pairs/README.md)
+
 [26. 删除有序数组中的重复项](../amass/26-remove-duplicates-from-sorted-array/README.md)
 
 [31. 下一个排列](../amass/31-next-permutation/README.md)

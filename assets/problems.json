@@ -210,6 +210,16 @@
     "path": "../amass/23-merge-k-sorted-lists/README.md"
   },
   {
+    "id": 24,
+    "title": {
+      "cn": "两两交换链表中的节点",
+      "en": "24-swap-nodes-in-pairs"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/swap-nodes-in-pairs/",
+    "path": "../amass/24-swap-nodes-in-pairs/README.md"
+  },
+  {
     "id": 26,
     "title": {
       "cn": "删除有序数组中的重复项",

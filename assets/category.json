@@ -313,6 +313,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 24,
+        "title": "两两交换链表中的节点",
+        "path": "../amass/24-swap-nodes-in-pairs/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 94,
         "title": "二叉树的中序遍历",
         "path": "../amass/94-binary-tree-inorder-traversal/README.md",
@@ -369,6 +375,12 @@
         "id": 22,
         "title": "括号生成",
         "path": "../amass/22-generate-parentheses/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 24,
+        "title": "两两交换链表中的节点",
+        "path": "../amass/24-swap-nodes-in-pairs/README.md",
         "difficulty": "中等"
       },
       {
@@ -1905,6 +1917,12 @@
         "difficulty": "困难"
       },
       {
+        "id": 24,
+        "title": "两两交换链表中的节点",
+        "path": "../amass/24-swap-nodes-in-pairs/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 82,
         "title": "删除排序链表中的重复元素 II",
         "path": "../amass/82-remove-duplicates-from-sorted-list-ii/README.md",
@@ -1941,6 +1959,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 160,
+        "title": "相交链表",
+        "path": "../amass/160-intersection-of-two-linked-lists/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 203,
         "title": "移除链表元素",
         "path": "../amass/203-remove-linked-list-elements/README.md",
@@ -1963,17 +1987,6 @@
         "title": "奇偶链表",
         "path": "../amass/328-odd-even-linked-list/README.md",
         "difficulty": "中等"
-      }
-    ]
-  },
-  {
-    "label": "链表",
-    "problems": [
-      {
-        "id": 160,
-        "title": "相交链表",
-        "path": "../amass/160-intersection-of-two-linked-lists/README.md",
-        "difficulty": "简单"
       }
     ]
   }
