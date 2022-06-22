@@ -186,6 +186,8 @@
 
 [200. 岛屿数量](../amass/200-number-of-islands/README.md)
 
+[203. 移除链表元素](../amass/203-remove-linked-list-elements/README.md)
+
 [206. 反转链表](../amass/206-reverse-linked-list/README.md)
 
 [207. 课程表](../amass/207-course-schedule/README.md)

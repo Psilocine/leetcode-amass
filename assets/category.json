@@ -1881,16 +1881,99 @@
     "label": "链表",
     "problems": [
       {
+        "id": 2,
+        "title": "两数相加",
+        "path": "../amass/2-add-two-numbers/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 19,
+        "title": "删除链表的倒数第 N 个结点",
+        "path": "../amass/19-remove-nth-node-from-end-of-list/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 21,
+        "title": "合并两个有序链表",
+        "path": "../amass/21-merge-two-sorted-lists/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 23,
+        "title": "合并K个升序链表",
+        "path": "../amass/23-merge-k-sorted-lists/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": 82,
+        "title": "删除排序链表中的重复元素 II",
+        "path": "../amass/82-remove-duplicates-from-sorted-list-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 92,
         "title": "反转链表 II",
         "path": "../amass/92-reverse-linked-list-ii/README.md",
         "difficulty": "中等"
       },
       {
+        "id": 141,
+        "title": "环形链表",
+        "path": "../amass/141-linked-list-cycle/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 142,
+        "title": "环形链表 II",
+        "path": "../amass/142-linked-list-cycle-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 143,
+        "title": "重排链表",
+        "path": "../amass/143-reorder-list/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 148,
+        "title": "排序链表",
+        "path": "../amass/148-sort-list/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 203,
+        "title": "移除链表元素",
+        "path": "../amass/203-remove-linked-list-elements/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 206,
+        "title": "反转链表",
+        "path": "../amass/206-reverse-linked-list/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 234,
+        "title": "回文链表",
+        "path": "../amass/234-palindrome-linked-list/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 328,
         "title": "奇偶链表",
         "path": "../amass/328-odd-even-linked-list/README.md",
         "difficulty": "中等"
+      }
+    ]
+  },
+  {
+    "label": "链表",
+    "problems": [
+      {
+        "id": 160,
+        "title": "相交链表",
+        "path": "../amass/160-intersection-of-two-linked-lists/README.md",
+        "difficulty": "简单"
       }
     ]
   }
