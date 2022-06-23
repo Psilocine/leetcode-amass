@@ -630,6 +630,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 701,
+        "title": "二叉搜索树中的插入操作",
+        "path": "../amass/701-insert-into-a-binary-search-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 912,
         "title": "排序数组",
         "path": "../amass/912-sort-an-array/README.md",
@@ -1629,6 +1635,12 @@
         "title": "二叉搜索树中的搜索",
         "path": "../amass/700-search-in-a-binary-search-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 701,
+        "title": "二叉搜索树中的插入操作",
+        "path": "../amass/701-insert-into-a-binary-search-tree/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 965,

@@ -1600,6 +1600,16 @@
     "path": "../amass/700-search-in-a-binary-search-tree/README.md"
   },
   {
+    "id": 701,
+    "title": {
+      "cn": "二叉搜索树中的插入操作",
+      "en": "701-insert-into-a-binary-search-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/insert-into-a-binary-search-tree/",
+    "path": "../amass/701-insert-into-a-binary-search-tree/README.md"
+  },
+  {
     "id": 704,
     "title": {
       "cn": " 二分查找",

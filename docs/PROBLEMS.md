@@ -320,6 +320,8 @@
 
 [700. 二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md)
 
+[701. 二叉搜索树中的插入操作](../amass/701-insert-into-a-binary-search-tree/README.md)
+
 [704.  二分查找](../amass/704-binary-search/README.md)
 
 [708. 循环有序列表的插入](../amass/708-insert-into-a-sorted-circular-linked-list/README.md)
