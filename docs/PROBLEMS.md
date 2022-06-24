@@ -226,6 +226,8 @@
 
 [253. 会议室 II](../amass/253-meeting-rooms-ii/README.md)
 
+[256. 粉刷房子](../amass/256-paint-house/README.md)
+
 [278. 第一个错误的版本](../amass/278-first-bad-version/README.md)
 
 [279. 完全平方数](../amass/279-perfect-squares/README.md)

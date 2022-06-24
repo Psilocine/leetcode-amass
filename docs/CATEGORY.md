@@ -149,6 +149,7 @@
 | 198. [打家劫舍](../amass/198-house-robber/README.md) | 中等 |
 | 213. [打家劫舍 II](../amass/213-house-robber-ii/README.md) | 中等 |
 | 221. [最大正方形](../amass/221-maximal-square/README.md) | 中等 |
+| 256. [粉刷房子](../amass/256-paint-house/README.md) | 中等 |
 | 279. [完全平方数](../amass/279-perfect-squares/README.md) | 中等 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |

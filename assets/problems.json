@@ -1130,6 +1130,16 @@
     "path": "../amass/253-meeting-rooms-ii/README.md"
   },
   {
+    "id": 256,
+    "title": {
+      "cn": "粉刷房子",
+      "en": "256-paint-house"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/paint-house/",
+    "path": "../amass/256-paint-house/README.md"
+  },
+  {
     "id": 278,
     "title": {
       "cn": "第一个错误的版本",
