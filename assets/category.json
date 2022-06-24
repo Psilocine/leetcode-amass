@@ -1270,6 +1270,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 45,
+        "title": "跳跃游戏 II",
+        "path": "../amass/45-jump-game-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 55,
         "title": "跳跃游戏",
         "path": "../amass/55-jump-game/README.md",

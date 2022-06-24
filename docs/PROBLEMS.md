@@ -68,6 +68,8 @@
 
 [43. 字符串相乘](../amass/43-multiply-strings/README.md)
 
+[45. 跳跃游戏 II](../amass/45-jump-game-ii/README.md)
+
 [46. 全排列](../amass/46-permutations/README.md)
 
 [47. 全排列 II](../amass/47-permutations-ii/README.md)

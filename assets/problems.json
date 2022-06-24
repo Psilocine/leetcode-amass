@@ -340,6 +340,16 @@
     "path": "../amass/43-multiply-strings/README.md"
   },
   {
+    "id": 45,
+    "title": {
+      "cn": "跳跃游戏 II",
+      "en": "45-jump-game-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/jump-game-ii/",
+    "path": "../amass/45-jump-game-ii/README.md"
+  },
+  {
     "id": 46,
     "title": {
       "cn": "全排列",

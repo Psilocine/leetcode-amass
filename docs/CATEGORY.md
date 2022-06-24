@@ -261,6 +261,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 5. [最长回文子串](../amass/5-longest-palindromic-substring/README.md) | 中等 |
+| 45. [跳跃游戏 II](../amass/45-jump-game-ii/README.md) | 中等 |
 | 55. [跳跃游戏](../amass/55-jump-game/README.md) | 中等 |
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
 | 455. [分发饼干](../amass/455-assign-cookies/README.md) | 简单 |
