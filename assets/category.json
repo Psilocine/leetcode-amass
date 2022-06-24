@@ -266,6 +266,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 515,
+        "title": "在每个树行中找最大值",
+        "path": "../amass/515-find-largest-value-in-each-tree-row/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 739,
         "title": "每日温度",
         "path": "../amass/739-daily-temperatures/README.md",
@@ -1610,6 +1616,12 @@
         "id": 508,
         "title": "出现次数最多的子树元素和",
         "path": "../amass/508-most-frequent-subtree-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 515,
+        "title": "在每个树行中找最大值",
+        "path": "../amass/515-find-largest-value-in-each-tree-row/README.md",
         "difficulty": "中等"
       },
       {

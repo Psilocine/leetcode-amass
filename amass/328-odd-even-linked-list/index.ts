@@ -1,9 +1,10 @@
 import { ListNode } from "~/utils/listNode";
 
 /**
- *
- * @param head
- * @returns
+ * 分离后遍历合并
+ * @desc 时间复杂度 O(n) 空间复杂度 O(1)
+ * @param head {ListNode | null}
+ * @returns {ListNode | null}
  */
 export function oddEvenList(head: ListNode | null): ListNode | null {
   if (!head || !head.next) {
@@ -26,8 +27,6 @@ export function oddEvenList(head: ListNode | null): ListNode | null {
     odd = odd.next;
     even = even.next;
   }
-
-  console.log(oddHead, evenHead);
 
   odd.next = evenHead;
 
