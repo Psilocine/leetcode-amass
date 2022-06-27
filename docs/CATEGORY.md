@@ -164,6 +164,7 @@
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
 | 714. [买卖股票的最佳时机含手续费](../amass/714-best-time-to-buy-and-sell-stock-with-transaction-fee/README.md) | 中等 |
 | 926. [将字符串翻转到单调递增](../amass/926-flip-string-to-monotone-increasing/README.md) | 中等 |
+| 1143. [最长公共子序列](../amass/1143-longest-common-subsequence/README.md) | 中等 |
 
 ## 分治
 
@@ -203,6 +204,7 @@
 | 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
 | 283. [移动零](../amass/283-move-zeroes/README.md) | 简单 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
+| 522. [最长特殊序列 II](../amass/522-longest-uncommon-subsequence-ii/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 | 633. [平方数之和](../amass/633-sum-of-square-numbers/README.md) | 中等 |
 | 680. [验证回文字符串 Ⅱ](../amass/680-valid-palindrome-ii/README.md) | 简单 |
@@ -266,6 +268,7 @@
 | 55. [跳跃游戏](../amass/55-jump-game/README.md) | 中等 |
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
 | 455. [分发饼干](../amass/455-assign-cookies/README.md) | 简单 |
+| 522. [最长特殊序列 II](../amass/522-longest-uncommon-subsequence-ii/README.md) | 中等 |
 
 ## 中间扩散
 

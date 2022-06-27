@@ -1510,6 +1510,16 @@
     "path": "../amass/515-find-largest-value-in-each-tree-row/README.md"
   },
   {
+    "id": 522,
+    "title": {
+      "cn": "最长特殊序列 II",
+      "en": "522-longest-uncommon-subsequence-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/longest-uncommon-subsequence-ii/",
+    "path": "../amass/522-longest-uncommon-subsequence-ii/README.md"
+  },
+  {
     "id": 532,
     "title": {
       "cn": "数组中的 k-diff 数对",
@@ -1848,5 +1858,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/defanging-an-ip-address/",
     "path": "../amass/1108-defanging-an-ip-address/README.md"
+  },
+  {
+    "id": 1143,
+    "title": {
+      "cn": "最长公共子序列",
+      "en": "1143-longest-common-subsequence"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/longest-common-subsequence/",
+    "path": "../amass/1143-longest-common-subsequence/README.md"
   }
 ]

@@ -302,6 +302,8 @@
 
 [515. 在每个树行中找最大值](../amass/515-find-largest-value-in-each-tree-row/README.md)
 
+[522. 最长特殊序列 II](../amass/522-longest-uncommon-subsequence-ii/README.md)
+
 [532. 数组中的 k-diff 数对](../amass/532-k-diff-pairs-in-an-array/README.md)
 
 [538. 把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md)
@@ -369,3 +371,5 @@
 [1089. 复写零](../amass/1089-duplicate-zeros/README.md)
 
 [1108. IP 地址无效化](../amass/1108-defanging-an-ip-address/README.md)
+
+[1143. 最长公共子序列](../amass/1143-longest-common-subsequence/README.md)
