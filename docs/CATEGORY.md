@@ -192,6 +192,7 @@
 | 18. [四数之和](../amass/18-4sum/README.md) | 中等 |
 | 19. [删除链表的倒数第 N 个结点](../amass/19-remove-nth-node-from-end-of-list/README.md) | 中等 |
 | 26. [删除有序数组中的重复项](../amass/26-remove-duplicates-from-sorted-array/README.md) | 简单 |
+| 27. [移除元素](../amass/27-remove-element/README.md) | 简单 |
 | 31. [下一个排列](../amass/31-next-permutation/README.md) | 中等 |
 | 42. [接雨水](../amass/42-trapping-rain-water/README.md) | 困难 |
 | 56. [合并区间](../amass/56-merge-intervals/README.md) | 中等 |
@@ -374,6 +375,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
+| 27. [移除元素](../amass/27-remove-element/README.md) | 简单 |
 | 82. [删除排序链表中的重复元素 II](../amass/82-remove-duplicates-from-sorted-list-ii/README.md) | 中等 |
 | 92. [反转链表 II](../amass/92-reverse-linked-list-ii/README.md) | 中等 |
 | 143. [重排链表](../amass/143-reorder-list/README.md) | 中等 |

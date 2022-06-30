@@ -956,6 +956,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 27,
+        "title": "移除元素",
+        "path": "../amass/27-remove-element/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 31,
         "title": "下一个排列",
         "path": "../amass/31-next-permutation/README.md",
@@ -1746,6 +1752,12 @@
         "title": "面试题 17.11. 单词距离",
         "path": "../amass/17.11-find-closest-lcci/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 27,
+        "title": "移除元素",
+        "path": "../amass/27-remove-element/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 82,
