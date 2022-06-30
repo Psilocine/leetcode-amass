@@ -2041,6 +2041,12 @@
         "title": "奇偶链表",
         "path": "../amass/328-odd-even-linked-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 707,
+        "title": "设计链表",
+        "path": "../amass/707-design-linked-list/README.md",
+        "difficulty": "中等"
       }
     ]
   }

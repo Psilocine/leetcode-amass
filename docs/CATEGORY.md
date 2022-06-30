@@ -444,3 +444,4 @@
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 | 234. [回文链表](../amass/234-palindrome-linked-list/README.md) | 简单 |
 | 328. [奇偶链表](../amass/328-odd-even-linked-list/README.md) | 中等 |
+| 707. [设计链表](../amass/707-design-linked-list/README.md) | 中等 |

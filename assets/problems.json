@@ -1660,6 +1660,16 @@
     "path": "../amass/704-binary-search/README.md"
   },
   {
+    "id": 707,
+    "title": {
+      "cn": "设计链表",
+      "en": "707-design-linked-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/design-linked-list/",
+    "path": "../amass/707-design-linked-list/README.md"
+  },
+  {
     "id": 708,
     "title": {
       "cn": "循环有序列表的插入",
