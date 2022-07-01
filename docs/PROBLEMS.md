@@ -192,6 +192,8 @@
 
 [200. 岛屿数量](../amass/200-number-of-islands/README.md)
 
+[202. 快乐数](../amass/202-happy-number/README.md)
+
 [203. 移除链表元素](../amass/203-remove-linked-list-elements/README.md)
 
 [206. 反转链表](../amass/206-reverse-linked-list/README.md)
@@ -261,6 +263,8 @@
 [338. 比特位计数](../amass/338-counting-bits/README.md)
 
 [347. 前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md)
+
+[349. 两个数组的交集](../amass/349-intersection-of-two-arrays/README.md)
 
 [374. 猜数字大小](../amass/374-guess-number-higher-or-lower/README.md)
 

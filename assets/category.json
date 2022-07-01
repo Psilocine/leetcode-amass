@@ -93,6 +93,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 202,
+        "title": "快乐数",
+        "path": "../amass/202-happy-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 208,
         "title": "实现 Trie (前缀树)",
         "path": "../amass/208-implement-trie-prefix-tree/README.md",
@@ -115,6 +121,12 @@
         "title": "前 K 个高频元素",
         "path": "../amass/347-top-k-frequent-elements/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 349,
+        "title": "两个数组的交集",
+        "path": "../amass/349-intersection-of-two-arrays/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 399,

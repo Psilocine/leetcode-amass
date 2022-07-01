@@ -19,10 +19,12 @@
 | 146. [LRU 缓存](../amass/146-lru-cache/README.md) | 中等 |
 | 160. [相交链表](../amass/160-intersection-of-two-linked-lists/README.md) | 简单 |
 | 169. [多数元素](../amass/169-majority-element/README.md) | 简单 |
+| 202. [快乐数](../amass/202-happy-number/README.md) | 简单 |
 | 208. [实现 Trie (前缀树)](../amass/208-implement-trie-prefix-tree/README.md) | 中等 |
 | 217. [存在重复元素](../amass/217-contains-duplicate/README.md) | 简单 |
 | 242. [有效的字母异位词](../amass/242-valid-anagram/README.md) | 简单 |
 | 347. [前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md) | 中等 |
+| 349. [两个数组的交集](../amass/349-intersection-of-two-arrays/README.md) | 简单 |
 | 399. [除法求值](../amass/399-evaluate-division/README.md) | 中等 |
 | 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
 | 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |

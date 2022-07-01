@@ -960,6 +960,16 @@
     "path": "../amass/200-number-of-islands/README.md"
   },
   {
+    "id": 202,
+    "title": {
+      "cn": "快乐数",
+      "en": "202-happy-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/happy-number/",
+    "path": "../amass/202-happy-number/README.md"
+  },
+  {
     "id": 203,
     "title": {
       "cn": "移除链表元素",
@@ -1308,6 +1318,16 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/top-k-frequent-elements/",
     "path": "../amass/347-top-k-frequent-elements/README.md"
+  },
+  {
+    "id": 349,
+    "title": {
+      "cn": "两个数组的交集",
+      "en": "349-intersection-of-two-arrays"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/intersection-of-two-arrays/",
+    "path": "../amass/349-intersection-of-two-arrays/README.md"
   },
   {
     "id": 374,
