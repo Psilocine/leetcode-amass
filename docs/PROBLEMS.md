@@ -224,6 +224,8 @@
 
 [240. 搜索二维矩阵 II](../amass/240-search-a-2d-matrix-ii/README.md)
 
+[242. 有效的字母异位词](../amass/242-valid-anagram/README.md)
+
 [252. 会议室](../amass/252-meeting-rooms/README.md)
 
 [253. 会议室 II](../amass/253-meeting-rooms-ii/README.md)

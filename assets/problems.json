@@ -1120,6 +1120,16 @@
     "path": "../amass/240-search-a-2d-matrix-ii/README.md"
   },
   {
+    "id": 242,
+    "title": {
+      "cn": "有效的字母异位词",
+      "en": "242-valid-anagram"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/valid-anagram/",
+    "path": "../amass/242-valid-anagram/README.md"
+  },
+  {
     "id": 252,
     "title": {
       "cn": "会议室",

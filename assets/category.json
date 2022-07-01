@@ -105,6 +105,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 242,
+        "title": "有效的字母异位词",
+        "path": "../amass/242-valid-anagram/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 347,
         "title": "前 K 个高频元素",
         "path": "../amass/347-top-k-frequent-elements/README.md",
