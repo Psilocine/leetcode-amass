@@ -1901,6 +1901,12 @@
     "label": "模拟",
     "problems": [
       {
+        "id": 6,
+        "title": "Z 字形变换",
+        "path": "../amass/6-zigzag-conversion/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 7,
         "title": "整数反转",
         "path": "../amass/7-reverse-integer/README.md",

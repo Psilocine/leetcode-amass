@@ -60,6 +60,16 @@
     "path": "../amass/5-longest-palindromic-substring/README.md"
   },
   {
+    "id": 6,
+    "title": {
+      "cn": "Z 字形变换",
+      "en": "6-zigzag-conversion"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/zigzag-conversion/",
+    "path": "../amass/6-zigzag-conversion/README.md"
+  },
+  {
     "id": 7,
     "title": {
       "cn": "整数反转",

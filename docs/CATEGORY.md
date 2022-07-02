@@ -412,6 +412,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 6. [Z 字形变换](../amass/6-zigzag-conversion/README.md) | 中等 |
 | 7. [整数反转](../amass/7-reverse-integer/README.md) | 中等 |
 | 13. [罗马数字转整数](../amass/13-roman-to-integer/README.md) | 简单 |
 | 14. [最长公共前缀](../amass/14-longest-common-prefix/README.md) | 简单 |
