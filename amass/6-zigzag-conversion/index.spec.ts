@@ -13,6 +13,11 @@ function testCase(fn: (s: string, numRows: number) => string) {
     ["PAYPALISHIRING", 3, "PAHNAPLSIIGYIR"],
     ["PAYPALISHIRING", 4, "PINALSIGYAHRPI"],
     ["A", 1, "A"],
+    [
+      "Apalindromeisaword,phrase,number,orothersequenceofunitsthatcanbereadthesamewayineitherdirection,withgeneralallowancesforadjustmentstopunctuationandworddividers.",
+      2,
+      "Aaidoeswr,haenme,rtesqecouishtabrateaeaietedrcinwtgnrlloacsoajsmnsoucutoadodiiesplnrmiaodprs,ubroohreunefnttacneedhsmwynihrieto,iheeaalwnefrdutettpntainnwrdvdr.",
+    ],
   ])("示例%#", (s, numRows, expected) => {
     expect(fn(s, numRows)).toBe(expected);
   });

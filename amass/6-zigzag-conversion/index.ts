@@ -24,8 +24,8 @@ export function convert(s: string, numRows: number): string {
   let res = "";
 
   for (let i = 0; i < rows.length; i++) {
-    res += rows[i].toString();
+    res += rows[i].join("");
   }
 
-  return res.split(",").join("");
+  return res.toString();
 }
