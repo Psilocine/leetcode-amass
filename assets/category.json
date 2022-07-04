@@ -1205,6 +1205,12 @@
         "title": "高度检查器",
         "path": "../amass/1051-height-checker//README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1200,
+        "title": "最小绝对差",
+        "path": "../amass/1200-minimum-absolute-difference/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -1854,6 +1860,12 @@
         "title": "IP 地址无效化",
         "path": "../amass/1108-defanging-an-ip-address/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1200,
+        "title": "最小绝对差",
+        "path": "../amass/1200-minimum-absolute-difference/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -1923,6 +1935,12 @@
         "title": "最长公共前缀",
         "path": "../amass/14-longest-common-prefix/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 25,
+        "title": "K 个一组翻转链表",
+        "path": "../amass/25-reverse-nodes-in-k-group/README.md",
+        "difficulty": "困难"
       },
       {
         "id": 54,
@@ -2011,6 +2029,12 @@
         "title": "两两交换链表中的节点",
         "path": "../amass/24-swap-nodes-in-pairs/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 25,
+        "title": "K 个一组翻转链表",
+        "path": "../amass/25-reverse-nodes-in-k-group/README.md",
+        "difficulty": "困难"
       },
       {
         "id": 82,

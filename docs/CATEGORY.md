@@ -238,6 +238,7 @@
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 | 719. [找出第 K 小的数对距离](../amass/719-find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
+| 1200. [最小绝对差](../amass/1200-minimum-absolute-difference/README.md) | 简单 |
 
 ## 数学
 
@@ -392,6 +393,7 @@
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
 | 1108. [IP 地址无效化](../amass/1108-defanging-an-ip-address/README.md) | 简单 |
+| 1200. [最小绝对差](../amass/1200-minimum-absolute-difference/README.md) | 简单 |
 
 ## Z字形查找
 
@@ -416,6 +418,7 @@
 | 7. [整数反转](../amass/7-reverse-integer/README.md) | 中等 |
 | 13. [罗马数字转整数](../amass/13-roman-to-integer/README.md) | 简单 |
 | 14. [最长公共前缀](../amass/14-longest-common-prefix/README.md) | 简单 |
+| 25. [K 个一组翻转链表](../amass/25-reverse-nodes-in-k-group/README.md) | 困难 |
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
@@ -439,6 +442,7 @@
 | 21. [合并两个有序链表](../amass/21-merge-two-sorted-lists/README.md) | 简单 |
 | 23. [合并K个升序链表](../amass/23-merge-k-sorted-lists/README.md) | 困难 |
 | 24. [两两交换链表中的节点](../amass/24-swap-nodes-in-pairs/README.md) | 中等 |
+| 25. [K 个一组翻转链表](../amass/25-reverse-nodes-in-k-group/README.md) | 困难 |
 | 82. [删除排序链表中的重复元素 II](../amass/82-remove-duplicates-from-sorted-list-ii/README.md) | 中等 |
 | 92. [反转链表 II](../amass/92-reverse-linked-list-ii/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |

@@ -46,6 +46,8 @@
 
 [24. 两两交换链表中的节点](../amass/24-swap-nodes-in-pairs/README.md)
 
+[25. K 个一组翻转链表](../amass/25-reverse-nodes-in-k-group/README.md)
+
 [26. 删除有序数组中的重复项](../amass/26-remove-duplicates-from-sorted-array/README.md)
 
 [27. 移除元素](../amass/27-remove-element/README.md)

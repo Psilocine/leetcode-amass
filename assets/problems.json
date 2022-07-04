@@ -230,6 +230,16 @@
     "path": "../amass/24-swap-nodes-in-pairs/README.md"
   },
   {
+    "id": 25,
+    "title": {
+      "cn": "K 个一组翻转链表",
+      "en": "25-reverse-nodes-in-k-group"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/reverse-nodes-in-k-group/",
+    "path": "../amass/25-reverse-nodes-in-k-group/README.md"
+  },
+  {
     "id": 26,
     "title": {
       "cn": "删除有序数组中的重复项",
