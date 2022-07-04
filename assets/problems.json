@@ -1928,5 +1928,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/longest-common-subsequence/",
     "path": "../amass/1143-longest-common-subsequence/README.md"
+  },
+  {
+    "id": 1200,
+    "title": {
+      "cn": "最小绝对差",
+      "en": "1200-minimum-absolute-difference"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-absolute-difference/",
+    "path": "../amass/1200-minimum-absolute-difference/README.md"
   }
 ]

@@ -385,3 +385,5 @@
 [1108. IP 地址无效化](../amass/1108-defanging-an-ip-address/README.md)
 
 [1143. 最长公共子序列](../amass/1143-longest-common-subsequence/README.md)
+
+[1200. 最小绝对差](../amass/1200-minimum-absolute-difference/README.md)
