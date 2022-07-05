@@ -389,3 +389,5 @@
 [1143. 最长公共子序列](../amass/1143-longest-common-subsequence/README.md)
 
 [1200. 最小绝对差](../amass/1200-minimum-absolute-difference/README.md)
+
+[9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)

@@ -1948,5 +1948,15 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/minimum-absolute-difference/",
     "path": "../amass/1200-minimum-absolute-difference/README.md"
+  },
+  {
+    "id": 9999.38,
+    "title": {
+      "cn": "字符串的排列",
+      "en": "9999.38-zi-fu-chuan-de-pai-lie-lcof"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/",
+    "path": "../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md"
   }
 ]

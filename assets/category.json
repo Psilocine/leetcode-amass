@@ -676,6 +676,12 @@
         "title": "从根到叶的二进制数之和",
         "path": "../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 9999.38,
+        "title": "字符串的排列",
+        "path": "../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1570,6 +1576,12 @@
         "id": 494,
         "title": "目标和",
         "path": "../amass/494-target-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 9999.38,
+        "title": "字符串的排列",
+        "path": "../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md",
         "difficulty": "中等"
       }
     ]

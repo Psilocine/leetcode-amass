@@ -129,6 +129,7 @@
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
+| 9999.38. [字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md) | 中等 |
 
 ## 动态规划
 
@@ -324,6 +325,7 @@
 | 301. [删除无效的括号](../amass/301-remove-invalid-parentheses/README.md) | 困难 |
 | 473. [火柴拼正方形](../amass/473-matchsticks-to-square/README.md) | 中等 |
 | 494. [目标和](../amass/494-target-sum/README.md) | 中等 |
+| 9999.38. [字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md) | 中等 |
 
 ## 归并排序
 
