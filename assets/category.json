@@ -1088,6 +1088,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 941,
+        "title": "有效的山脉数组",
+        "path": "../amass/941-valid-mountain-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 977,
         "title": "有序数组的平方",
         "path": "../amass/977-squares-of-a-sorted-array/README.md",

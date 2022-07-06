@@ -214,6 +214,7 @@
 | 633. [平方数之和](../amass/633-sum-of-square-numbers/README.md) | 中等 |
 | 680. [验证回文字符串 Ⅱ](../amass/680-valid-palindrome-ii/README.md) | 简单 |
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
+| 941. [有效的山脉数组](../amass/941-valid-mountain-array/README.md) | 简单 |
 | 977. [有序数组的平方](../amass/977-squares-of-a-sorted-array/README.md) | 简单 |
 
 ## 排序

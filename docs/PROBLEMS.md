@@ -368,6 +368,8 @@
 
 [929. 独特的电子邮件地址](../amass/929-unique-email-addresses/README.md)
 
+[941. 有效的山脉数组](../amass/941-valid-mountain-array/README.md)
+
 [953. 验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md)
 
 [961. 在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md)
