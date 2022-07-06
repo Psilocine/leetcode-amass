@@ -240,6 +240,7 @@
 | 719. [找出第 K 小的数对距离](../amass/719-find-k-th-smallest-pair-distance/README.md) | 困难 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 | 1200. [最小绝对差](../amass/1200-minimum-absolute-difference/README.md) | 简单 |
+| 1365. [有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | 简单 |
 
 ## 数学
 
@@ -396,6 +397,7 @@
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
 | 1108. [IP 地址无效化](../amass/1108-defanging-an-ip-address/README.md) | 简单 |
 | 1200. [最小绝对差](../amass/1200-minimum-absolute-difference/README.md) | 简单 |
+| 1365. [有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | 简单 |
 
 ## Z字形查找
 
