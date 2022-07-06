@@ -1960,6 +1960,16 @@
     "path": "../amass/1200-minimum-absolute-difference/README.md"
   },
   {
+    "id": 1207,
+    "title": {
+      "cn": "独一无二的出现次数",
+      "en": "1207-unique-number-of-occurrences"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/unique-number-of-occurrences/",
+    "path": "../amass/1207-unique-number-of-occurrences/README.md"
+  },
+  {
     "id": 1365,
     "title": {
       "cn": "有多少小于当前数字的数字",

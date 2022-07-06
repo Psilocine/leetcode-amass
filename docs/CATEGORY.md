@@ -34,6 +34,7 @@
 | 929. [独特的电子邮件地址](../amass/929-unique-email-addresses/README.md) | 简单 |
 | 953. [验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md) | 简单 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md) | 简单 |
+| 1207. [独一无二的出现次数](../amass/1207-unique-number-of-occurrences/README.md) | 简单 |
 
 ## 栈
 
@@ -398,6 +399,7 @@
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
 | 1108. [IP 地址无效化](../amass/1108-defanging-an-ip-address/README.md) | 简单 |
 | 1200. [最小绝对差](../amass/1200-minimum-absolute-difference/README.md) | 简单 |
+| 1207. [独一无二的出现次数](../amass/1207-unique-number-of-occurrences/README.md) | 简单 |
 | 1365. [有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | 简单 |
 
 ## Z字形查找

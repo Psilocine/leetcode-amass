@@ -181,6 +181,12 @@
         "title": "在长度 2N 的数组中找出重复 N 次的元素",
         "path": "../amass/961-n-repeated-element-in-size-2n-array/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1207,
+        "title": "独一无二的出现次数",
+        "path": "../amass/1207-unique-number-of-occurrences/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -1889,6 +1895,12 @@
         "id": 1200,
         "title": "最小绝对差",
         "path": "../amass/1200-minimum-absolute-difference/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1207,
+        "title": "独一无二的出现次数",
+        "path": "../amass/1207-unique-number-of-occurrences/README.md",
         "difficulty": "简单"
       },
       {

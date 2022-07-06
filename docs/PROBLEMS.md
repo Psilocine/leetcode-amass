@@ -392,6 +392,8 @@
 
 [1200. 最小绝对差](../amass/1200-minimum-absolute-difference/README.md)
 
+[1207. 独一无二的出现次数](../amass/1207-unique-number-of-occurrences/README.md)
+
 [1365. 有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)
