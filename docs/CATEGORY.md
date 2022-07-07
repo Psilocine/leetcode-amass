@@ -324,6 +324,7 @@
 | 78. [子集](../amass/78-subsets/README.md) | 中等 |
 | 79. [单词搜索](../amass/79-word-search/README.md) | 中等 |
 | 90. [子集 II](../amass/90-subsets-ii/README.md) | 中等 |
+| 93. [复原 IP 地址](../amass/93-restore-ip-addresses/README.md) | 中等 |
 | 216. [组合总和 III](../amass/216-combination-sum-iii/README.md) | 中等 |
 | 301. [删除无效的括号](../amass/301-remove-invalid-parentheses/README.md) | 困难 |
 | 473. [火柴拼正方形](../amass/473-matchsticks-to-square/README.md) | 中等 |

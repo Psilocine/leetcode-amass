@@ -130,6 +130,8 @@
 
 [92. 反转链表 II](../amass/92-reverse-linked-list-ii/README.md)
 
+[93. 复原 IP 地址](../amass/93-restore-ip-addresses/README.md)
+
 [94. 二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md)
 
 [96. 不同的二叉搜索树](../amass/96-unique-binary-search-trees/README.md)
