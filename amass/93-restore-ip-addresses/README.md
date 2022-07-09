@@ -55,7 +55,7 @@ export function restoreIpAddresses(s: string): string[] {
   if (n < 4 || n > 12) return ans;
 
   const backtrack = (subRes, start) => {
-    if (subRes.length === 4 && start === s.length) {
+    if (subRes.length === 4 && start === n) {
       ans.push(subRes.join("."));
       return;
     }
@@ -63,7 +63,7 @@ export function restoreIpAddresses(s: string): string[] {
     // 枚举出选择，三种切割长度
     for (let len = 1; len <= 3; len++) {
       // 加上要切的长度就越界，不能切这个长度
-      if (start + len - 1 >= s.length) return;
+      if (start + len - 1 >= n) return;
       // 不能切出'0x'、'0xx'
       if (len !== 1 && s[start] === "0") return;
 

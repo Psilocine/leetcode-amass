@@ -30,6 +30,7 @@
 | 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |
 | 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |
 | 752. [打开转盘锁](../amass/752-open-the-lock/README.md) | 中等 |
+| 873. [最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 890. [查找和替换模式](../amass/890-find-and-replace-pattern/README.md) | 中等 |
 | 929. [独特的电子邮件地址](../amass/929-unique-email-addresses/README.md) | 简单 |
 | 953. [验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md) | 简单 |
@@ -127,6 +128,7 @@
 | 654. [最大二叉树](../amass/654-maximum-binary-tree/README.md) | 中等 |
 | 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
 | 701. [二叉搜索树中的插入操作](../amass/701-insert-into-a-binary-search-tree/README.md) | 中等 |
+| 873. [最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
@@ -168,6 +170,7 @@
 | 494. [目标和](../amass/494-target-sum/README.md) | 中等 |
 | 647. [回文子串](../amass/647-palindromic-substrings/README.md) | 中等 |
 | 714. [买卖股票的最佳时机含手续费](../amass/714-best-time-to-buy-and-sell-stock-with-transaction-fee/README.md) | 中等 |
+| 873. [最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 926. [将字符串翻转到单调递增](../amass/926-flip-string-to-monotone-increasing/README.md) | 中等 |
 | 1143. [最长公共子序列](../amass/1143-longest-common-subsequence/README.md) | 中等 |
 
@@ -396,6 +399,7 @@
 | 468. [验证IP地址](../amass/468-validate-ip-address/README.md) | 中等 |
 | 708. [循环有序列表的插入](../amass/708-insert-into-a-sorted-circular-linked-list/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
+| 873. [最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
 | 1108. [IP 地址无效化](../amass/1108-defanging-an-ip-address/README.md) | 简单 |

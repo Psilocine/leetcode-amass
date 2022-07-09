@@ -360,6 +360,8 @@
 
 [794. 有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md)
 
+[873. 最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md)
+
 [875. 爱吃香蕉的珂珂](../amass/875-koko-eating-bananas/README.md)
 
 [890. 查找和替换模式](../amass/890-find-and-replace-pattern/README.md)

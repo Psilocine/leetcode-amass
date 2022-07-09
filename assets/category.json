@@ -159,6 +159,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 873,
+        "title": "最长的斐波那契子序列的长度",
+        "path": "../amass/873-length-of-longest-fibonacci-subsequence/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 890,
         "title": "查找和替换模式",
         "path": "../amass/890-find-and-replace-pattern/README.md",
@@ -666,6 +672,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 873,
+        "title": "最长的斐波那契子序列的长度",
+        "path": "../amass/873-length-of-longest-fibonacci-subsequence/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 912,
         "title": "排序数组",
         "path": "../amass/912-sort-an-array/README.md",
@@ -884,6 +896,12 @@
         "id": 714,
         "title": "买卖股票的最佳时机含手续费",
         "path": "../amass/714-best-time-to-buy-and-sell-stock-with-transaction-fee/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 873,
+        "title": "最长的斐波那契子序列的长度",
+        "path": "../amass/873-length-of-longest-fibonacci-subsequence/README.md",
         "difficulty": "中等"
       },
       {
@@ -1877,6 +1895,12 @@
         "id": 794,
         "title": "有效的井字游戏",
         "path": "../amass/794-valid-tic-tac-toe-state/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 873,
+        "title": "最长的斐波那契子序列的长度",
+        "path": "../amass/873-length-of-longest-fibonacci-subsequence/README.md",
         "difficulty": "中等"
       },
       {
