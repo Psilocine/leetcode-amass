@@ -271,6 +271,7 @@
 | 76. [最小覆盖子串](../amass/76-minimum-window-substring/README.md) | 困难 |
 | 209. [长度最小的子数组](../amass/209-minimum-size-subarray-sum/README.md) | 中等 |
 | 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |
+| 567. [字符串的排列](../amass/567-permutation-in-string/README.md) | 中等 |
 
 ## 贪心
 

@@ -1630,6 +1630,16 @@
     "path": "../amass/560-subarray-sum-equals-k/README.md"
   },
   {
+    "id": 567,
+    "title": {
+      "cn": "字符串的排列",
+      "en": "567-permutation-in-string"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/permutation-in-string/",
+    "path": "../amass/567-permutation-in-string/README.md"
+  },
+  {
     "id": 581,
     "title": {
       "cn": "最短无序连续子数组",

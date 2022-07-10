@@ -1353,6 +1353,12 @@
         "title": "找到字符串中所有字母异位词",
         "path": "../amass/438-find-all-anagrams-in-a-string/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 567,
+        "title": "字符串的排列",
+        "path": "../amass/567-permutation-in-string/README.md",
+        "difficulty": "中等"
       }
     ]
   },
