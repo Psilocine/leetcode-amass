@@ -400,4 +400,6 @@
 
 [1365. 有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md)
 
+[9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
+
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)

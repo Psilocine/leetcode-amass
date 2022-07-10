@@ -2000,6 +2000,16 @@
     "path": "../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md"
   },
   {
+    "id": 9999.05,
+    "title": {
+      "cn": "替换空格",
+      "en": "9999.05-ti-huan-kong-ge-lcof"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/ti-huan-kong-ge-lcof/",
+    "path": "../amass/9999.05-ti-huan-kong-ge-lcof/README.md"
+  },
+  {
     "id": 9999.38,
     "title": {
       "cn": "字符串的排列",

@@ -1122,6 +1122,12 @@
         "title": "有序数组的平方",
         "path": "../amass/977-squares-of-a-sorted-array/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 9999.05,
+        "title": "替换空格",
+        "path": "../amass/9999.05-ti-huan-kong-ge-lcof/README.md",
+        "difficulty": "简单"
       }
     ]
   },

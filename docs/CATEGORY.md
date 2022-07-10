@@ -220,6 +220,7 @@
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 941. [有效的山脉数组](../amass/941-valid-mountain-array/README.md) | 简单 |
 | 977. [有序数组的平方](../amass/977-squares-of-a-sorted-array/README.md) | 简单 |
+| 9999.05. [替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md) | 简单 |
 
 ## 排序
 
