@@ -1570,6 +1570,16 @@
     "path": "../amass/498-diagonal-traverse/README.md"
   },
   {
+    "id": 503,
+    "title": {
+      "cn": "下一个更大元素 II",
+      "en": "503-next-greater-element-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/next-greater-element-ii/",
+    "path": "../amass/503-next-greater-element-ii/README.md"
+  },
+  {
     "id": 508,
     "title": {
       "cn": "出现次数最多的子树元素和",

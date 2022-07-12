@@ -59,6 +59,7 @@
 | 394. [字符串解码](../amass/394-decode-string/README.md) | 中等 |
 | 399. [除法求值](../amass/399-evaluate-division/README.md) | 中等 |
 | 496. [下一个更大元素 I](../amass/496-next-greater-element-i/README.md) | 简单 |
+| 503. [下一个更大元素 II](../amass/503-next-greater-element-ii/README.md) | 中等 |
 | 515. [在每个树行中找最大值](../amass/515-find-largest-value-in-each-tree-row/README.md) | 中等 |
 | 739. [每日温度](../amass/739-daily-temperatures/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |

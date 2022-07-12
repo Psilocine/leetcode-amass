@@ -314,6 +314,8 @@
 
 [498. 对角线遍历](../amass/498-diagonal-traverse/README.md)
 
+[503. 下一个更大元素 II](../amass/503-next-greater-element-ii/README.md)
+
 [508. 出现次数最多的子树元素和](../amass/508-most-frequent-subtree-sum/README.md)
 
 [515. 在每个树行中找最大值](../amass/515-find-largest-value-in-each-tree-row/README.md)

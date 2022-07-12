@@ -308,6 +308,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 503,
+        "title": "下一个更大元素 II",
+        "path": "../amass/503-next-greater-element-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 515,
         "title": "在每个树行中找最大值",
         "path": "../amass/515-find-largest-value-in-each-tree-row/README.md",
