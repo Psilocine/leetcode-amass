@@ -28,6 +28,7 @@
 | 399. [除法求值](../amass/399-evaluate-division/README.md) | 中等 |
 | 437. [路径总和 III](../amass/437-path-sum-iii/README.md) | 中等 |
 | 438. [找到字符串中所有字母异位词](../amass/438-find-all-anagrams-in-a-string/README.md) | 中等 |
+| 496. [下一个更大元素 I](../amass/496-next-greater-element-i/README.md) | 简单 |
 | 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |
 | 752. [打开转盘锁](../amass/752-open-the-lock/README.md) | 中等 |
 | 873. [最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md) | 中等 |
@@ -57,6 +58,7 @@
 | 297. [二叉树的序列化与反序列化](../amass/297-serialize-and-deserialize-binary-tree/README.md) | 困难 |
 | 394. [字符串解码](../amass/394-decode-string/README.md) | 中等 |
 | 399. [除法求值](../amass/399-evaluate-division/README.md) | 中等 |
+| 496. [下一个更大元素 I](../amass/496-next-greater-element-i/README.md) | 简单 |
 | 515. [在每个树行中找最大值](../amass/515-find-largest-value-in-each-tree-row/README.md) | 中等 |
 | 739. [每日温度](../amass/739-daily-temperatures/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |

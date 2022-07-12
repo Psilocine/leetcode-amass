@@ -310,6 +310,8 @@
 
 [494. 目标和](../amass/494-target-sum/README.md)
 
+[496. 下一个更大元素 I](../amass/496-next-greater-element-i/README.md)
+
 [498. 对角线遍历](../amass/498-diagonal-traverse/README.md)
 
 [508. 出现次数最多的子树元素和](../amass/508-most-frequent-subtree-sum/README.md)

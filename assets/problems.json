@@ -1550,6 +1550,16 @@
     "path": "../amass/494-target-sum/README.md"
   },
   {
+    "id": 496,
+    "title": {
+      "cn": "下一个更大元素 I",
+      "en": "496-next-greater-element-i"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/next-greater-element-i/",
+    "path": "../amass/496-next-greater-element-i/README.md"
+  },
+  {
     "id": 498,
     "title": {
       "cn": "对角线遍历",

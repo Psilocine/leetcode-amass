@@ -147,6 +147,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 496,
+        "title": "下一个更大元素 I",
+        "path": "../amass/496-next-greater-element-i/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 560,
         "title": "和为 K 的子数组",
         "path": "../amass/560-subarray-sum-equals-k/README.md",
@@ -294,6 +300,12 @@
         "title": "除法求值",
         "path": "../amass/399-evaluate-division/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 496,
+        "title": "下一个更大元素 I",
+        "path": "../amass/496-next-greater-element-i/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 515,
