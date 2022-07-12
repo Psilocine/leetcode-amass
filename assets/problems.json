@@ -2000,6 +2000,16 @@
     "path": "../amass/1207-unique-number-of-occurrences/README.md"
   },
   {
+    "id": 1252,
+    "title": {
+      "cn": "奇数值单元格的数目",
+      "en": "1252-cells-with-odd-values-in-a-matrix"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/",
+    "path": "../amass/1252-cells-with-odd-values-in-a-matrix/README.md"
+  },
+  {
     "id": 1365,
     "title": {
       "cn": "有多少小于当前数字的数字",

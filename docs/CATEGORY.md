@@ -438,6 +438,7 @@
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
+| 1252. [奇数值单元格的数目](../amass/1252-cells-with-odd-values-in-a-matrix/README.md) | 简单 |
 
 ## 矩阵
 

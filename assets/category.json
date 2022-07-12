@@ -2055,6 +2055,12 @@
         "title": "有效的井字游戏",
         "path": "../amass/794-valid-tic-tac-toe-state/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1252,
+        "title": "奇数值单元格的数目",
+        "path": "../amass/1252-cells-with-odd-values-in-a-matrix/README.md",
+        "difficulty": "简单"
       }
     ]
   },
