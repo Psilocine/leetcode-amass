@@ -1418,6 +1418,12 @@
         "title": "最长特殊序列 II",
         "path": "../amass/522-longest-uncommon-subsequence-ii/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 605,
+        "title": "种花问题",
+        "path": "../amass/605-can-place-flowers/README.md",
+        "difficulty": "简单"
       }
     ]
   },

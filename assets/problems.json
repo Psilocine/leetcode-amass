@@ -1670,6 +1670,16 @@
     "path": "../amass/581-shortest-unsorted-continuous-subarray/README.md"
   },
   {
+    "id": 605,
+    "title": {
+      "cn": "种花问题",
+      "en": "605-can-place-flowers"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/can-place-flowers/",
+    "path": "../amass/605-can-place-flowers/README.md"
+  },
+  {
     "id": 617,
     "title": {
       "cn": "合并二叉树",

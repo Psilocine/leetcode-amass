@@ -286,6 +286,7 @@
 | 300. [最长递增子序列](../amass/300-longest-increasing-subsequence/README.md) | 中等 |
 | 455. [分发饼干](../amass/455-assign-cookies/README.md) | 简单 |
 | 522. [最长特殊序列 II](../amass/522-longest-uncommon-subsequence-ii/README.md) | 中等 |
+| 605. [种花问题](../amass/605-can-place-flowers/README.md) | 简单 |
 
 ## 中间扩散
 

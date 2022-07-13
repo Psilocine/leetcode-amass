@@ -334,6 +334,8 @@
 
 [581. 最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md)
 
+[605. 种花问题](../amass/605-can-place-flowers/README.md)
+
 [617. 合并二叉树](../amass/617-merge-two-binary-trees/README.md)
 
 [621. 任务调度器](../amass/621-task-scheduler/README.md)
