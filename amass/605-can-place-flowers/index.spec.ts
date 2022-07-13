@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 import { canPlaceFlowers } from ".";
 
 describe("种花问题", () => {
-  describe("canPlaceFlowers", () => {
+  describe("贪心", () => {
     testCase(canPlaceFlowers);
   });
 });

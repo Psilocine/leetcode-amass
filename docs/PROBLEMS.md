@@ -362,6 +362,8 @@
 
 [719. 找出第 K 小的数对距离](../amass/719-find-k-th-smallest-pair-distance/README.md)
 
+[735. 行星碰撞](../amass/735-asteroid-collision/README.md)
+
 [739. 每日温度](../amass/739-daily-temperatures/README.md)
 
 [752. 打开转盘锁](../amass/752-open-the-lock/README.md)

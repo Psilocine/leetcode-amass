@@ -61,6 +61,7 @@
 | 496. [下一个更大元素 I](../amass/496-next-greater-element-i/README.md) | 简单 |
 | 503. [下一个更大元素 II](../amass/503-next-greater-element-ii/README.md) | 中等 |
 | 515. [在每个树行中找最大值](../amass/515-find-largest-value-in-each-tree-row/README.md) | 中等 |
+| 735. [行星碰撞](../amass/735-asteroid-collision/README.md) | 中等 |
 | 739. [每日温度](../amass/739-daily-temperatures/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |

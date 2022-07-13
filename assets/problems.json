@@ -1810,6 +1810,16 @@
     "path": "../amass/719-find-k-th-smallest-pair-distance/README.md"
   },
   {
+    "id": 735,
+    "title": {
+      "cn": "行星碰撞",
+      "en": "735-asteroid-collision"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/asteroid-collision/",
+    "path": "../amass/735-asteroid-collision/README.md"
+  },
+  {
     "id": 739,
     "title": {
       "cn": "每日温度",

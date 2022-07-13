@@ -320,6 +320,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 735,
+        "title": "行星碰撞",
+        "path": "../amass/735-asteroid-collision/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 739,
         "title": "每日温度",
         "path": "../amass/739-daily-temperatures/README.md",
