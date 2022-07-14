@@ -1851,6 +1851,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 225,
+        "title": "用队列实现栈",
+        "path": "../amass/225-implement-stack-using-queues/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 239,
         "title": "滑动窗口最大值",
         "path": "../amass/239-sliding-window-maximum/README.md",
@@ -2067,6 +2073,12 @@
         "title": "螺旋矩阵 II",
         "path": "../amass/59-spiral-matrix-ii/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 225,
+        "title": "用队列实现栈",
+        "path": "../amass/225-implement-stack-using-queues/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 253,

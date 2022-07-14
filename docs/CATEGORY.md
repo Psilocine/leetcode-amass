@@ -387,6 +387,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 111. [二叉树的最小深度](../amass/111-minimum-depth-of-binary-tree/README.md) | 简单 |
+| 225. [用队列实现栈](../amass/225-implement-stack-using-queues/README.md) | 简单 |
 | 239. [滑动窗口最大值](../amass/239-sliding-window-maximum/README.md) | 困难 |
 | 752. [打开转盘锁](../amass/752-open-the-lock/README.md) | 中等 |
 
@@ -440,6 +441,7 @@
 | 25. [K 个一组翻转链表](../amass/25-reverse-nodes-in-k-group/README.md) | 困难 |
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |
+| 225. [用队列实现栈](../amass/225-implement-stack-using-queues/README.md) | 简单 |
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |

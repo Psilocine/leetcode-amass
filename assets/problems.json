@@ -1100,6 +1100,16 @@
     "path": "../amass/221-maximal-square/README.md"
   },
   {
+    "id": 225,
+    "title": {
+      "cn": "用队列实现栈",
+      "en": "225-implement-stack-using-queues"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/implement-stack-using-queues/",
+    "path": "../amass/225-implement-stack-using-queues/README.md"
+  },
+  {
     "id": 226,
     "title": {
       "cn": "翻转二叉树",

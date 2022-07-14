@@ -220,6 +220,8 @@
 
 [221. 最大正方形](../amass/221-maximal-square/README.md)
 
+[225. 用队列实现栈](../amass/225-implement-stack-using-queues/README.md)
+
 [226. 翻转二叉树](../amass/226-invert-binary-tree/README.md)
 
 [234. 回文链表](../amass/234-palindrome-linked-list/README.md)
