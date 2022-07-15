@@ -2075,6 +2075,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 66,
+        "title": "加一",
+        "path": "../amass/66-plus-one/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 225,
         "title": "用队列实现栈",
         "path": "../amass/225-implement-stack-using-queues/README.md",

@@ -100,6 +100,8 @@
 
 [64. 最小路径和](../amass/64-minimum-path-sum/README.md)
 
+[66. 加一](../amass/66-plus-one/README.md)
+
 [69. x 的平方根 ](../amass/69-sqrtx/README.md)
 
 [70. 爬楼梯](../amass/70-climbing-stairs/README.md)

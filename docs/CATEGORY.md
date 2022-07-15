@@ -441,6 +441,7 @@
 | 25. [K 个一组翻转链表](../amass/25-reverse-nodes-in-k-group/README.md) | 困难 |
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |
+| 66. [加一](../amass/66-plus-one/README.md) | 简单 |
 | 225. [用队列实现栈](../amass/225-implement-stack-using-queues/README.md) | 简单 |
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |

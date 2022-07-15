@@ -500,6 +500,16 @@
     "path": "../amass/64-minimum-path-sum/README.md"
   },
   {
+    "id": 66,
+    "title": {
+      "cn": "加一",
+      "en": "66-plus-one"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/plus-one/",
+    "path": "../amass/66-plus-one/README.md"
+  },
+  {
     "id": 69,
     "title": {
       "cn": "x 的平方根 ",
