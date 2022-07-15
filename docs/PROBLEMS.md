@@ -94,6 +94,8 @@
 
 [56. 合并区间](../amass/56-merge-intervals/README.md)
 
+[58. 最后一个单词的长度](../amass/58-length-of-last-word/README.md)
+
 [59. 螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md)
 
 [62. 不同路径](../amass/62-unique-paths/README.md)

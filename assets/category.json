@@ -1886,6 +1886,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 58,
+        "title": "最后一个单词的长度",
+        "path": "../amass/58-length-of-last-word/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 82,
         "title": "删除排序链表中的重复元素 II",
         "path": "../amass/82-remove-duplicates-from-sorted-list-ii/README.md",
@@ -2067,6 +2073,12 @@
         "title": "螺旋矩阵",
         "path": "../amass/54-spiral-matrix/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 58,
+        "title": "最后一个单词的长度",
+        "path": "../amass/58-length-of-last-word/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 59,

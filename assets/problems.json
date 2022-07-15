@@ -470,6 +470,16 @@
     "path": "../amass/56-merge-intervals/README.md"
   },
   {
+    "id": 58,
+    "title": {
+      "cn": "最后一个单词的长度",
+      "en": "58-length-of-last-word"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/length-of-last-word/",
+    "path": "../amass/58-length-of-last-word/README.md"
+  },
+  {
     "id": 59,
     "title": {
       "cn": "螺旋矩阵 II",
