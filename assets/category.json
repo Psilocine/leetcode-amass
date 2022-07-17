@@ -2111,6 +2111,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 565,
+        "title": "数组嵌套",
+        "path": "../amass/565-array-nesting/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 794,
         "title": "有效的井字游戏",
         "path": "../amass/794-valid-tic-tac-toe-state/README.md",

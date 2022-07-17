@@ -336,6 +336,8 @@
 
 [560. 和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md)
 
+[565. 数组嵌套](../amass/565-array-nesting/README.md)
+
 [567. 字符串的排列](../amass/567-permutation-in-string/README.md)
 
 [581. 最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md)

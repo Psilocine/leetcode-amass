@@ -1680,6 +1680,16 @@
     "path": "../amass/560-subarray-sum-equals-k/README.md"
   },
   {
+    "id": 565,
+    "title": {
+      "cn": "数组嵌套",
+      "en": "565-array-nesting"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/array-nesting/",
+    "path": "../amass/565-array-nesting/README.md"
+  },
+  {
     "id": 567,
     "title": {
       "cn": "字符串的排列",
