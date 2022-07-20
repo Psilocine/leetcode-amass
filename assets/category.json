@@ -147,6 +147,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 454,
+        "title": "四数相加 II",
+        "path": "../amass/454-4sum-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 496,
         "title": "下一个更大元素 I",
         "path": "../amass/496-next-greater-element-i/README.md",
