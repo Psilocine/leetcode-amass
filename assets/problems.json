@@ -2100,6 +2100,16 @@
     "path": "../amass/1252-cells-with-odd-values-in-a-matrix/README.md"
   },
   {
+    "id": 1260,
+    "title": {
+      "cn": "二维网格迁移",
+      "en": "1260-shift-2d-grid"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/shift-2d-grid/",
+    "path": "../amass/1260-shift-2d-grid/README.md"
+  },
+  {
     "id": 1365,
     "title": {
       "cn": "有多少小于当前数字的数字",

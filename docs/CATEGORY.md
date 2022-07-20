@@ -451,6 +451,7 @@
 | 565. [数组嵌套](../amass/565-array-nesting/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
 | 1252. [奇数值单元格的数目](../amass/1252-cells-with-odd-values-in-a-matrix/README.md) | 简单 |
+| 1260. [二维网格迁移](../amass/1260-shift-2d-grid/README.md) | 简单 |
 
 ## 矩阵
 
@@ -459,6 +460,7 @@
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
+| 1260. [二维网格迁移](../amass/1260-shift-2d-grid/README.md) | 简单 |
 
 ## 链表
 

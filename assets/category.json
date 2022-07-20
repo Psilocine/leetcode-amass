@@ -2133,6 +2133,12 @@
         "title": "奇数值单元格的数目",
         "path": "../amass/1252-cells-with-odd-values-in-a-matrix/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1260,
+        "title": "二维网格迁移",
+        "path": "../amass/1260-shift-2d-grid/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -2156,6 +2162,12 @@
         "title": "对角线遍历",
         "path": "../amass/498-diagonal-traverse/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1260,
+        "title": "二维网格迁移",
+        "path": "../amass/1260-shift-2d-grid/README.md",
+        "difficulty": "简单"
       }
     ]
   },

@@ -420,6 +420,8 @@
 
 [1252. 奇数值单元格的数目](../amass/1252-cells-with-odd-values-in-a-matrix/README.md)
 
+[1260. 二维网格迁移](../amass/1260-shift-2d-grid/README.md)
+
 [1365. 有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md)
 
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
