@@ -380,6 +380,8 @@
 
 [794. 有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md)
 
+[814. 二叉树剪枝](../amass/814-binary-tree-pruning/README.md)
+
 [873. 最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md)
 
 [875. 爱吃香蕉的珂珂](../amass/875-koko-eating-bananas/README.md)

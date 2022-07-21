@@ -1900,6 +1900,16 @@
     "path": "../amass/794-valid-tic-tac-toe-state/README.md"
   },
   {
+    "id": 814,
+    "title": {
+      "cn": "二叉树剪枝",
+      "en": "814-binary-tree-pruning"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/binary-tree-pruning/",
+    "path": "../amass/814-binary-tree-pruning/README.md"
+  },
+  {
     "id": 873,
     "title": {
       "cn": "最长的斐波那契子序列的长度",

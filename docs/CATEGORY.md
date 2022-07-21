@@ -133,6 +133,7 @@
 | 654. [最大二叉树](../amass/654-maximum-binary-tree/README.md) | 中等 |
 | 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
 | 701. [二叉搜索树中的插入操作](../amass/701-insert-into-a-binary-search-tree/README.md) | 中等 |
+| 814. [二叉树剪枝](../amass/814-binary-tree-pruning/README.md) | 中等 |
 | 873. [最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
@@ -373,6 +374,7 @@
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
 | 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
 | 701. [二叉搜索树中的插入操作](../amass/701-insert-into-a-binary-search-tree/README.md) | 中等 |
+| 814. [二叉树剪枝](../amass/814-binary-tree-pruning/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 

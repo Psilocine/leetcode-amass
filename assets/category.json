@@ -702,6 +702,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 814,
+        "title": "二叉树剪枝",
+        "path": "../amass/814-binary-tree-pruning/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 873,
         "title": "最长的斐波那契子序列的长度",
         "path": "../amass/873-length-of-longest-fibonacci-subsequence/README.md",
@@ -1814,6 +1820,12 @@
         "id": 701,
         "title": "二叉搜索树中的插入操作",
         "path": "../amass/701-insert-into-a-binary-search-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": 814,
+        "title": "二叉树剪枝",
+        "path": "../amass/814-binary-tree-pruning/README.md",
         "difficulty": "中等"
       },
       {
