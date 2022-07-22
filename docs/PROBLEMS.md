@@ -52,6 +52,8 @@
 
 [27. 移除元素](../amass/27-remove-element/README.md)
 
+[28. 实现 strStr()](../amass/28-implement-strstr/README.md)
+
 [31. 下一个排列](../amass/31-next-permutation/README.md)
 
 [32. 最长有效括号](../amass/32-longest-valid-parentheses/README.md)

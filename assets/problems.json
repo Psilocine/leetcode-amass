@@ -260,6 +260,16 @@
     "path": "../amass/27-remove-element/README.md"
   },
   {
+    "id": 28,
+    "title": {
+      "cn": "实现 strStr()",
+      "en": "28-implement-strstr"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/implement-strstr/",
+    "path": "../amass/28-implement-strstr/README.md"
+  },
+  {
     "id": 31,
     "title": {
       "cn": "下一个排列",

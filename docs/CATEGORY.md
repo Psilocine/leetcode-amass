@@ -429,6 +429,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 28. [实现 strStr()](../amass/28-implement-strstr/README.md) | 简单 |
 | 209. [长度最小的子数组](../amass/209-minimum-size-subarray-sum/README.md) | 中等 |
 | 238. [除自身以外数组的乘积](../amass/238-product-of-array-except-self/README.md) | 中等 |
 | 303. [区域和检索 - 数组不可变](../amass/303-range-sum-query-immutable/README.md) | 简单 |

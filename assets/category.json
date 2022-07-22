@@ -2028,6 +2028,12 @@
     "label": "前缀和",
     "problems": [
       {
+        "id": 28,
+        "title": "实现 strStr()",
+        "path": "../amass/28-implement-strstr/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 209,
         "title": "长度最小的子数组",
         "path": "../amass/209-minimum-size-subarray-sum/README.md",
