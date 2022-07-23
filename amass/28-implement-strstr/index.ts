@@ -24,7 +24,7 @@ export function strStr(haystack: string, needle: string): number {
 }
 
 /**
- * KMP 算法 TODO
+ * KMP 算法
  * @desc 时间复杂度 O(n + m) 空间复杂度 O(m)
  * @param haystack {string}
  * @param needle {string}
@@ -37,21 +37,22 @@ export function strStr2(haystack: string, needle: string): number {
     return 0;
   }
 
-  const pi = new Array(m).fill(0);
+  const next = new Array(m).fill(0);
 
+  // 构建 next 前缀数组
   for (let i = 1, j = 0; i < m; i++) {
     while (j > 0 && needle[i] !== needle[j]) {
-      j = pi[j - 1];
+      j = next[j - 1];
     }
     if (needle[i] === needle[j]) {
       j++;
     }
-    pi[i] = j;
+    next[i] = j;
   }
 
   for (let i = 0, j = 0; i < n; i++) {
     while (j > 0 && haystack[i] !== needle[j]) {
-      j = pi[j - 1];
+      j = next[j - 1];
     }
     if (haystack[i] === needle[j]) {
       j++;
