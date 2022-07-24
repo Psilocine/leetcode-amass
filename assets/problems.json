@@ -2090,6 +2090,16 @@
     "path": "../amass/1143-longest-common-subsequence/README.md"
   },
   {
+    "id": 1184,
+    "title": {
+      "cn": "公交站间的距离",
+      "en": "1184-distance-between-bus-stops"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/distance-between-bus-stops/",
+    "path": "../amass/1184-distance-between-bus-stops/README.md"
+  },
+  {
     "id": 1200,
     "title": {
       "cn": "最小绝对差",

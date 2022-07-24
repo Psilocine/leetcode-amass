@@ -415,6 +415,7 @@
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
 | 1108. [IP 地址无效化](../amass/1108-defanging-an-ip-address/README.md) | 简单 |
+| 1184. [公交站间的距离](../amass/1184-distance-between-bus-stops/README.md) | 简单 |
 | 1200. [最小绝对差](../amass/1200-minimum-absolute-difference/README.md) | 简单 |
 | 1207. [独一无二的出现次数](../amass/1207-unique-number-of-occurrences/README.md) | 简单 |
 | 1365. [有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | 简单 |
@@ -453,6 +454,7 @@
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
 | 565. [数组嵌套](../amass/565-array-nesting/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
+| 1184. [公交站间的距离](../amass/1184-distance-between-bus-stops/README.md) | 简单 |
 | 1252. [奇数值单元格的数目](../amass/1252-cells-with-odd-values-in-a-matrix/README.md) | 简单 |
 | 1260. [二维网格迁移](../amass/1260-shift-2d-grid/README.md) | 简单 |
 
