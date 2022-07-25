@@ -1829,6 +1829,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 919,
+        "title": "完全二叉树插入器",
+        "path": "../amass/919-complete-binary-tree-inserter/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 965,
         "title": "单值二叉树",
         "path": "../amass/965-univalued-binary-tree/README.md",

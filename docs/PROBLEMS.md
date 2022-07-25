@@ -392,6 +392,8 @@
 
 [912. 排序数组](../amass/912-sort-an-array/README.md)
 
+[919. 完全二叉树插入器](../amass/919-complete-binary-tree-inserter/README.md)
+
 [926. 将字符串翻转到单调递增](../amass/926-flip-string-to-monotone-increasing/README.md)
 
 [929. 独特的电子邮件地址](../amass/929-unique-email-addresses/README.md)
