@@ -2150,6 +2150,16 @@
     "path": "../amass/1260-shift-2d-grid/README.md"
   },
   {
+    "id": 1331,
+    "title": {
+      "cn": "数组序号转换",
+      "en": "1331-rank-transform-of-an-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/rank-transform-of-an-array/",
+    "path": "../amass/1331-rank-transform-of-an-array/README.md"
+  },
+  {
     "id": 1365,
     "title": {
       "cn": "有多少小于当前数字的数字",

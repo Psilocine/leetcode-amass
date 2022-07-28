@@ -205,6 +205,12 @@
         "title": "独一无二的出现次数",
         "path": "../amass/1207-unique-number-of-occurrences/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1331,
+        "title": "数组序号转换",
+        "path": "../amass/1331-rank-transform-of-an-array/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -1288,6 +1294,12 @@
         "id": 1200,
         "title": "最小绝对差",
         "path": "../amass/1200-minimum-absolute-difference/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1331,
+        "title": "数组序号转换",
+        "path": "../amass/1331-rank-transform-of-an-array/README.md",
         "difficulty": "简单"
       },
       {
