@@ -456,6 +456,7 @@
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
 | 565. [数组嵌套](../amass/565-array-nesting/README.md) | 中等 |
+| 593. [有效的正方形](../amass/593-valid-square/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
 | 1184. [公交站间的距离](../amass/1184-distance-between-bus-stops/README.md) | 简单 |
 | 1252. [奇数值单元格的数目](../amass/1252-cells-with-odd-values-in-a-matrix/README.md) | 简单 |

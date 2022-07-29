@@ -1730,6 +1730,16 @@
     "path": "../amass/581-shortest-unsorted-continuous-subarray/README.md"
   },
   {
+    "id": 593,
+    "title": {
+      "cn": "有效的正方形",
+      "en": "593-valid-square"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/valid-square/",
+    "path": "../amass/593-valid-square/README.md"
+  },
+  {
     "id": 605,
     "title": {
       "cn": "种花问题",
