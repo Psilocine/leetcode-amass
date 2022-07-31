@@ -422,6 +422,8 @@
 
 [1143. 最长公共子序列](../amass/1143-longest-common-subsequence/README.md)
 
+[1161. 最大层内元素和](../amass/1161-maximum-level-sum-of-a-binary-tree/README.md)
+
 [1184. 公交站间的距离](../amass/1184-distance-between-bus-stops/README.md)
 
 [1200. 最小绝对差](../amass/1200-minimum-absolute-difference/README.md)

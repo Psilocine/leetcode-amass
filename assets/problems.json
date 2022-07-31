@@ -2110,6 +2110,16 @@
     "path": "../amass/1143-longest-common-subsequence/README.md"
   },
   {
+    "id": 1161,
+    "title": {
+      "cn": "最大层内元素和",
+      "en": "1161-maximum-level-sum-of-a-binary-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/",
+    "path": "../amass/1161-maximum-level-sum-of-a-binary-tree/README.md"
+  },
+  {
     "id": 1184,
     "title": {
       "cn": "公交站间的距离",
