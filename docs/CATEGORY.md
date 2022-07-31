@@ -67,6 +67,7 @@
 | 739. [每日温度](../amass/739-daily-temperatures/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
+| 1161. [最大层内元素和](../amass/1161-maximum-level-sum-of-a-binary-tree/README.md) | 中等 |
 
 ## 迭代
 
@@ -380,6 +381,7 @@
 | 919. [完全二叉树插入器](../amass/919-complete-binary-tree-inserter/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
+| 1161. [最大层内元素和](../amass/1161-maximum-level-sum-of-a-binary-tree/README.md) | 中等 |
 
 ## 快速排序
 

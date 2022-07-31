@@ -354,6 +354,12 @@
         "title": "复写零",
         "path": "../amass/1089-duplicate-zeros/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1161,
+        "title": "最大层内元素和",
+        "path": "../amass/1161-maximum-level-sum-of-a-binary-tree/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1857,6 +1863,12 @@
         "title": "从根到叶的二进制数之和",
         "path": "../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1161,
+        "title": "最大层内元素和",
+        "path": "../amass/1161-maximum-level-sum-of-a-binary-tree/README.md",
+        "difficulty": "中等"
       }
     ]
   },
