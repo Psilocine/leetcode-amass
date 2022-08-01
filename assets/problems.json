@@ -2190,6 +2190,16 @@
     "path": "../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md"
   },
   {
+    "id": 1374,
+    "title": {
+      "cn": "生成每种字符都是奇数个的字符串",
+      "en": "1374-generate-a-string-with-characters-that-have-odd-counts"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/",
+    "path": "../amass/1374-generate-a-string-with-characters-that-have-odd-counts/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",

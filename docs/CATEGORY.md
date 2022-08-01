@@ -463,6 +463,7 @@
 | 1184. [公交站间的距离](../amass/1184-distance-between-bus-stops/README.md) | 简单 |
 | 1252. [奇数值单元格的数目](../amass/1252-cells-with-odd-values-in-a-matrix/README.md) | 简单 |
 | 1260. [二维网格迁移](../amass/1260-shift-2d-grid/README.md) | 简单 |
+| 1374. [生成每种字符都是奇数个的字符串](../amass/1374-generate-a-string-with-characters-that-have-odd-counts/README.md) | 简单 |
 
 ## 矩阵
 
