@@ -457,6 +457,7 @@
 | 225. [用队列实现栈](../amass/225-implement-stack-using-queues/README.md) | 简单 |
 | 253. [会议室 II](../amass/253-meeting-rooms-ii/README.md) | 中等 |
 | 498. [对角线遍历](../amass/498-diagonal-traverse/README.md) | 中等 |
+| 541. [反转字符串 II](../amass/541-reverse-string-ii/README.md) | 简单 |
 | 565. [数组嵌套](../amass/565-array-nesting/README.md) | 中等 |
 | 593. [有效的正方形](../amass/593-valid-square/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |

@@ -1680,6 +1680,16 @@
     "path": "../amass/538-convert-bst-to-greater-tree/README.md"
   },
   {
+    "id": 541,
+    "title": {
+      "cn": "反转字符串 II",
+      "en": "541-reverse-string-ii"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/reverse-string-ii/",
+    "path": "../amass/541-reverse-string-ii/README.md"
+  },
+  {
     "id": 543,
     "title": {
       "cn": "二叉树的直径",

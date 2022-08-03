@@ -2171,6 +2171,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 541,
+        "title": "反转字符串 II",
+        "path": "../amass/541-reverse-string-ii/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 565,
         "title": "数组嵌套",
         "path": "../amass/565-array-nesting/README.md",
