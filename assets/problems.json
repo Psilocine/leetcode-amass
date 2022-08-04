@@ -2210,6 +2210,16 @@
     "path": "../amass/1374-generate-a-string-with-characters-that-have-odd-counts/README.md"
   },
   {
+    "id": 1403,
+    "title": {
+      "cn": "非递增顺序的最小子序列",
+      "en": "1403-minimum-subsequence-in-non-increasing-order"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/",
+    "path": "../amass/1403-minimum-subsequence-in-non-increasing-order/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",

@@ -256,6 +256,7 @@
 | 1200. [最小绝对差](../amass/1200-minimum-absolute-difference/README.md) | 简单 |
 | 1331. [数组序号转换](../amass/1331-rank-transform-of-an-array/README.md) | 简单 |
 | 1365. [有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | 简单 |
+| 1403. [非递增顺序的最小子序列](../amass/1403-minimum-subsequence-in-non-increasing-order/README.md) | 简单 |
 
 ## 数学
 
@@ -424,6 +425,7 @@
 | 1200. [最小绝对差](../amass/1200-minimum-absolute-difference/README.md) | 简单 |
 | 1207. [独一无二的出现次数](../amass/1207-unique-number-of-occurrences/README.md) | 简单 |
 | 1365. [有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | 简单 |
+| 1403. [非递增顺序的最小子序列](../amass/1403-minimum-subsequence-in-non-increasing-order/README.md) | 简单 |
 
 ## Z字形查找
 
