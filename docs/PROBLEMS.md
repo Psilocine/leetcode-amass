@@ -356,6 +356,8 @@
 
 [621. 任务调度器](../amass/621-task-scheduler/README.md)
 
+[623. 在二叉树中增加一行](../amass/623-add-one-row-to-tree/README.md)
+
 [633. 平方数之和](../amass/633-sum-of-square-numbers/README.md)
 
 [647. 回文子串](../amass/647-palindromic-substrings/README.md)

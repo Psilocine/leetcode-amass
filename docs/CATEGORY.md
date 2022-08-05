@@ -132,6 +132,7 @@
 | 538. [把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md) | 中等 |
 | 543. [二叉树的直径](../amass/543-diameter-of-binary-tree/README.md) | 简单 |
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
+| 623. [在二叉树中增加一行](../amass/623-add-one-row-to-tree/README.md) | 中等 |
 | 654. [最大二叉树](../amass/654-maximum-binary-tree/README.md) | 中等 |
 | 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
 | 701. [二叉搜索树中的插入操作](../amass/701-insert-into-a-binary-search-tree/README.md) | 中等 |
@@ -376,6 +377,7 @@
 | 538. [把二叉搜索树转换为累加树](../amass/538-convert-bst-to-greater-tree/README.md) | 中等 |
 | 543. [二叉树的直径](../amass/543-diameter-of-binary-tree/README.md) | 简单 |
 | 617. [合并二叉树](../amass/617-merge-two-binary-trees/README.md) | 简单 |
+| 623. [在二叉树中增加一行](../amass/623-add-one-row-to-tree/README.md) | 中等 |
 | 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
 | 701. [二叉搜索树中的插入操作](../amass/701-insert-into-a-binary-search-tree/README.md) | 中等 |
 | 814. [二叉树剪枝](../amass/814-binary-tree-pruning/README.md) | 中等 |

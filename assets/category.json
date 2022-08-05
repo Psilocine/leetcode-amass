@@ -696,6 +696,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 623,
+        "title": "在二叉树中增加一行",
+        "path": "../amass/623-add-one-row-to-tree/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 654,
         "title": "最大二叉树",
         "path": "../amass/654-maximum-binary-tree/README.md",
@@ -1833,6 +1839,12 @@
         "title": "合并二叉树",
         "path": "../amass/617-merge-two-binary-trees/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 623,
+        "title": "在二叉树中增加一行",
+        "path": "../amass/623-add-one-row-to-tree/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 700,

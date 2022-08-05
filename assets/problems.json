@@ -1780,6 +1780,16 @@
     "path": "../amass/621-task-scheduler/README.md"
   },
   {
+    "id": 623,
+    "title": {
+      "cn": "在二叉树中增加一行",
+      "en": "623-add-one-row-to-tree"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/add-one-row-to-tree/",
+    "path": "../amass/623-add-one-row-to-tree/README.md"
+  },
+  {
     "id": 633,
     "title": {
       "cn": "平方数之和",
