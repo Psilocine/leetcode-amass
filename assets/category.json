@@ -2241,6 +2241,12 @@
         "title": "生成每种字符都是奇数个的字符串",
         "path": "../amass/1374-generate-a-string-with-characters-that-have-odd-counts/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1408,
+        "title": "数组中的字符串匹配",
+        "path": "../amass/1408-string-matching-in-an-array/README.md",
+        "difficulty": "简单"
       }
     ]
   },

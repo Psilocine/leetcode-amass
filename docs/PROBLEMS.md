@@ -446,6 +446,8 @@
 
 [1403. 非递增顺序的最小子序列](../amass/1403-minimum-subsequence-in-non-increasing-order/README.md)
 
+[1408. 数组中的字符串匹配](../amass/1408-string-matching-in-an-array/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)
