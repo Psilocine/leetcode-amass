@@ -1136,6 +1136,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 344,
+        "title": "反转字符串",
+        "path": "../amass/344-reverse-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 522,
         "title": "最长特殊序列 II",
         "path": "../amass/522-longest-uncommon-subsequence-ii/README.md",

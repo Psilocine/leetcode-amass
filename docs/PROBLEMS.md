@@ -276,6 +276,8 @@
 
 [338. 比特位计数](../amass/338-counting-bits/README.md)
 
+[344. 反转字符串](../amass/344-reverse-string/README.md)
+
 [347. 前 K 个高频元素](../amass/347-top-k-frequent-elements/README.md)
 
 [349. 两个数组的交集](../amass/349-intersection-of-two-arrays/README.md)
