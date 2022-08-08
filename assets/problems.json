@@ -640,6 +640,16 @@
     "path": "../amass/82-remove-duplicates-from-sorted-list-ii/README.md"
   },
   {
+    "id": 83,
+    "title": {
+      "cn": "删除排序链表中的重复元素",
+      "en": "83-remove-duplicates-from-sorted-list"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/remove-duplicates-from-sorted-list/",
+    "path": "../amass/83-remove-duplicates-from-sorted-list/README.md"
+  },
+  {
     "id": 84,
     "title": {
       "cn": "柱状图中最大的矩形",

@@ -1970,6 +1970,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 83,
+        "title": "删除排序链表中的重复元素",
+        "path": "../amass/83-remove-duplicates-from-sorted-list/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 92,
         "title": "反转链表 II",
         "path": "../amass/92-reverse-linked-list-ii/README.md",
@@ -2329,6 +2335,12 @@
         "title": "删除排序链表中的重复元素 II",
         "path": "../amass/82-remove-duplicates-from-sorted-list-ii/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 83,
+        "title": "删除排序链表中的重复元素",
+        "path": "../amass/83-remove-duplicates-from-sorted-list/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 92,

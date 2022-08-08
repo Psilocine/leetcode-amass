@@ -128,6 +128,8 @@
 
 [82. 删除排序链表中的重复元素 II](../amass/82-remove-duplicates-from-sorted-list-ii/README.md)
 
+[83. 删除排序链表中的重复元素](../amass/83-remove-duplicates-from-sorted-list/README.md)
+
 [84. 柱状图中最大的矩形](../amass/84-largest-rectangle-in-histogram/README.md)
 
 [85. 最大矩形](../amass/85-maximal-rectangle/README.md)

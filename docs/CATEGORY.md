@@ -411,6 +411,7 @@
 | 27. [移除元素](../amass/27-remove-element/README.md) | 简单 |
 | 58. [最后一个单词的长度](../amass/58-length-of-last-word/README.md) | 简单 |
 | 82. [删除排序链表中的重复元素 II](../amass/82-remove-duplicates-from-sorted-list-ii/README.md) | 中等 |
+| 83. [删除排序链表中的重复元素](../amass/83-remove-duplicates-from-sorted-list/README.md) | 简单 |
 | 92. [反转链表 II](../amass/92-reverse-linked-list-ii/README.md) | 中等 |
 | 143. [重排链表](../amass/143-reorder-list/README.md) | 中等 |
 | 252. [会议室](../amass/252-meeting-rooms/README.md) | 简单 |
@@ -492,6 +493,7 @@
 | 24. [两两交换链表中的节点](../amass/24-swap-nodes-in-pairs/README.md) | 中等 |
 | 25. [K 个一组翻转链表](../amass/25-reverse-nodes-in-k-group/README.md) | 困难 |
 | 82. [删除排序链表中的重复元素 II](../amass/82-remove-duplicates-from-sorted-list-ii/README.md) | 中等 |
+| 83. [删除排序链表中的重复元素](../amass/83-remove-duplicates-from-sorted-list/README.md) | 简单 |
 | 92. [反转链表 II](../amass/92-reverse-linked-list-ii/README.md) | 中等 |
 | 141. [环形链表](../amass/141-linked-list-cycle/README.md) | 简单 |
 | 142. [环形链表 II](../amass/142-linked-list-cycle-ii/README.md) | 中等 |
