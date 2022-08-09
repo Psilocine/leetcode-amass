@@ -211,6 +211,12 @@
         "title": "数组序号转换",
         "path": "../amass/1331-rank-transform-of-an-array/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1413,
+        "title": "逐步求和得到正数的最小值",
+        "path": "../amass/1413-minimum-value-to-get-positive-step-by-step-sum/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -2128,6 +2134,12 @@
         "title": "和为 K 的子数组",
         "path": "../amass/560-subarray-sum-equals-k/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1413,
+        "title": "逐步求和得到正数的最小值",
+        "path": "../amass/1413-minimum-value-to-get-positive-step-by-step-sum/README.md",
+        "difficulty": "简单"
       }
     ]
   },

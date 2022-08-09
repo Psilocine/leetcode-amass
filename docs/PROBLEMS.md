@@ -452,6 +452,8 @@
 
 [1408. 数组中的字符串匹配](../amass/1408-string-matching-in-an-array/README.md)
 
+[1413. 逐步求和得到正数的最小值](../amass/1413-minimum-value-to-get-positive-step-by-step-sum/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)

@@ -39,6 +39,7 @@
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md) | 简单 |
 | 1207. [独一无二的出现次数](../amass/1207-unique-number-of-occurrences/README.md) | 简单 |
 | 1331. [数组序号转换](../amass/1331-rank-transform-of-an-array/README.md) | 简单 |
+| 1413. [逐步求和得到正数的最小值](../amass/1413-minimum-value-to-get-positive-step-by-step-sum/README.md) | 简单 |
 
 ## 栈
 
@@ -446,6 +447,7 @@
 | 238. [除自身以外数组的乘积](../amass/238-product-of-array-except-self/README.md) | 中等 |
 | 303. [区域和检索 - 数组不可变](../amass/303-range-sum-query-immutable/README.md) | 简单 |
 | 560. [和为 K 的子数组](../amass/560-subarray-sum-equals-k/README.md) | 中等 |
+| 1413. [逐步求和得到正数的最小值](../amass/1413-minimum-value-to-get-positive-step-by-step-sum/README.md) | 简单 |
 
 ## 模拟
 
