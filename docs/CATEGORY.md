@@ -410,6 +410,7 @@
 | ---- | ---- |
 | 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
 | 27. [移除元素](../amass/27-remove-element/README.md) | 简单 |
+| 38. [外观数列](../amass/38-count-and-say/README.md) | 中等 |
 | 58. [最后一个单词的长度](../amass/58-length-of-last-word/README.md) | 简单 |
 | 82. [删除排序链表中的重复元素 II](../amass/82-remove-duplicates-from-sorted-list-ii/README.md) | 中等 |
 | 83. [删除排序链表中的重复元素](../amass/83-remove-duplicates-from-sorted-list/README.md) | 简单 |
@@ -458,6 +459,7 @@
 | 13. [罗马数字转整数](../amass/13-roman-to-integer/README.md) | 简单 |
 | 14. [最长公共前缀](../amass/14-longest-common-prefix/README.md) | 简单 |
 | 25. [K 个一组翻转链表](../amass/25-reverse-nodes-in-k-group/README.md) | 困难 |
+| 38. [外观数列](../amass/38-count-and-say/README.md) | 中等 |
 | 54. [螺旋矩阵](../amass/54-spiral-matrix/README.md) | 中等 |
 | 58. [最后一个单词的长度](../amass/58-length-of-last-word/README.md) | 简单 |
 | 59. [螺旋矩阵 II](../amass/59-spiral-matrix-ii/README.md) | 中等 |

@@ -66,6 +66,8 @@
 
 [37. 解数独](../amass/37-sudoku-solver/README.md)
 
+[38. 外观数列](../amass/38-count-and-say/README.md)
+
 [39. 组合总和](../amass/39-combination-sum/README.md)
 
 [40. 组合总和 II](../amass/40-combination-sum-ii/README.md)

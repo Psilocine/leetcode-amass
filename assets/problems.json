@@ -330,6 +330,16 @@
     "path": "../amass/37-sudoku-solver/README.md"
   },
   {
+    "id": 38,
+    "title": {
+      "cn": "外观数列",
+      "en": "38-count-and-say"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/count-and-say/",
+    "path": "../amass/38-count-and-say/README.md"
+  },
+  {
     "id": 39,
     "title": {
       "cn": "组合总和",

@@ -1964,6 +1964,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 38,
+        "title": "外观数列",
+        "path": "../amass/38-count-and-say/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 58,
         "title": "最后一个单词的长度",
         "path": "../amass/58-length-of-last-word/README.md",
@@ -2175,6 +2181,12 @@
         "title": "K 个一组翻转链表",
         "path": "../amass/25-reverse-nodes-in-k-group/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 38,
+        "title": "外观数列",
+        "path": "../amass/38-count-and-say/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 54,
