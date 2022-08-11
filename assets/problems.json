@@ -2280,6 +2280,16 @@
     "path": "../amass/1413-minimum-value-to-get-positive-step-by-step-sum/README.md"
   },
   {
+    "id": 1417,
+    "title": {
+      "cn": "重新格式化字符串",
+      "en": "1417-reformat-the-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/reformat-the-string/",
+    "path": "../amass/1417-reformat-the-string/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",

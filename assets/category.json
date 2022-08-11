@@ -1190,6 +1190,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 1417,
+        "title": "重新格式化字符串",
+        "path": "../amass/1417-reformat-the-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 9999.05,
         "title": "替换空格",
         "path": "../amass/9999.05-ti-huan-kong-ge-lcof/README.md",
@@ -2094,6 +2100,12 @@
         "title": "非递增顺序的最小子序列",
         "path": "../amass/1403-minimum-subsequence-in-non-increasing-order/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1417,
+        "title": "重新格式化字符串",
+        "path": "../amass/1417-reformat-the-string/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -2282,6 +2294,12 @@
         "id": 1408,
         "title": "数组中的字符串匹配",
         "path": "../amass/1408-string-matching-in-an-array/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1417,
+        "title": "重新格式化字符串",
+        "path": "../amass/1417-reformat-the-string/README.md",
         "difficulty": "简单"
       }
     ]

@@ -231,6 +231,7 @@
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 941. [有效的山脉数组](../amass/941-valid-mountain-array/README.md) | 简单 |
 | 977. [有序数组的平方](../amass/977-squares-of-a-sorted-array/README.md) | 简单 |
+| 1417. [重新格式化字符串](../amass/1417-reformat-the-string/README.md) | 简单 |
 | 9999.05. [替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md) | 简单 |
 
 ## 排序
@@ -432,6 +433,7 @@
 | 1207. [独一无二的出现次数](../amass/1207-unique-number-of-occurrences/README.md) | 简单 |
 | 1365. [有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | 简单 |
 | 1403. [非递增顺序的最小子序列](../amass/1403-minimum-subsequence-in-non-increasing-order/README.md) | 简单 |
+| 1417. [重新格式化字符串](../amass/1417-reformat-the-string/README.md) | 简单 |
 
 ## Z字形查找
 
@@ -476,6 +478,7 @@
 | 1260. [二维网格迁移](../amass/1260-shift-2d-grid/README.md) | 简单 |
 | 1374. [生成每种字符都是奇数个的字符串](../amass/1374-generate-a-string-with-characters-that-have-odd-counts/README.md) | 简单 |
 | 1408. [数组中的字符串匹配](../amass/1408-string-matching-in-an-array/README.md) | 简单 |
+| 1417. [重新格式化字符串](../amass/1417-reformat-the-string/README.md) | 简单 |
 
 ## 矩阵
 

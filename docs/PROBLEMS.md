@@ -456,6 +456,8 @@
 
 [1413. 逐步求和得到正数的最小值](../amass/1413-minimum-value-to-get-positive-step-by-step-sum/README.md)
 
+[1417. 重新格式化字符串](../amass/1417-reformat-the-string/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)
