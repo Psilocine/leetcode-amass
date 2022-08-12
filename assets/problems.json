@@ -2220,6 +2220,16 @@
     "path": "../amass/1260-shift-2d-grid/README.md"
   },
   {
+    "id": 1282,
+    "title": {
+      "cn": "用户分组",
+      "en": "1282-group-the-people-given-the-group-size-they-belong-to"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/group-the-people-given-the-group-size-they-belong-to/",
+    "path": "../amass/1282-group-the-people-given-the-group-size-they-belong-to/README.md"
+  },
+  {
     "id": 1331,
     "title": {
       "cn": "数组序号转换",

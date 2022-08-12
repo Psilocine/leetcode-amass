@@ -444,6 +444,8 @@
 
 [1260. 二维网格迁移](../amass/1260-shift-2d-grid/README.md)
 
+[1282. 用户分组](../amass/1282-group-the-people-given-the-group-size-they-belong-to/README.md)
+
 [1331. 数组序号转换](../amass/1331-rank-transform-of-an-array/README.md)
 
 [1365. 有多少小于当前数字的数字](../amass/1365-how-many-numbers-are-smaller-than-the-current-number/README.md)

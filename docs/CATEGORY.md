@@ -38,6 +38,7 @@
 | 953. [验证外星语词典](../amass/953-verifying-an-alien-dictionary/README.md) | 简单 |
 | 961. [在长度 2N 的数组中找出重复 N 次的元素](../amass/961-n-repeated-element-in-size-2n-array/README.md) | 简单 |
 | 1207. [独一无二的出现次数](../amass/1207-unique-number-of-occurrences/README.md) | 简单 |
+| 1282. [用户分组](../amass/1282-group-the-people-given-the-group-size-they-belong-to/README.md) | 中等 |
 | 1331. [数组序号转换](../amass/1331-rank-transform-of-an-array/README.md) | 简单 |
 | 1413. [逐步求和得到正数的最小值](../amass/1413-minimum-value-to-get-positive-step-by-step-sum/README.md) | 简单 |
 
