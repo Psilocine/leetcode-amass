@@ -2112,6 +2112,12 @@
         "title": "重新格式化字符串",
         "path": "../amass/1417-reformat-the-string/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1422,
+        "title": "分割字符串的最大得分",
+        "path": "../amass/1422-maximum-score-after-splitting-a-string/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -2306,6 +2312,12 @@
         "id": 1417,
         "title": "重新格式化字符串",
         "path": "../amass/1417-reformat-the-string/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1422,
+        "title": "分割字符串的最大得分",
+        "path": "../amass/1422-maximum-score-after-splitting-a-string/README.md",
         "difficulty": "简单"
       }
     ]

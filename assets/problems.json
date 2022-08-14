@@ -2300,6 +2300,16 @@
     "path": "../amass/1417-reformat-the-string/README.md"
   },
   {
+    "id": 1422,
+    "title": {
+      "cn": "分割字符串的最大得分",
+      "en": "1422-maximum-score-after-splitting-a-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-score-after-splitting-a-string/",
+    "path": "../amass/1422-maximum-score-after-splitting-a-string/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",

@@ -460,6 +460,8 @@
 
 [1417. 重新格式化字符串](../amass/1417-reformat-the-string/README.md)
 
+[1422. 分割字符串的最大得分](../amass/1422-maximum-score-after-splitting-a-string/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)
