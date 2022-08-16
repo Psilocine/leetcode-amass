@@ -68,6 +68,7 @@
 | 735. [行星碰撞](../amass/735-asteroid-collision/README.md) | 中等 |
 | 739. [每日温度](../amass/739-daily-temperatures/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
+| 1047. [删除字符串中的所有相邻重复项](../amass/1047-remove-all-adjacent-duplicates-in-string/README.md) | 简单 |
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
 | 1161. [最大层内元素和](../amass/1161-maximum-level-sum-of-a-binary-tree/README.md) | 中等 |
 
@@ -405,6 +406,7 @@
 | 225. [用队列实现栈](../amass/225-implement-stack-using-queues/README.md) | 简单 |
 | 239. [滑动窗口最大值](../amass/239-sliding-window-maximum/README.md) | 困难 |
 | 752. [打开转盘锁](../amass/752-open-the-lock/README.md) | 中等 |
+| 1047. [删除字符串中的所有相邻重复项](../amass/1047-remove-all-adjacent-duplicates-in-string/README.md) | 简单 |
 
 ## 遍历
 

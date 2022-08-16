@@ -362,6 +362,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 1047,
+        "title": "删除字符串中的所有相邻重复项",
+        "path": "../amass/1047-remove-all-adjacent-duplicates-in-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 1089,
         "title": "复写零",
         "path": "../amass/1089-duplicate-zeros/README.md",
@@ -1957,6 +1963,12 @@
         "title": "打开转盘锁",
         "path": "../amass/752-open-the-lock/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1047,
+        "title": "删除字符串中的所有相邻重复项",
+        "path": "../amass/1047-remove-all-adjacent-duplicates-in-string/README.md",
+        "difficulty": "简单"
       }
     ]
   },

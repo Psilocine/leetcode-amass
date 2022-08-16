@@ -2120,6 +2120,16 @@
     "path": "../amass/1037-valid-boomerang/README.md"
   },
   {
+    "id": 1047,
+    "title": {
+      "cn": "删除字符串中的所有相邻重复项",
+      "en": "1047-remove-all-adjacent-duplicates-in-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/",
+    "path": "../amass/1047-remove-all-adjacent-duplicates-in-string/README.md"
+  },
+  {
     "id": 1051,
     "title": {
       "cn": "高度检查器",

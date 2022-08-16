@@ -424,6 +424,8 @@
 
 [1037. 有效的回旋镖](../amass/1037-valid-boomerang/README.md)
 
+[1047. 删除字符串中的所有相邻重复项](../amass/1047-remove-all-adjacent-duplicates-in-string/README.md)
+
 [1051. 高度检查器](../amass/1051-height-checker//README.md)
 
 [1089. 复写零](../amass/1089-duplicate-zeros/README.md)
