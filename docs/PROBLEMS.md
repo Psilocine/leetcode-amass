@@ -190,6 +190,8 @@
 
 [148. 排序链表](../amass/148-sort-list/README.md)
 
+[150. 逆波兰表达式求值](../amass/150-evaluate-reverse-polish-notation/README.md)
+
 [152. 乘积最大子数组](../amass/152-maximum-product-subarray/README.md)
 
 [153. 寻找旋转排序数组中的最小值](../amass/153-find-minimum-in-rotated-sorted-array/README.md)
@@ -447,6 +449,8 @@
 [1260. 二维网格迁移](../amass/1260-shift-2d-grid/README.md)
 
 [1282. 用户分组](../amass/1282-group-the-people-given-the-group-size-they-belong-to/README.md)
+
+[1302. 层数最深叶子节点的和](../amass/1302-deepest-leaves-sum/README.md)
 
 [1331. 数组序号转换](../amass/1331-rank-transform-of-an-array/README.md)
 

@@ -950,6 +950,16 @@
     "path": "../amass/148-sort-list/README.md"
   },
   {
+    "id": 150,
+    "title": {
+      "cn": "逆波兰表达式求值",
+      "en": "150-evaluate-reverse-polish-notation"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/evaluate-reverse-polish-notation/",
+    "path": "../amass/150-evaluate-reverse-polish-notation/README.md"
+  },
+  {
     "id": 152,
     "title": {
       "cn": "乘积最大子数组",
@@ -2238,6 +2248,16 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/group-the-people-given-the-group-size-they-belong-to/",
     "path": "../amass/1282-group-the-people-given-the-group-size-they-belong-to/README.md"
+  },
+  {
+    "id": 1302,
+    "title": {
+      "cn": "层数最深叶子节点的和",
+      "en": "1302-deepest-leaves-sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/deepest-leaves-sum/",
+    "path": "../amass/1302-deepest-leaves-sum/README.md"
   },
   {
     "id": 1331,

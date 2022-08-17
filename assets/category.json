@@ -290,6 +290,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 150,
+        "title": "逆波兰表达式求值",
+        "path": "../amass/150-evaluate-reverse-polish-notation/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 155,
         "title": "最小栈",
         "path": "../amass/155-min-stack/README.md",
@@ -766,6 +772,12 @@
         "title": "从根到叶的二进制数之和",
         "path": "../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1302,
+        "title": "层数最深叶子节点的和",
+        "path": "../amass/1302-deepest-leaves-sum/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 9999.38,
@@ -1917,6 +1929,12 @@
         "title": "最大层内元素和",
         "path": "../amass/1161-maximum-level-sum-of-a-binary-tree/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1302,
+        "title": "层数最深叶子节点的和",
+        "path": "../amass/1302-deepest-leaves-sum/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -1969,6 +1987,12 @@
         "title": "删除字符串中的所有相邻重复项",
         "path": "../amass/1047-remove-all-adjacent-duplicates-in-string/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1302,
+        "title": "层数最深叶子节点的和",
+        "path": "../amass/1302-deepest-leaves-sum/README.md",
+        "difficulty": "中等"
       }
     ]
   },

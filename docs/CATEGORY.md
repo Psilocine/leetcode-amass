@@ -56,6 +56,7 @@
 | 102. [二叉树的层序遍历](../amass/102-binary-tree-level-order-traversal/README.md) | 中等 |
 | 114. [二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md) | 中等 |
 | 144. [二叉树的前序遍历](../amass/144-binary-tree-preorder-traversal/README.md) | 简单 |
+| 150. [逆波兰表达式求值](../amass/150-evaluate-reverse-polish-notation/README.md) | 中等 |
 | 155. [最小栈](../amass/155-min-stack/README.md) | 简单 |
 | 207. [课程表](../amass/207-course-schedule/README.md) | 中等 |
 | 279. [完全平方数](../amass/279-perfect-squares/README.md) | 中等 |
@@ -144,6 +145,7 @@
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
+| 1302. [层数最深叶子节点的和](../amass/1302-deepest-leaves-sum/README.md) | 中等 |
 | 9999.38. [字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md) | 中等 |
 
 ## 动态规划
@@ -390,6 +392,7 @@
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 | 1161. [最大层内元素和](../amass/1161-maximum-level-sum-of-a-binary-tree/README.md) | 中等 |
+| 1302. [层数最深叶子节点的和](../amass/1302-deepest-leaves-sum/README.md) | 中等 |
 
 ## 快速排序
 
@@ -407,6 +410,7 @@
 | 239. [滑动窗口最大值](../amass/239-sliding-window-maximum/README.md) | 困难 |
 | 752. [打开转盘锁](../amass/752-open-the-lock/README.md) | 中等 |
 | 1047. [删除字符串中的所有相邻重复项](../amass/1047-remove-all-adjacent-duplicates-in-string/README.md) | 简单 |
+| 1302. [层数最深叶子节点的和](../amass/1302-deepest-leaves-sum/README.md) | 中等 |
 
 ## 遍历
 
