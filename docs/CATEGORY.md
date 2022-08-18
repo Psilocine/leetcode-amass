@@ -110,6 +110,7 @@
 | 90. [子集 II](../amass/90-subsets-ii/README.md) | 中等 |
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 98. [验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md) | 中等 |
+| 100. [相同的树](../amass/100-same-tree/README.md) | 简单 |
 | 101. [对称二叉树](../amass/101-symmetric-tree/README.md) | 简单 |
 | 102. [二叉树的层序遍历](../amass/102-binary-tree-level-order-traversal/README.md) | 中等 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
@@ -369,6 +370,7 @@
 | 94. [二叉树的中序遍历](../amass/94-binary-tree-inorder-traversal/README.md) | 简单 |
 | 96. [不同的二叉搜索树](../amass/96-unique-binary-search-trees/README.md) | 中等 |
 | 98. [验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md) | 中等 |
+| 100. [相同的树](../amass/100-same-tree/README.md) | 简单 |
 | 101. [对称二叉树](../amass/101-symmetric-tree/README.md) | 简单 |
 | 102. [二叉树的层序遍历](../amass/102-binary-tree-level-order-traversal/README.md) | 中等 |
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |

@@ -564,6 +564,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 100,
+        "title": "相同的树",
+        "path": "../amass/100-same-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 101,
         "title": "对称二叉树",
         "path": "../amass/101-symmetric-tree/README.md",
@@ -1791,6 +1797,12 @@
         "title": "验证二叉搜索树",
         "path": "../amass/98-validate-binary-search-tree/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 100,
+        "title": "相同的树",
+        "path": "../amass/100-same-tree/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 101,

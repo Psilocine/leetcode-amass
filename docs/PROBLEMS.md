@@ -148,6 +148,8 @@
 
 [98. 验证二叉搜索树](../amass/98-validate-binary-search-tree/README.md)
 
+[100. 相同的树](../amass/100-same-tree/README.md)
+
 [101. 对称二叉树](../amass/101-symmetric-tree/README.md)
 
 [102. 二叉树的层序遍历](../amass/102-binary-tree-level-order-traversal/README.md)
