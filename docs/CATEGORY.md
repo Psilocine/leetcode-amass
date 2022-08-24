@@ -41,6 +41,7 @@
 | 1282. [用户分组](../amass/1282-group-the-people-given-the-group-size-they-belong-to/README.md) | 中等 |
 | 1331. [数组序号转换](../amass/1331-rank-transform-of-an-array/README.md) | 简单 |
 | 1413. [逐步求和得到正数的最小值](../amass/1413-minimum-value-to-get-positive-step-by-step-sum/README.md) | 简单 |
+| 1460. [通过翻转子数组使两个数组相等](../amass/1460-make-two-arrays-equal-by-reversing-sub-arrays/README.md) | 简单 |
 
 ## 栈
 

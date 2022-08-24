@@ -27,3 +27,15 @@ export function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
   if (p.val != q.val) return false;
   return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
 }
+
+/**
+ * bfs
+ * @desc 时间复杂度 O(n) 空间复杂度 O(n)
+ * @param p {TreeNode | null}
+ * @param q {TreeNode | null}
+ * @returns boolean
+ */
+export function isSameTree2(p: TreeNode | null, q: TreeNode | null): boolean {
+  const queue = [];
+  
+}

@@ -470,6 +470,8 @@
 
 [1422. 分割字符串的最大得分](../amass/1422-maximum-score-after-splitting-a-string/README.md)
 
+[1460. 通过翻转子数组使两个数组相等](../amass/1460-make-two-arrays-equal-by-reversing-sub-arrays/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)
