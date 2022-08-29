@@ -445,6 +445,7 @@
 | 1403. [非递增顺序的最小子序列](../amass/1403-minimum-subsequence-in-non-increasing-order/README.md) | 简单 |
 | 1417. [重新格式化字符串](../amass/1417-reformat-the-string/README.md) | 简单 |
 | 1422. [分割字符串的最大得分](../amass/1422-maximum-score-after-splitting-a-string/README.md) | 简单 |
+| 1470. [重新排列数组](../amass/1470-shuffle-the-array/README.md) | 简单 |
 
 ## Z字形查找
 
@@ -491,6 +492,7 @@
 | 1408. [数组中的字符串匹配](../amass/1408-string-matching-in-an-array/README.md) | 简单 |
 | 1417. [重新格式化字符串](../amass/1417-reformat-the-string/README.md) | 简单 |
 | 1422. [分割字符串的最大得分](../amass/1422-maximum-score-after-splitting-a-string/README.md) | 简单 |
+| 1470. [重新排列数组](../amass/1470-shuffle-the-array/README.md) | 简单 |
 
 ## 矩阵
 

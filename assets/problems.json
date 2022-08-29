@@ -2360,6 +2360,16 @@
     "path": "../amass/1460-make-two-arrays-equal-by-reversing-sub-arrays/README.md"
   },
   {
+    "id": 1470,
+    "title": {
+      "cn": "重新排列数组",
+      "en": "1470-shuffle-the-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/shuffle-the-array/",
+    "path": "../amass/1470-shuffle-the-array/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",

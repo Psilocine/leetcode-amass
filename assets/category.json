@@ -2172,6 +2172,12 @@
         "title": "分割字符串的最大得分",
         "path": "../amass/1422-maximum-score-after-splitting-a-string/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1470,
+        "title": "重新排列数组",
+        "path": "../amass/1470-shuffle-the-array/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -2372,6 +2378,12 @@
         "id": 1422,
         "title": "分割字符串的最大得分",
         "path": "../amass/1422-maximum-score-after-splitting-a-string/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1470,
+        "title": "重新排列数组",
+        "path": "../amass/1470-shuffle-the-array/README.md",
         "difficulty": "简单"
       }
     ]
