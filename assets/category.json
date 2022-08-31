@@ -455,6 +455,12 @@
         "title": "二叉搜索树中的搜索",
         "path": "../amass/700-search-in-a-binary-search-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 998,
+        "title": "最大二叉树 II",
+        "path": "../amass/998-maximum-binary-tree-ii/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -778,6 +784,12 @@
         "title": "单值二叉树",
         "path": "../amass/965-univalued-binary-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 998,
+        "title": "最大二叉树 II",
+        "path": "../amass/998-maximum-binary-tree-ii/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 1022,
@@ -1935,6 +1947,12 @@
         "title": "单值二叉树",
         "path": "../amass/965-univalued-binary-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 998,
+        "title": "最大二叉树 II",
+        "path": "../amass/998-maximum-binary-tree-ii/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 1022,

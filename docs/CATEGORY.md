@@ -88,6 +88,7 @@
 | 104. [二叉树的最大深度](../amass/104-maximum-depth-of-binary-tree/README.md) | 简单 |
 | 206. [反转链表](../amass/206-reverse-linked-list/README.md) | 简单 |
 | 700. [二叉搜索树中的搜索](../amass/700-search-in-a-binary-search-tree/README.md) | 简单 |
+| 998. [最大二叉树 II](../amass/998-maximum-binary-tree-ii/README.md) | 中等 |
 
 ## 递归
 
@@ -146,6 +147,7 @@
 | 873. [最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
+| 998. [最大二叉树 II](../amass/998-maximum-binary-tree-ii/README.md) | 中等 |
 | 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 | 1302. [层数最深叶子节点的和](../amass/1302-deepest-leaves-sum/README.md) | 中等 |
 | 9999.38. [字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md) | 中等 |
@@ -393,6 +395,7 @@
 | 814. [二叉树剪枝](../amass/814-binary-tree-pruning/README.md) | 中等 |
 | 919. [完全二叉树插入器](../amass/919-complete-binary-tree-inserter/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
+| 998. [最大二叉树 II](../amass/998-maximum-binary-tree-ii/README.md) | 中等 |
 | 1022. [从根到叶的二进制数之和](../amass/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 简单 |
 | 1161. [最大层内元素和](../amass/1161-maximum-level-sum-of-a-binary-tree/README.md) | 中等 |
 | 1302. [层数最深叶子节点的和](../amass/1302-deepest-leaves-sum/README.md) | 中等 |

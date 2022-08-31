@@ -2120,6 +2120,16 @@
     "path": "../amass/977-squares-of-a-sorted-array/README.md"
   },
   {
+    "id": 998,
+    "title": {
+      "cn": "最大二叉树 II",
+      "en": "998-maximum-binary-tree-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-binary-tree-ii/",
+    "path": "../amass/998-maximum-binary-tree-ii/README.md"
+  },
+  {
     "id": 1022,
     "title": {
       "cn": "从根到叶的二进制数之和",
