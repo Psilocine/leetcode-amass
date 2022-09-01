@@ -73,6 +73,7 @@
 | 1047. [删除字符串中的所有相邻重复项](../amass/1047-remove-all-adjacent-duplicates-in-string/README.md) | 简单 |
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |
 | 1161. [最大层内元素和](../amass/1161-maximum-level-sum-of-a-binary-tree/README.md) | 中等 |
+| 1475. [商品折扣后的最终价格](../amass/1475-final-prices-with-a-special-discount-in-a-shop/README.md) | 简单 |
 
 ## 迭代
 

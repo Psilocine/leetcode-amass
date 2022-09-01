@@ -2380,6 +2380,16 @@
     "path": "../amass/1470-shuffle-the-array/README.md"
   },
   {
+    "id": 1475,
+    "title": {
+      "cn": "商品折扣后的最终价格",
+      "en": "1475-final-prices-with-a-special-discount-in-a-shop"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop/",
+    "path": "../amass/1475-final-prices-with-a-special-discount-in-a-shop/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",

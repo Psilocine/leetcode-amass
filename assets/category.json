@@ -390,6 +390,12 @@
         "title": "最大层内元素和",
         "path": "../amass/1161-maximum-level-sum-of-a-binary-tree/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1475,
+        "title": "商品折扣后的最终价格",
+        "path": "../amass/1475-final-prices-with-a-special-discount-in-a-shop/README.md",
+        "difficulty": "简单"
       }
     ]
   },

@@ -476,6 +476,8 @@
 
 [1470. 重新排列数组](../amass/1470-shuffle-the-array/README.md)
 
+[1475. 商品折扣后的最终价格](../amass/1475-final-prices-with-a-special-discount-in-a-shop/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)
