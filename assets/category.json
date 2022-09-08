@@ -2409,6 +2409,12 @@
         "title": "重新排列数组",
         "path": "../amass/1470-shuffle-the-array/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1582,
+        "title": "二进制矩阵中的特殊位置",
+        "path": "../amass/1582-special-positions-in-a-binary-matrix/README.md",
+        "difficulty": "简单"
       }
     ]
   },

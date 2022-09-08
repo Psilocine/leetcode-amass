@@ -497,6 +497,7 @@
 | 1417. [重新格式化字符串](../amass/1417-reformat-the-string/README.md) | 简单 |
 | 1422. [分割字符串的最大得分](../amass/1422-maximum-score-after-splitting-a-string/README.md) | 简单 |
 | 1470. [重新排列数组](../amass/1470-shuffle-the-array/README.md) | 简单 |
+| 1582. [二进制矩阵中的特殊位置](../amass/1582-special-positions-in-a-binary-matrix/README.md) | 简单 |
 
 ## 矩阵
 

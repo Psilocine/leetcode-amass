@@ -2390,6 +2390,16 @@
     "path": "../amass/1475-final-prices-with-a-special-discount-in-a-shop/README.md"
   },
   {
+    "id": 1582,
+    "title": {
+      "cn": "二进制矩阵中的特殊位置",
+      "en": "1582-special-positions-in-a-binary-matrix"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/special-positions-in-a-binary-matrix/",
+    "path": "../amass/1582-special-positions-in-a-binary-matrix/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",

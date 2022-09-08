@@ -478,6 +478,8 @@
 
 [1475. 商品折扣后的最终价格](../amass/1475-final-prices-with-a-special-discount-in-a-shop/README.md)
 
+[1582. 二进制矩阵中的特殊位置](../amass/1582-special-positions-in-a-binary-matrix/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)
