@@ -480,6 +480,8 @@
 
 [1582. 二进制矩阵中的特殊位置](../amass/1582-special-positions-in-a-binary-matrix/README.md)
 
+[1608. 特殊数组的特征值](../amass/1608-special-array-with-x-elements-greater-than-or-equal-x/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)

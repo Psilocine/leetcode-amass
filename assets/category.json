@@ -1397,6 +1397,12 @@
         "title": "非递增顺序的最小子序列",
         "path": "../amass/1403-minimum-subsequence-in-non-increasing-order/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1608,
+        "title": "特殊数组的特征值",
+        "path": "../amass/1608-special-array-with-x-elements-greater-than-or-equal-x/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -2201,6 +2207,12 @@
         "id": 1470,
         "title": "重新排列数组",
         "path": "../amass/1470-shuffle-the-array/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1608,
+        "title": "特殊数组的特征值",
+        "path": "../amass/1608-special-array-with-x-elements-greater-than-or-equal-x/README.md",
         "difficulty": "简单"
       }
     ]
