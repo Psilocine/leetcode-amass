@@ -2427,6 +2427,18 @@
         "title": "二进制矩阵中的特殊位置",
         "path": "../amass/1582-special-positions-in-a-binary-matrix/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1624,
+        "title": "两个相同字符之间的最长子字符串",
+        "path": "../amass/1624-largest-substring-between-two-equal-characters/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1636,
+        "title": "按照频率将数组升序排序",
+        "path": "../amass/1636-sort-array-by-increasing-frequency/README.md",
+        "difficulty": "简单"
       }
     ]
   },

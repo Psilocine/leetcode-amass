@@ -2410,6 +2410,26 @@
     "path": "../amass/1608-special-array-with-x-elements-greater-than-or-equal-x/README.md"
   },
   {
+    "id": 1624,
+    "title": {
+      "cn": "两个相同字符之间的最长子字符串",
+      "en": "1624-largest-substring-between-two-equal-characters"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/largest-substring-between-two-equal-characters/",
+    "path": "../amass/1624-largest-substring-between-two-equal-characters/README.md"
+  },
+  {
+    "id": 1636,
+    "title": {
+      "cn": "按照频率将数组升序排序",
+      "en": "1636-sort-array-by-increasing-frequency"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/sort-array-by-increasing-frequency/",
+    "path": "../amass/1636-sort-array-by-increasing-frequency/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",
