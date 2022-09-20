@@ -2429,6 +2429,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 1592,
+        "title": "重新排列单词间的空格",
+        "path": "../amass/1592-rearrange-spaces-between-words/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 1624,
         "title": "两个相同字符之间的最长子字符串",
         "path": "../amass/1624-largest-substring-between-two-equal-characters/README.md",

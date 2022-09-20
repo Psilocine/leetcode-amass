@@ -480,6 +480,8 @@
 
 [1582. 二进制矩阵中的特殊位置](../amass/1582-special-positions-in-a-binary-matrix/README.md)
 
+[1592. 重新排列单词间的空格](../amass/1592-rearrange-spaces-between-words/README.md)
+
 [1608. 特殊数组的特征值](../amass/1608-special-array-with-x-elements-greater-than-or-equal-x/README.md)
 
 [1624. 两个相同字符之间的最长子字符串](../amass/1624-largest-substring-between-two-equal-characters/README.md)
