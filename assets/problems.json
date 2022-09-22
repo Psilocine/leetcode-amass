@@ -2440,6 +2440,16 @@
     "path": "../amass/1636-sort-array-by-increasing-frequency/README.md"
   },
   {
+    "id": 1640,
+    "title": {
+      "cn": "能否连接形成数组",
+      "en": "1640-check-array-formation-through-concatenation"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-array-formation-through-concatenation/",
+    "path": "../amass/1640-check-array-formation-through-concatenation/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",

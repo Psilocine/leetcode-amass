@@ -488,6 +488,8 @@
 
 [1636. 按照频率将数组升序排序](../amass/1636-sort-array-by-increasing-frequency/README.md)
 
+[1640. 能否连接形成数组](../amass/1640-check-array-formation-through-concatenation/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)
