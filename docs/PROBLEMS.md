@@ -2,6 +2,8 @@
 
 [1. 两数之和](../amass/1-two-sum/README.md)
 
+[1.02. 判定是否互为字符重排](../amass/01.02-check-permutation-lcci/README.md)
+
 [2. 两数相加](../amass/2-add-two-numbers/README.md)
 
 [3. 无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md)

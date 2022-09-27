@@ -5,6 +5,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 1. [两数之和](../amass/1-two-sum/README.md) | 简单 |
+| 1.02. [判定是否互为字符重排](../amass/01.02-check-permutation-lcci/README.md) | 简单 |
 | 3. [无重复字符的最长子串](../amass/3-longest-substring-without-repeating-characters/README.md) | 中等 |
 | 22. [括号生成](../amass/22-generate-parentheses/README.md) | 中等 |
 | 26. [删除有序数组中的重复项](../amass/26-remove-duplicates-from-sorted-array/README.md) | 简单 |
@@ -248,6 +249,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 1.02. [判定是否互为字符重排](../amass/01.02-check-permutation-lcci/README.md) | 简单 |
 | 16. [最接近的三数之和](../amass/16-3sum-closest/README.md) | 中等 |
 | 18. [四数之和](../amass/18-4sum/README.md) | 中等 |
 | 49. [字母异位词分组](../amass/49-group-anagrams/README.md) | 中等 |

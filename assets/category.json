@@ -9,6 +9,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 1.02,
+        "title": "判定是否互为字符重排",
+        "path": "../amass/01.02-check-permutation-lcci/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 3,
         "title": "无重复字符的最长子串",
         "path": "../amass/3-longest-substring-without-repeating-characters/README.md",
@@ -1266,6 +1272,12 @@
   {
     "label": "排序",
     "problems": [
+      {
+        "id": 1.02,
+        "title": "判定是否互为字符重排",
+        "path": "../amass/01.02-check-permutation-lcci/README.md",
+        "difficulty": "简单"
+      },
       {
         "id": 16,
         "title": "最接近的三数之和",
