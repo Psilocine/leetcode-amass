@@ -2066,6 +2066,12 @@
     "label": "遍历",
     "problems": [
       {
+        "id": 1.09,
+        "title": "字符串轮转",
+        "path": "../amass/01.09-string-rotation-lcci/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 17.11,
         "title": "面试题 17.11. 单词距离",
         "path": "../amass/17.11-find-closest-lcci/README.md",

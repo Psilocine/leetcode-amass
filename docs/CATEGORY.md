@@ -427,6 +427,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 1.09. [字符串轮转](../amass/01.09-string-rotation-lcci/README.md) | 简单 |
 | 17.11. [面试题 17.11. 单词距离](../amass/17.11-find-closest-lcci/README.md) | 中等 |
 | 27. [移除元素](../amass/27-remove-element/README.md) | 简单 |
 | 38. [外观数列](../amass/38-count-and-say/README.md) | 中等 |

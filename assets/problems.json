@@ -20,6 +20,16 @@
     "path": "../amass/01.02-check-permutation-lcci/README.md"
   },
   {
+    "id": 1.09,
+    "title": {
+      "cn": "字符串轮转",
+      "en": "01.09-string-rotation-lcci"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/string-rotation-lcci/",
+    "path": "../amass/01.09-string-rotation-lcci/README.md"
+  },
+  {
     "id": 2,
     "title": {
       "cn": "两数相加",
