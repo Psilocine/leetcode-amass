@@ -494,6 +494,8 @@
 
 [1640. 能否连接形成数组](../amass/1640-check-array-formation-through-concatenation/README.md)
 
+[1694. 重新格式化电话号码](../amass/1694-reformat-phone-number/README.md)
+
 [9999.05. 替换空格](../amass/9999.05-ti-huan-kong-ge-lcof/README.md)
 
 [9999.38. 字符串的排列](../amass/9999.38-zi-fu-chuan-de-pai-lie-lcof/README.md)

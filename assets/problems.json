@@ -2470,6 +2470,16 @@
     "path": "../amass/1640-check-array-formation-through-concatenation/README.md"
   },
   {
+    "id": 1694,
+    "title": {
+      "cn": "重新格式化电话号码",
+      "en": "1694-reformat-phone-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/reformat-phone-number/",
+    "path": "../amass/1694-reformat-phone-number/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",
