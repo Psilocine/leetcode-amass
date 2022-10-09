@@ -71,6 +71,7 @@
 | 515. [在每个树行中找最大值](../amass/515-find-largest-value-in-each-tree-row/README.md) | 中等 |
 | 735. [行星碰撞](../amass/735-asteroid-collision/README.md) | 中等 |
 | 739. [每日温度](../amass/739-daily-temperatures/README.md) | 中等 |
+| 856. [括号的分数](../amass/856-score-of-parentheses/README.md) | 中等 |
 | 965. [单值二叉树](../amass/965-univalued-binary-tree/README.md) | 简单 |
 | 1047. [删除字符串中的所有相邻重复项](../amass/1047-remove-all-adjacent-duplicates-in-string/README.md) | 简单 |
 | 1089. [复写零](../amass/1089-duplicate-zeros/README.md) | 简单 |

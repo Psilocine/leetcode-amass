@@ -2020,6 +2020,16 @@
     "path": "../amass/814-binary-tree-pruning/README.md"
   },
   {
+    "id": 856,
+    "title": {
+      "cn": "括号的分数",
+      "en": "856-score-of-parentheses"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/score-of-parentheses/",
+    "path": "../amass/856-score-of-parentheses/README.md"
+  },
+  {
     "id": 873,
     "title": {
       "cn": "最长的斐波那契子序列的长度",
