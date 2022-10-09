@@ -240,6 +240,7 @@
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 | 633. [平方数之和](../amass/633-sum-of-square-numbers/README.md) | 中等 |
 | 680. [验证回文字符串 Ⅱ](../amass/680-valid-palindrome-ii/README.md) | 简单 |
+| 870. [优势洗牌](../amass/870-advantage-shuffle/README.md) | 中等 |
 | 912. [排序数组](../amass/912-sort-an-array/README.md) | 中等 |
 | 941. [有效的山脉数组](../amass/941-valid-mountain-array/README.md) | 简单 |
 | 977. [有序数组的平方](../amass/977-squares-of-a-sorted-array/README.md) | 简单 |
@@ -269,6 +270,7 @@
 | 532. [数组中的 k-diff 数对](../amass/532-k-diff-pairs-in-an-array/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 | 719. [找出第 K 小的数对距离](../amass/719-find-k-th-smallest-pair-distance/README.md) | 困难 |
+| 870. [优势洗牌](../amass/870-advantage-shuffle/README.md) | 中等 |
 | 1051. [高度检查器](../amass/1051-height-checker//README.md) | 简单 |
 | 1200. [最小绝对差](../amass/1200-minimum-absolute-difference/README.md) | 简单 |
 | 1331. [数组序号转换](../amass/1331-rank-transform-of-an-array/README.md) | 简单 |

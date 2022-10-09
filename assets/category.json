@@ -1244,6 +1244,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 870,
+        "title": "优势洗牌",
+        "path": "../amass/870-advantage-shuffle/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 912,
         "title": "排序数组",
         "path": "../amass/912-sort-an-array/README.md",
@@ -1391,6 +1397,12 @@
         "title": "找出第 K 小的数对距离",
         "path": "../amass/719-find-k-th-smallest-pair-distance/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": 870,
+        "title": "优势洗牌",
+        "path": "../amass/870-advantage-shuffle/README.md",
+        "difficulty": "中等"
       },
       {
         "id": 1051,

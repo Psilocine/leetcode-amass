@@ -406,6 +406,8 @@
 
 [856. 括号的分数](../amass/856-score-of-parentheses/README.md)
 
+[870. 优势洗牌](../amass/870-advantage-shuffle/README.md)
+
 [873. 最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md)
 
 [875. 爱吃香蕉的珂珂](../amass/875-koko-eating-bananas/README.md)

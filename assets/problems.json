@@ -2030,6 +2030,16 @@
     "path": "../amass/856-score-of-parentheses/README.md"
   },
   {
+    "id": 870,
+    "title": {
+      "cn": "优势洗牌",
+      "en": "870-advantage-shuffle"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/advantage-shuffle/",
+    "path": "../amass/870-advantage-shuffle/README.md"
+  },
+  {
     "id": 873,
     "title": {
       "cn": "最长的斐波那契子序列的长度",
