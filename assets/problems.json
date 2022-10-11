@@ -2500,6 +2500,16 @@
     "path": "../amass/1694-reformat-phone-number/README.md"
   },
   {
+    "id": 1790,
+    "title": {
+      "cn": "仅执行一次字符串交换能否使两个字符串相等",
+      "en": "1790-check-if-one-string-swap-can-make-strings-equal"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/",
+    "path": "../amass/1790-check-if-one-string-swap-can-make-strings-equal/README.md"
+  },
+  {
     "id": 9999.05,
     "title": {
       "cn": "替换空格",
