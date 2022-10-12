@@ -162,6 +162,8 @@
 
 [105. 从前序与中序遍历序列构造二叉树](../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md)
 
+[108. 将有序数组转换为二叉搜索树](../amass/108-convert-sorted-array-to-binary-search-tree/README.md)
+
 [111. 二叉树的最小深度](../amass/111-minimum-depth-of-binary-tree/README.md)
 
 [114. 二叉树展开为链表](../amass/114-flatten-binary-tree-to-linked-list/README.md)

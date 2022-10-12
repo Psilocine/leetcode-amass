@@ -810,6 +810,16 @@
     "path": "../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md"
   },
   {
+    "id": 108,
+    "title": {
+      "cn": "将有序数组转换为二叉搜索树",
+      "en": "108-convert-sorted-array-to-binary-search-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/",
+    "path": "../amass/108-convert-sorted-array-to-binary-search-tree/README.md"
+  },
+  {
     "id": 111,
     "title": {
       "cn": "二叉树的最小深度",

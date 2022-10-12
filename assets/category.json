@@ -630,6 +630,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 108,
+        "title": "将有序数组转换为二叉搜索树",
+        "path": "../amass/108-convert-sorted-array-to-binary-search-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": 111,
         "title": "二叉树的最小深度",
         "path": "../amass/111-minimum-depth-of-binary-tree/README.md",
@@ -1893,6 +1899,12 @@
         "title": "从前序与中序遍历序列构造二叉树",
         "path": "../amass/105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 108,
+        "title": "将有序数组转换为二叉搜索树",
+        "path": "../amass/108-convert-sorted-array-to-binary-search-tree/README.md",
+        "difficulty": "简单"
       },
       {
         "id": 111,
