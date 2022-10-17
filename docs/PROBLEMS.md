@@ -416,6 +416,8 @@
 
 [890. 查找和替换模式](../amass/890-find-and-replace-pattern/README.md)
 
+[904. 水果成篮](../amass/904-fruit-into-baskets/README.md)
+
 [912. 排序数组](../amass/912-sort-an-array/README.md)
 
 [919. 完全二叉树插入器](../amass/919-complete-binary-tree-inserter/README.md)

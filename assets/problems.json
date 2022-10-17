@@ -2080,6 +2080,16 @@
     "path": "../amass/890-find-and-replace-pattern/README.md"
   },
   {
+    "id": 904,
+    "title": {
+      "cn": "水果成篮",
+      "en": "904-fruit-into-baskets"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/fruit-into-baskets/",
+    "path": "../amass/904-fruit-into-baskets/README.md"
+  },
+  {
     "id": 912,
     "title": {
       "cn": "排序数组",
