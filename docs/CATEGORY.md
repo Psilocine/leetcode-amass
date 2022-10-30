@@ -512,6 +512,7 @@
 | 1592. [重新排列单词间的空格](../amass/1592-rearrange-spaces-between-words/README.md) | 简单 |
 | 1624. [两个相同字符之间的最长子字符串](../amass/1624-largest-substring-between-two-equal-characters/README.md) | 简单 |
 | 1636. [按照频率将数组升序排序](../amass/1636-sort-array-by-increasing-frequency/README.md) | 简单 |
+| 1773. [统计匹配检索规则的物品数量](../amass/1773-count-items-matching-a-rule/README.md) | 简单 |
 
 ## 矩阵
 

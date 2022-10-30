@@ -2499,6 +2499,12 @@
         "title": "按照频率将数组升序排序",
         "path": "../amass/1636-sort-array-by-increasing-frequency/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1773,
+        "title": "统计匹配检索规则的物品数量",
+        "path": "../amass/1773-count-items-matching-a-rule/README.md",
+        "difficulty": "简单"
       }
     ]
   },
