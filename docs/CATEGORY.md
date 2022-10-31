@@ -237,6 +237,7 @@
 | 283. [移动零](../amass/283-move-zeroes/README.md) | 简单 |
 | 287. [寻找重复数](../amass/287-find-the-duplicate-number/README.md) | 中等 |
 | 344. [反转字符串](../amass/344-reverse-string/README.md) | 简单 |
+| 481. [神奇字符串](../amass/481-magical-string/README.md) | 中等 |
 | 522. [最长特殊序列 II](../amass/522-longest-uncommon-subsequence-ii/README.md) | 中等 |
 | 581. [最短无序连续子数组](../amass/581-shortest-unsorted-continuous-subarray/README.md) | 中等 |
 | 633. [平方数之和](../amass/633-sum-of-square-numbers/README.md) | 中等 |

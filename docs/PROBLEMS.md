@@ -334,6 +334,8 @@
 
 [478. 在圆内随机生成点](../amass/478-generate-random-point-in-a-circle/README.md)
 
+[481. 神奇字符串](../amass/481-magical-string/README.md)
+
 [494. 目标和](../amass/494-target-sum/README.md)
 
 [496. 下一个更大元素 I](../amass/496-next-greater-element-i/README.md)

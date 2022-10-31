@@ -1670,6 +1670,16 @@
     "path": "../amass/478-generate-random-point-in-a-circle/README.md"
   },
   {
+    "id": 481,
+    "title": {
+      "cn": "神奇字符串",
+      "en": "481-magical-string"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/magical-string/",
+    "path": "../amass/481-magical-string/README.md"
+  },
+  {
     "id": 494,
     "title": {
       "cn": "目标和",

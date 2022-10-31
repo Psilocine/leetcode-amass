@@ -1226,6 +1226,12 @@
         "difficulty": "简单"
       },
       {
+        "id": 481,
+        "title": "神奇字符串",
+        "path": "../amass/481-magical-string/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 522,
         "title": "最长特殊序列 II",
         "path": "../amass/522-longest-uncommon-subsequence-ii/README.md",
