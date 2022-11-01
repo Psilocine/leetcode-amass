@@ -2520,6 +2520,16 @@
     "path": "../amass/1640-check-array-formation-through-concatenation/README.md"
   },
   {
+    "id": 1662,
+    "title": {
+      "cn": "检查两个字符串数组是否相等",
+      "en": "1662-check-if-two-string-arrays-are-equivalent"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/",
+    "path": "../amass/1662-check-if-two-string-arrays-are-equivalent/README.md"
+  },
+  {
     "id": 1694,
     "title": {
       "cn": "重新格式化电话号码",
