@@ -196,6 +196,7 @@
 | 873. [最长的斐波那契子序列的长度](../amass/873-length-of-longest-fibonacci-subsequence/README.md) | 中等 |
 | 926. [将字符串翻转到单调递增](../amass/926-flip-string-to-monotone-increasing/README.md) | 中等 |
 | 1143. [最长公共子序列](../amass/1143-longest-common-subsequence/README.md) | 中等 |
+| 1668. [最大重复子字符串](../amass/1668-maximum-repeating-substring/README.md) | 简单 |
 
 ## 分治
 

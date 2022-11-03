@@ -506,6 +506,8 @@
 
 [1662. 检查两个字符串数组是否相等](../amass/1662-check-if-two-string-arrays-are-equivalent/README.md)
 
+[1668. 最大重复子字符串](../amass/1668-maximum-repeating-substring/README.md)
+
 [1694. 重新格式化电话号码](../amass/1694-reformat-phone-number/README.md)
 
 [1773. 统计匹配检索规则的物品数量](../amass/1773-count-items-matching-a-rule/README.md)

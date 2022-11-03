@@ -2530,6 +2530,16 @@
     "path": "../amass/1662-check-if-two-string-arrays-are-equivalent/README.md"
   },
   {
+    "id": 1668,
+    "title": {
+      "cn": "最大重复子字符串",
+      "en": "1668-maximum-repeating-substring"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-repeating-substring/description/",
+    "path": "../amass/1668-maximum-repeating-substring/README.md"
+  },
+  {
     "id": 1694,
     "title": {
       "cn": "重新格式化电话号码",

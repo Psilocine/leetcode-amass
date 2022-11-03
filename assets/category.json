@@ -1053,6 +1053,12 @@
         "title": "最长公共子序列",
         "path": "../amass/1143-longest-common-subsequence/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": 1668,
+        "title": "最大重复子字符串",
+        "path": "../amass/1668-maximum-repeating-substring/README.md",
+        "difficulty": "简单"
       }
     ]
   },
