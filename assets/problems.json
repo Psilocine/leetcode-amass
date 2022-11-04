@@ -2020,6 +2020,16 @@
     "path": "../amass/752-open-the-lock/README.md"
   },
   {
+    "id": 754,
+    "title": {
+      "cn": "到达终点数字",
+      "en": "754-reach-a-number"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/reach-a-number/description/",
+    "path": "../amass/754-reach-a-number/README.md"
+  },
+  {
     "id": 794,
     "title": {
       "cn": "有效的井字游戏",
