@@ -503,6 +503,7 @@
 | 593. [有效的正方形](../amass/593-valid-square/README.md) | 中等 |
 | 754. [到达终点数字](../amass/754-reach-a-number/README.md) | 中等 |
 | 794. [有效的井字游戏](../amass/794-valid-tic-tac-toe-state/README.md) | 中等 |
+| 816. [模糊坐标](../amass/816-ambiguous-coordinates/README.md) | 中等 |
 | 1184. [公交站间的距离](../amass/1184-distance-between-bus-stops/README.md) | 简单 |
 | 1252. [奇数值单元格的数目](../amass/1252-cells-with-odd-values-in-a-matrix/README.md) | 简单 |
 | 1260. [二维网格迁移](../amass/1260-shift-2d-grid/README.md) | 简单 |
@@ -515,6 +516,7 @@
 | 1592. [重新排列单词间的空格](../amass/1592-rearrange-spaces-between-words/README.md) | 简单 |
 | 1624. [两个相同字符之间的最长子字符串](../amass/1624-largest-substring-between-two-equal-characters/README.md) | 简单 |
 | 1636. [按照频率将数组升序排序](../amass/1636-sort-array-by-increasing-frequency/README.md) | 简单 |
+| 1678. [设计 Goal 解析器](../amass/1678-goal-parser-interpretation/README.md) | 简单 |
 | 1773. [统计匹配检索规则的物品数量](../amass/1773-count-items-matching-a-rule/README.md) | 简单 |
 
 ## 矩阵

@@ -410,6 +410,8 @@
 
 [814. 二叉树剪枝](../amass/814-binary-tree-pruning/README.md)
 
+[816. 模糊坐标](../amass/816-ambiguous-coordinates/README.md)
+
 [856. 括号的分数](../amass/856-score-of-parentheses/README.md)
 
 [870. 优势洗牌](../amass/870-advantage-shuffle/README.md)
@@ -509,6 +511,8 @@
 [1662. 检查两个字符串数组是否相等](../amass/1662-check-if-two-string-arrays-are-equivalent/README.md)
 
 [1668. 最大重复子字符串](../amass/1668-maximum-repeating-substring/README.md)
+
+[1678. 设计 Goal 解析器](../amass/1678-goal-parser-interpretation/README.md)
 
 [1694. 重新格式化电话号码](../amass/1694-reformat-phone-number/README.md)
 

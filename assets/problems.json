@@ -2050,6 +2050,16 @@
     "path": "../amass/814-binary-tree-pruning/README.md"
   },
   {
+    "id": 816,
+    "title": {
+      "cn": "模糊坐标",
+      "en": "816-ambiguous-coordinates"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/ambiguous-coordinates/description/",
+    "path": "../amass/816-ambiguous-coordinates/README.md"
+  },
+  {
     "id": 856,
     "title": {
       "cn": "括号的分数",
@@ -2548,6 +2558,16 @@
     "difficulty": "简单",
     "url": "https://leetcode.cn/problems/maximum-repeating-substring/description/",
     "path": "../amass/1668-maximum-repeating-substring/README.md"
+  },
+  {
+    "id": 1678,
+    "title": {
+      "cn": "设计 Goal 解析器",
+      "en": "1678-goal-parser-interpretation"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/goal-parser-interpretation/description/",
+    "path": "../amass/1678-goal-parser-interpretation/README.md"
   },
   {
     "id": 1694,

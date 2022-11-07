@@ -2447,6 +2447,12 @@
         "difficulty": "中等"
       },
       {
+        "id": 816,
+        "title": "模糊坐标",
+        "path": "../amass/816-ambiguous-coordinates/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": 1184,
         "title": "公交站间的距离",
         "path": "../amass/1184-distance-between-bus-stops/README.md",
@@ -2516,6 +2522,12 @@
         "id": 1636,
         "title": "按照频率将数组升序排序",
         "path": "../amass/1636-sort-array-by-increasing-frequency/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": 1678,
+        "title": "设计 Goal 解析器",
+        "path": "../amass/1678-goal-parser-interpretation/README.md",
         "difficulty": "简单"
       },
       {
