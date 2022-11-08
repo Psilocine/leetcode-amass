@@ -241,6 +241,12 @@
         "title": "能否连接形成数组",
         "path": "../amass/1640-check-array-formation-through-concatenation/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": 1684,
+        "title": "统计一致字符串的数目",
+        "path": "../amass/1684-count-the-number-of-consistent-strings/README.md",
+        "difficulty": "简单"
       }
     ]
   },

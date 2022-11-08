@@ -514,6 +514,8 @@
 
 [1678. 设计 Goal 解析器](../amass/1678-goal-parser-interpretation/README.md)
 
+[1684. 统计一致字符串的数目](../amass/1684-count-the-number-of-consistent-strings/README.md)
+
 [1694. 重新格式化电话号码](../amass/1694-reformat-phone-number/README.md)
 
 [1773. 统计匹配检索规则的物品数量](../amass/1773-count-items-matching-a-rule/README.md)
