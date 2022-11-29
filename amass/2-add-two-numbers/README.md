@@ -48,9 +48,9 @@
 /**
  * 迭代
  * @desc 时间复杂度 O(max(m,n)) 空间复杂度 O(max(m n))
- * @param l1
- * @param l2
- * @returns
+ * @param l1 {ListNode | null}
+ * @param l2 {ListNode | null}
+ * @returns {ListNode | null}
  */
 export function addTwoNumbers(
   l1: ListNode | null,

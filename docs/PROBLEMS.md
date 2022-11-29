@@ -518,6 +518,8 @@
 
 [1694. 重新格式化电话号码](../amass/1694-reformat-phone-number/README.md)
 
+[1758. 生成交替二进制字符串的最少操作数](../amass/1758-minimum-changes-to-make-alternating-binary-string/README.md)
+
 [1773. 统计匹配检索规则的物品数量](../amass/1773-count-items-matching-a-rule/README.md)
 
 [1790. 仅执行一次字符串交换能否使两个字符串相等](../amass/1790-check-if-one-string-swap-can-make-strings-equal/README.md)

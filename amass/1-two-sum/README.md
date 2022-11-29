@@ -59,9 +59,9 @@ export function twoSum(nums: number[], target: number): number[] {
  * 哈希表
  * 
  * @desc 时间复杂度：O(n)，空间复杂度：O(n)
- * @param nums {Array<number>}
+ * @param nums {number[]}
  * @param target {number}
- * @return {Array<number>}
+ * @return {number[]}
  */
 export function twoSum2(nums: number[], target: number): number[] {
   const map = new Map();

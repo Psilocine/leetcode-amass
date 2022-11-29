@@ -2590,6 +2590,16 @@
     "path": "../amass/1694-reformat-phone-number/README.md"
   },
   {
+    "id": 1758,
+    "title": {
+      "cn": "生成交替二进制字符串的最少操作数",
+      "en": "1758-minimum-changes-to-make-alternating-binary-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-changes-to-make-alternating-binary-string/description/",
+    "path": "../amass/1758-minimum-changes-to-make-alternating-binary-string/README.md"
+  },
+  {
     "id": 1773,
     "title": {
       "cn": "统计匹配检索规则的物品数量",

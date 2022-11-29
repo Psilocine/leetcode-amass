@@ -518,6 +518,7 @@
 | 1624. [两个相同字符之间的最长子字符串](../amass/1624-largest-substring-between-two-equal-characters/README.md) | 简单 |
 | 1636. [按照频率将数组升序排序](../amass/1636-sort-array-by-increasing-frequency/README.md) | 简单 |
 | 1678. [设计 Goal 解析器](../amass/1678-goal-parser-interpretation/README.md) | 简单 |
+| 1758. [生成交替二进制字符串的最少操作数](../amass/1758-minimum-changes-to-make-alternating-binary-string/README.md) | 简单 |
 | 1773. [统计匹配检索规则的物品数量](../amass/1773-count-items-matching-a-rule/README.md) | 简单 |
 
 ## 矩阵
